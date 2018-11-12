@@ -1,6 +1,6 @@
 # Table of contents
 
-* [defdev.eu courses](README.md)
+* [secdev courses](README.md)
 
 ## courses
 
