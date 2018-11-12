@@ -1,6 +1,6 @@
 # Table of contents
 
-* [secdev courses](README.md)
+* [Secdev courses](README.md)
 
 ## courses
 

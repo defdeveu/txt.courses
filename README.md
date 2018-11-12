@@ -1,4 +1,4 @@
-# secdev courses
+# Secdev courses
 
 defdev secure development trainings are designed to **significantly improve the security quality of the software production** by mastering secure coding skills and through adopting sticky development practices that systematically reduce defects.
 
