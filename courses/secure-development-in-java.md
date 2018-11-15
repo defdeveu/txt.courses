@@ -19,7 +19,7 @@ Work in progress
 
 **audience**: senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\) 
 
-**duration**: 2 days \(12 hrs education time\) in the standard case options: DIY code and ASVS audit; assisted code-review lab; S-SDLC playbook 
+**duration**: 2 days \(12 hrs education time\) in the standard case options: DIY code and ASVS audit; [assisted code-review lab](../modules/modules.md); [S-SDLC playbook](../modules/s-sdlc-playbook.md) 
 
 **already delivered to**: Logmein, Siemens, AEGON
 {% endtab %}
@@ -35,7 +35,7 @@ R1811i %wip
 
 ### Agenda ingredients 
 
-The below agenda represents a collection of topics and classes we deliver on a course, normally or optionally, in depth or in a short version depending on the needs of the client and the actual audience. The below agenda does not represent a lineup of the topics and classes. In a defdev course we interweave introductory lecturing with intro exercises and the advanced discussion of topics with practicing the subject matters by doing exercises, DIY tasks and challenges. 
+The below [agenda](secure-development-in-java.md#agenda) represents a collection of topics and classes we deliver on a course, normally or optionally, in depth or in a short version depending on the needs of the client and the actual audience. The below agenda does not represent a lineup of the topics and classes. In a defdev course we interweave introductory lecturing with intro exercises and the advanced discussion of topics with practicing the subject matters by doing exercises, DIY tasks and challenges. 
 
 For many of the topics in the below agenda we prepare demos, code fixing exercises, and DIY practices. Most of the hands-ons and other practical exercises are available as cloud instances developed and hosted by defdev.eu. 
 
@@ -44,9 +44,9 @@ A defdev course for developers consists of the following ingredients:
 * **Intros**: We make students experience the problems of hackable software right from the beginning. We touch some topics in introductory mode first, turn to some exercises then, and finally discuss the details based on hands-on experiences. Also there are topics that need to be discussed like S-SDLC which we introduce without details to developers. \[see block A\]; 
 * **Secure coding**: The topics of secure implementation every developer is expected to have a good command of in order to produce quality code. We discuss and practice how to avoid vulnerabilities. \[see block B\]; 
 * **Secure architecting**: The topics of secure design which should be well applied at the initial phase of software development. We discuss how to make choices regarding threats, crypto, access management, business logic, regarding object references and remote calls, communication configuration, tiers of protection, logging, etc. \[see block C\]; 
-* **Framework/language specifics**: Every course has its specific subject, a language or a framework in the context of which the above topics are illustrated. Also every framework and language has its own weaknesses to learn how to avoid. \[see block D\]; 
-* **Security testing and audit**: We assume that developers \(and other professionals involved in software production\) should be able to do basic security testing on their own. We teach basics of automated code analysis, and also ASVS review. \[see block E\]; 
-* **Options**: The course can be extended with add-on modules, such as assisted code-review or S-SDLC playbook. \[see blocks K,L,M\];
+* **Framework/language specifics**: Every course has its specific subject, a language or a framework in the context of which the above topics are illustrated. Also every framework and language has its own weaknesses to learn how to avoid. \[see [block D](secure-development-in-java.md#secure-coding-in-java-jee)\]; 
+* **Security testing and audit**: We assume that developers \(and other professionals involved in software production\) should be able to do basic security testing on their own. We teach basics of automated code analysis, and also ASVS review. \[see [block E](../modules/modules.md)\]; 
+* **Options**: The course can be extended with add-on modules, such as [assisted code-review](../modules/modules.md) or [S-SDLC playbook](../modules/s-sdlc-playbook.md). \[see blocks K,L,M\];
 
 ### Course variants 
 
@@ -169,7 +169,23 @@ The general content variants are:
 
 ### E. Security testing and audit 
 
-Practicing is part of many of the above blocks. We start off basic hacking challenges, but the real exercises are about fixing vulnerable codes, and tasks when attendees need to assess code and an application on their own. We mostly offer cloud based facilities to run the exercise environments, so no local installation is needed. Hands-ons with vulnerable apps For most of the courses there are intentionally vulnerable applications which we use to demonstrate and learn specific vulnerabilities and how to fix them. In some cases we use public "damn vulnerable" applications, in some cases we prepared our own applications to practice with. DIY sonarqube code checking We assume that developers should be capable of running basic automated tests against the security of their codes on their own. And also be able to tune the SCA tools to produce reasonable false positive and valuable findings ratio. Normally we teach how to use security plugins of Sonarqube. We provide sample codes to test. Though the best experience is achieved when developers run the security SCA against their own codes. See also the extra, on-demand block of 'Assisted code-review lab' below for practicing on your own codes. DIY ASVS self-audit OWASP ASVS is the current standard for assessing the security quality and design flaws of a \(web\) application, and it's the developers who know the answers to the ASVS audit questions. So we take developers to a short journey in assessing the security properties of their applications.
+Practicing is part of many of the above blocks. We start off basic hacking challenges, but the real exercises are about fixing vulnerable codes, and tasks when attendees need to assess code and an application on their own. We mostly offer cloud based facilities to run the exercise environments, so no local installation is needed. 
+
+#### Hands-ons with vulnerable apps 
+
+* For most of the courses there are intentionally vulnerable applications which we use to demonstrate and learn specific vulnerabilities and how to fix them.
+* In some cases we use public "damn vulnerable" applications, in some cases we prepared our own applications to practice with. 
+
+#### DIY sonarqube code checking 
+
+* We assume that developers should be capable of running basic automated tests against the security of their codes on their own. And also be able to tune the SCA tools to produce reasonable false positive and valuable findings ratio. 
+* Normally we teach how to use security plugins of Sonarqube. 
+* We provide sample codes to test. Though the best experience is achieved when developers run the security SCA against their own codes. 
+* See also the extra, on-demand block of 'Assisted code-review lab' below for practicing on your own codes. 
+
+#### DIY ASVS self-audit 
+
+* OWASP ASVS is the current standard for assessing the security quality and design flaws of a \(web\) application, and it's the developers who know the answers to the ASVS audit questions. So we take developers to a short journey in assessing the security properties of their applications.
 
 ### Extras _\[optional\]_ 
 

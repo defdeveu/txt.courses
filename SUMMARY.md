@@ -8,7 +8,10 @@
 
 ## Modules
 
-* [Modules](modules/modules.md)
+* [Assisted code-review lab](modules/modules.md)
+* [S-SDLC playbook](modules/s-sdlc-playbook.md)
+* [Security test automation in CI/CD pipelines](modules/security-test-automation-in-ci-cd-pipelines.md)
+* [Hacking applications](modules/hacking-applications.md)
 
 ## Genereal
 
@@ -21,4 +24,5 @@
 * [Marek Zachara](trainers/marek-zachara.md)
 * [Péter Nyilasy](trainers/peter-nyilasy.md)
 * [Riccardo ten Cate](trainers/riccardo-ten-cate.md)
+* [Zsombor Kovács](trainers/zsombor-kovacs.md)
 
