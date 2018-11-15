@@ -11,6 +11,7 @@
 
 ## Delivery
 
+* [Main features](delivery/main-features.md)
 * [Agenda ingredients](delivery/agenda-ingredients.md)
 * [Course variants](delivery/course-variants.md)
 * [Delivery variants](delivery/delivery-variants.md)
