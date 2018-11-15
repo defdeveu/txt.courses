@@ -19,7 +19,9 @@ Work in progress
 
 **audience**: senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\) 
 
-**duration**: 2 days \(12 hrs education time\) in the standard case options: DIY code and ASVS audit; [assisted code-review lab](../modules/modules.md); [S-SDLC playbook](../modules/s-sdlc-playbook.md) 
+**duration**: 2 days \(12 hrs education time\) in the standard case 
+
+**options**: DIY code and ASVS audit; [assisted code-review lab](../modules/modules.md); [S-SDLC playbook](../modules/s-sdlc-playbook.md) 
 
 **already delivered to**: Logmein, Siemens, AEGON
 {% endtab %}
