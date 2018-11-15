@@ -5,7 +5,7 @@ description: >-
   through adopting sticky development practices
 ---
 
-# Intro to the defdev courses
+# Readme first
 
 defdev secure development trainings are designed to **significantly improve the security quality of the software production** by mastering secure coding skills and through adopting sticky development practices that systematically reduce defects.
 

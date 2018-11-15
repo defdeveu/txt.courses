@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro to the defdev courses](README.md)
+* [Readme first](README.md)
 
 ## courses
 
