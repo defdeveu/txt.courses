@@ -1,5 +1,8 @@
 ---
-description: "audience: senior/medior developers, lead devs, testers and security champions (mostly comprehensible for juniors as well); duration: 2 days (12 hrs education time) in the standard case"
+description: >-
+  audience: senior/medior developers, lead devs, testers and security champions
+  (mostly comprehensible for juniors as well); duration: 2 days (12 hrs
+  education time) in the standard case
 ---
 
 # Secure development in Java
@@ -30,7 +33,7 @@ description: "audience: senior/medior developers, lead devs, testers and securit
 
 #### Common server-side vulnerabilities and their defense
 
-* Injections: SQLi, XML injections, JSON, XPath, XSS, cookie injection,  open redirection, http header injection
+* Injections: SQLi, XML injections, JSON, XPath, XSS, cookie injection, open redirection, http header injection
 
   Path traversal, XXE, Buffer overflow, Zip bomb, Million laugh, RFI, Insecure file upload, Code execution
 
@@ -99,13 +102,14 @@ description: "audience: senior/medior developers, lead devs, testers and securit
 * SEI CERT Oracle Coding Standard for Java
 * Cryptography in Java
 
-#### JS frameworks \[optional\]
+#### JS frameworks _\[optional\]_
 
 * Angular JS/TS
 * Polymer
 * React
 
-#### HTML5 \[optional\]
+#### HTML5 _\[optional\]_
 
 * Local storage/session storage 
 * Web messaging, web sockets
+
