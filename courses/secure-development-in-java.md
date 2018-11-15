@@ -35,31 +35,25 @@ R1811i %wip
 
 ### Agenda ingredients 
 
-The below [agenda](secure-development-in-java.md#agenda) represents a collection of topics and classes we deliver on a course, normally or optionally, in depth or in a short version depending on the needs of the client and the actual audience. The below agenda does not represent a lineup of the topics and classes. In a defdev course we interweave introductory lecturing with intro exercises and the advanced discussion of topics with practicing the subject matters by doing exercises, DIY tasks and challenges. 
-
-For many of the topics in the below agenda we prepare demos, code fixing exercises, and DIY practices. Most of the hands-ons and other practical exercises are available as cloud instances developed and hosted by defdev.eu. 
+The below [agenda](secure-development-in-java.md#agenda) represents a collection of topics and classes we deliver on a course, normally or optionally, in depth or in a short version depending on the needs of the client and the actual audience. The below agenda does not represent a lineup of the topics and classes. For many of the topics in the below agenda we prepare demos, code fixing exercises, and DIY practices. Most of the hands-ons and other practical exercises are available as cloud instances developed and hosted by defdev.eu. 
 
 A defdev course for developers consists of the following ingredients: 
 
-* **Intros**: We make students experience the problems of hackable software right from the beginning. We touch some topics in introductory mode first, turn to some exercises then, and finally discuss the details based on hands-on experiences. Also there are topics that need to be discussed like S-SDLC which we introduce without details to developers. \[see block A\]; 
-* **Secure coding**: The topics of secure implementation every developer is expected to have a good command of in order to produce quality code. We discuss and practice how to avoid vulnerabilities. \[see block B\]; 
-* **Secure architecting**: The topics of secure design which should be well applied at the initial phase of software development. We discuss how to make choices regarding threats, crypto, access management, business logic, regarding object references and remote calls, communication configuration, tiers of protection, logging, etc. \[see block C\]; 
-* **Framework/language specifics**: Every course has its specific subject, a language or a framework in the context of which the above topics are illustrated. Also every framework and language has its own weaknesses to learn how to avoid. \[see [block D](secure-development-in-java.md#secure-coding-in-java-jee)\]; 
-* **Security testing and audit**: We assume that developers \(and other professionals involved in software production\) should be able to do basic security testing on their own. We teach basics of automated code analysis, and also ASVS review. \[see [block E](../modules/modules.md)\]; 
-* **Options**: The course can be extended with add-on modules, such as [assisted code-review](../modules/modules.md) or [S-SDLC playbook](../modules/s-sdlc-playbook.md). \[see blocks K,L,M\];
+* [Intros](../delivery/agenda-ingredients.md#intros) \[see block A\]; 
+* [Secure coding](../delivery/agenda-ingredients.md#secure-coding) \[see block B\]; 
+* [Secure architecting](../delivery/agenda-ingredients.md#secure-architecting) \[see block C\]; 
+* [Framework/language specifics](../delivery/agenda-ingredients.md#framework-language-specifics) \[see [block D](secure-development-in-java.md#secure-coding-in-java-jee)\]; 
+* [Security testing and audit](../delivery/agenda-ingredients.md#security-testing-and-audit) \[see [block E](../modules/modules.md)\]; 
+* [Options](../delivery/agenda-ingredients.md#options)
 
 ### Course variants 
 
-By default the duration of a course is 2 days, 12 hours education time in the standard case. 
+By default the duration of a course is 2 days, 12 hours education time in the standard case. But it also can take 3 days depending on the demands, the preferences regarding the coverage or the depth and also the options requested. The general content variants are: 
 
-But it also can take 3 days depending on the demands, the preferences regarding the coverage or the depth and also the options requested. An actual course can consist of the main blocks only \(A-E\), or it can be extended with extras, on-demand add-on blocks \(K-...\). 
-
-The general content variants are: 
-
-* **2 days, broad coverage**: We deliver all the topics in the agenda with reasonable amount of exercises. We go in-depth into a few topics the audience is interested the most. 
-* **2 days, in-depth selected topics**: We assume the basic knowledge of the most of the topics, we go in-depth into discussion and practicing of a number of topics agreed beforehand or selected on-the-fly. 
-* **3 days, both depth and scope**: We deliver all the topics in agenda in-depth and walking through all the exercises. 
-* **3 days, assisted code-review**: A custom mixture of scope and depth in topics plus a day or a half of assisted code-review lab.
+* [2 days, broad coverage](../delivery/course-variants.md#2-days-broad-coverage)
+* [2 days, in-depth selected topics](../delivery/course-variants.md#2-days-in-depth-selected-topics) 
+* [3 days, both depth and scope ](../delivery/course-variants.md#3-days-both-depth-and-scope)
+* [3 days, assisted code-review](../delivery/course-variants.md#3-days-assisted-code-review)
 
 ## Agenda
 

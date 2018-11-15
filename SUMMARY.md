@@ -5,6 +5,16 @@
 ## courses
 
 * [Secure development in Java](courses/secure-development-in-java.md)
+* [Secure development for Android](courses/secure-development-for-android.md)
+* [Secure development in .NET](courses/secure-development-in-.net.md)
+* [Secure development for iOS](courses/secure-development-for-ios.md)
+
+## Delivery
+
+* [Agenda ingredients](delivery/agenda-ingredients.md)
+* [Course variants](delivery/course-variants.md)
+* [Delivery variants](delivery/delivery-variants.md)
+* [Course materials](delivery/course-materials.md)
 
 ## Modules
 
@@ -12,11 +22,6 @@
 * [S-SDLC playbook](modules/s-sdlc-playbook.md)
 * [Security test automation in CI/CD pipelines](modules/security-test-automation-in-ci-cd-pipelines.md)
 * [Hacking applications](modules/hacking-applications.md)
-
-## Genereal
-
-* [Course materials](genereal/course-materials.md)
-* [Delivery variants](genereal/delivery-variants.md)
 
 ## Trainers
 
