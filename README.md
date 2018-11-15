@@ -7,6 +7,10 @@ description: >-
 
 # Readme first
 
+{% hint style="warning" %}
+The defdeveu courses publication is a work in progress, please check back in a few days! ;\)
+{% endhint %}
+
 defdev secure development trainings are designed to **significantly improve the security quality of the software production** by mastering secure coding skills and through adopting sticky development practices that systematically reduce defects.
 
 We do trainings on Java, Js/React/Angular, Node.js, iOS/Android, C\#, Golang, Python, Kotlin and PHP secure coding, IoT and mainframe security, also S-SDLC \(secdev playbook\) and CI/CD pipeline \(security testing automation and vulnerability management\). Our courses are mostly structured around the OWASP ASVS, and are based on cloud-hosted exercises and DIY tasks.
