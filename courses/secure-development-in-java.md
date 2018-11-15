@@ -1,10 +1,14 @@
+---
+description: "audience: senior/medior developers, lead devs, testers and security champions (mostly comprehensible for juniors as well); duration:\t2 days (12 hrs education time) in the standard case"
+---
+
 # Secure development in Java
 
-### Agenda
+## Agenda
 
-#### A. Intro to principles and practice of secdev
+### A. Intro to principles and practice of secdev
 
-**Introduction to vulnerabilities**
+#### **Introduction to vulnerabilities**
 
 * 'Into the middle of things' hands-on hacking
 * Playing with untuned source code scanning
@@ -22,9 +26,9 @@
 * S-SDLC basics, secure development as integral part of SDLC
 * Automatic tools and their values, non-automatic tools, pentests, peer code review, assisted code-review
 
-#### B.    Code security
+### B.    Code security
 
-**Common server-side vulnerabilities and their defense**
+#### **Common server-side vulnerabilities and their defense**
 
 * Injections: SQLi, XML injections, JSON, XPath, XSS, cookie injection,  open redirection, http header injection
 
@@ -46,15 +50,14 @@
 
 * Security logging, exception handling
 
-#### C. Security design
+### C. Security design
 
-**Security by design**
+#### **Security by design**
 
 * Threat modelling
 * Separation of duties, trust boundaries, security boundaries, defence in depth, principle of least privilege, minimising the attack surface, risk driven mitigation
 * Business logic vulnerabilities
-
-  **Cryptography**
+* *   **Cryptography**
 
 * Cryptography basics
 * TLS, ciphersuites
@@ -83,9 +86,9 @@
 * Intrusion detection, correct reactions
 * Protecting the admin interface
 
-#### D. Framework/language specifics
+### D. Framework/language specifics
 
-**Secure coding in Java/JEE**
+#### **Secure coding in Java/JEE**
 
 * Java security manager
 * Java language security \(is Java a secure language?\) 
@@ -94,8 +97,13 @@
   * Serialization, JPQL
 * SEI CERT Oracle Coding Standard for Java
 * Cryptography in Java
+* *   \*\*\*\*
 
-  **JS frameworks \[optional\]**
+* \*\*\*\*
+
+**JS** frameworks **\[optional\]**
+
+\*\*\*\*
 
 * Angular JS/TS
 * Polymer
@@ -105,4 +113,6 @@
 
 * Local storage/session storage 
 * Web messaging, web sockets
+
+### 
 
