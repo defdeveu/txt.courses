@@ -1,8 +1,8 @@
 ---
 description: >-
-  The below agenda represents a collection of topics and classes we deliver on a
-  course, normally or optionally, in depth or in a short version depending on
-  the needs of the client and the audience.
+  With the Secure development in Java/JEE course we deliver a complete set of
+  knowledge and practicing. We can on the fly flex the course to meet the level
+  and the experiences of the audience.
 ---
 
 # Secure development in Java
@@ -11,7 +11,7 @@ description: >-
 Work in progress
 {% endhint %}
 
-## About
+## About the course
 
 {% tabs %}
 {% tab title="Properties" %}
@@ -20,6 +20,8 @@ Work in progress
 **audience**: senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\) 
 
 **duration**: 2 days \(12 hrs education time\) in the standard case options: DIY code and ASVS audit; assisted code-review lab; S-SDLC playbook 
+
+**already delivered to**: Logmein, Siemens, AEGON
 {% endtab %}
 
 {% tab title="Disclaimer" %}
@@ -30,6 +32,34 @@ This document describes a subject under discussion. The agenda of the training a
 R1811i %wip
 {% endtab %}
 {% endtabs %}
+
+### Agenda ingredients 
+
+The below agenda represents a collection of topics and classes we deliver on a course, normally or optionally, in depth or in a short version depending on the needs of the client and the actual audience. The below agenda does not represent a lineup of the topics and classes. In a defdev course we interweave introductory lecturing with intro exercises and the advanced discussion of topics with practicing the subject matters by doing exercises, DIY tasks and challenges. 
+
+For many of the topics in the below agenda we prepare demos, code fixing exercises, and DIY practices. Most of the hands-ons and other practical exercises are available as cloud instances developed and hosted by defdev.eu. 
+
+A defdev course for developers consists of the following ingredients: 
+
+* **Intros**: We make students experience the problems of hackable software right from the beginning. We touch some topics in introductory mode first, turn to some exercises then, and finally discuss the details based on hands-on experiences. Also there are topics that need to be discussed like S-SDLC which we introduce without details to developers. \[see block A\]; 
+* **Secure coding**: The topics of secure implementation every developer is expected to have a good command of in order to produce quality code. We discuss and practice how to avoid vulnerabilities. \[see block B\]; 
+* **Secure architecting**: The topics of secure design which should be well applied at the initial phase of software development. We discuss how to make choices regarding threats, crypto, access management, business logic, regarding object references and remote calls, communication configuration, tiers of protection, logging, etc. \[see block C\]; 
+* **Framework/language specifics**: Every course has its specific subject, a language or a framework in the context of which the above topics are illustrated. Also every framework and language has its own weaknesses to learn how to avoid. \[see block D\]; 
+* **Security testing and audit**: We assume that developers \(and other professionals involved in software production\) should be able to do basic security testing on their own. We teach basics of automated code analysis, and also ASVS review. \[see block E\]; 
+* **Options**: The course can be extended with add-on modules, such as assisted code-review or S-SDLC playbook. \[see blocks K,L,M\];
+
+### Course variants 
+
+By default the duration of a course is 2 days, 12 hours education time in the standard case. 
+
+But it also can take 3 days depending on the demands, the preferences regarding the coverage or the depth and also the options requested. An actual course can consist of the main blocks only \(A-E\), or it can be extended with extras, on-demand add-on blocks \(K-...\). 
+
+The general content variants are: 
+
+* **2 days, broad coverage**: We deliver all the topics in the agenda with reasonable amount of exercises. We go in-depth into a few topics the audience is interested the most. 
+* **2 days, in-depth selected topics**: We assume the basic knowledge of the most of the topics, we go in-depth into discussion and practicing of a number of topics agreed beforehand or selected on-the-fly. 
+* **3 days, both depth and scope**: We deliver all the topics in agenda in-depth and walking through all the exercises. 
+* **3 days, assisted code-review**: A custom mixture of scope and depth in topics plus a day or a half of assisted code-review lab.
 
 ## Agenda
 
@@ -137,17 +167,26 @@ R1811i %wip
 * Local storage/session storage 
 * Web messaging, web sockets
 
+### E. Security testing and audit 
+
+Practicing is part of many of the above blocks. We start off basic hacking challenges, but the real exercises are about fixing vulnerable codes, and tasks when attendees need to assess code and an application on their own. We mostly offer cloud based facilities to run the exercise environments, so no local installation is needed. Hands-ons with vulnerable apps For most of the courses there are intentionally vulnerable applications which we use to demonstrate and learn specific vulnerabilities and how to fix them. In some cases we use public "damn vulnerable" applications, in some cases we prepared our own applications to practice with. DIY sonarqube code checking We assume that developers should be capable of running basic automated tests against the security of their codes on their own. And also be able to tune the SCA tools to produce reasonable false positive and valuable findings ratio. Normally we teach how to use security plugins of Sonarqube. We provide sample codes to test. Though the best experience is achieved when developers run the security SCA against their own codes. See also the extra, on-demand block of 'Assisted code-review lab' below for practicing on your own codes. DIY ASVS self-audit OWASP ASVS is the current standard for assessing the security quality and design flaws of a \(web\) application, and it's the developers who know the answers to the ASVS audit questions. So we take developers to a short journey in assessing the security properties of their applications.
+
+### Extras _\[optional\]_ 
+
+Upon request we also deliver additional blocks: 
+
+* K: In case of languages and frameworks our trainers are familiar with as auditors we can deliver an additional day to let developers apply the knowledge and skills learnt against their own codes. We call it the 'Assisted code-review lab'. 
+* L-N: We also suggest one of the related add-on courses: S-SDLC playbook Hacking applications Security test automation in CI/CD pipelines
+
 ## Trainers
 
-### Péter Nyilasy 
+{% hint style="info" %}
+Check out the trainers' bios in the Trainers section
+{% endhint %}
 
-Peter has been doing enterprise web application development for more than a decade now mainly for financial institutions. He has exceptional knowledge of and strong experiences with Java and JEE, and also with several javascript frameworks. In the recent years Péter turned to software security and does secure development consulting, ASVS-based application audits with secmachine.com and is a resident trainer with defdev.eu. Meanwhile he stays current with the software production internals working also as a freelance software engineer. Péter also teaches Java for developers. 
+* [Péter Nyilasy](../trainers/peter-nyilasy.md) 
+* [Marek Zachara](../trainers/marek-zachara.md) 
+* [Glenn ten Cate](../trainers/untitled.md) 
 
-### Marek Zachara 
 
-Marek Zachara graduated with MSc degree in Electrical and Electronic Engineering from University of Bristol, UK in 2000 and received his PhD in Computer Sciences in 2008 from AGH UST, Poland. He is assistant professor at AGH University of Science and Technology in Krakow. Since 2008 Marek have been working on security audits and development of tools and methods for security assessment. For over five years he has been involved in a number of research activities centered around software quality and security, with special focus on simulation and analysis of users behavior. 
-
-### Glenn ten Cate 
-
-As a coder, hacker, speaker, trainer and security researcher employed at ING Belgium Glenn has over 10 years experience in the field of security. One of the founders of defensive development \[defdev\] a security trainings series dedicated to helping you build and maintain secure software and also speaking at multiple other security conferences in the world. His goal is to create an open-source software development life cycle with the tools and knowledge gathered over the years.
 
