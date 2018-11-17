@@ -1,6 +1,6 @@
 # Main features
 
-Main features of the private defdev trainings: 
+Main features of the private defdev trainings:
 
 * We care about the impact of our trainings. We develop our materials, exercises, the structure and the delivery technique of our trainers continuously. 
 * The structure of the trainings is such that according to our experience with the actual students we may correct the depth of delivery of certain topics on-the-fly and tune the ways of practicing. Like whether the details of implementation or the design are more important. 

@@ -17,12 +17,12 @@
 * [Delivery variants](delivery/delivery-variants.md)
 * [Course materials](delivery/course-materials.md)
 
-## Modules
+## Extras
 
-* [Assisted code-review lab](modules/assisted-code-review-lab.md)
-* [S-SDLC playbook](modules/s-sdlc-playbook.md)
-* [Security test automation in CI/CD pipelines](modules/security-test-automation-in-ci-cd-pipelines.md)
-* [Hacking applications](modules/hacking-applications.md)
+* [Assisted code-review lab](extras/assisted-code-review-lab.md)
+* [S-SDLC playbook](extras/s-sdlc-playbook.md)
+* [Security test automation in CI/CD pipelines](extras/security-test-automation-in-ci-cd-pipelines.md)
+* [Hacking applications](extras/hacking-applications.md)
 
 ## Trainers
 
