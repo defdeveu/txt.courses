@@ -24,6 +24,10 @@
 * [Security test automation in CI/CD pipelines](extras/security-test-automation-in-ci-cd-pipelines.md)
 * [Hacking applications](extras/hacking-applications.md)
 
+## Modules
+
+* [Java specific](modules/java-specific.md)
+
 ## Trainers
 
 * [Glenn ten Cate](trainers/glenn-ten-cate.md)
