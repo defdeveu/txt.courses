@@ -19,14 +19,14 @@
 
 ## Modules
 
-* [Assisted code-review lab](modules/modules.md)
+* [Assisted code-review lab](modules/assisted-code-review-lab.md)
 * [S-SDLC playbook](modules/s-sdlc-playbook.md)
 * [Security test automation in CI/CD pipelines](modules/security-test-automation-in-ci-cd-pipelines.md)
 * [Hacking applications](modules/hacking-applications.md)
 
 ## Trainers
 
-* [Glenn ten Cate](trainers/untitled.md)
+* [Glenn ten Cate](trainers/glenn-ten-cate.md)
 * [Marek Zachara](trainers/marek-zachara.md)
 * [Péter Nyilasy](trainers/peter-nyilasy.md)
 * [Riccardo ten Cate](trainers/riccardo-ten-cate.md)
