@@ -16,3 +16,9 @@ Created by Péter Nyilasy
 * SEI CERT Oracle Coding Standard for Java
 * Cryptography in Java
 
+### Prerequisites 
+We assume that the developers attending the Java secdev course:
+* are familiar with the Java language and with JEE
+* understand the HTTP protocol, HTML and Javascript
+* are familiar with basic security features of an enterprise application (authentication, authorization, the concept of a session)
+* have Java (JDK) and a suitable IDE installed on their laptop (labs desktop)

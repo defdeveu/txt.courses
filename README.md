@@ -1,8 +1,6 @@
 ---
 description: >-
-  This catalogue contains descriptions of the current defdev.eu courses, the
-  available add-on modules, and the raw specific modules, along with the bios of
-  our trainers. Main site: https://defdev.eu
+  This catalogue contains descriptions of the current defdev.eu courses, the available add-on modules, and the raw specific modules, along with the bios of our trainers. Main site: https://defdev.eu
 ---
 
 # Readme first
@@ -22,7 +20,7 @@ We do trainings on Java, Js/React/Angular, Node.js, iOS/Android, C\#, Golang, Py
 * Secure development for Android
 * Secure development for iOS
 
-## Modules
+## Extras
 
 * [Assisted code-review lab](extras/assisted-code-review-lab.md)
 * [S-SDLC playbook](extras/s-sdlc-playbook.md)

@@ -4,6 +4,7 @@
 
 ## courses
 
+* [Web applications development with security in mind](courses/webapp-secure-development.md)
 * [Secure development in Java](courses/secure-development-in-java.md)
 * [Secure development for Android](courses/secure-development-for-android.md)
 * [Secure development in .NET](courses/secure-development-in-.net.md)
@@ -27,6 +28,10 @@
 ## Modules
 
 * [Java specific](modules/java-specific.md)
+* [.net/C# specific](modules/dotnet-specific.md)
+* [JavaScript specific](modules/js-specific.md)
+* [C/C++ specific](modules/cpp-specific.md)
+
 
 ## Trainers
 
