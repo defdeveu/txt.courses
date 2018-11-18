@@ -1,8 +1,8 @@
 ---
 description: >-
-  defdev secdev trainings are designed to significantly improve the security
-  quality of the software production by mastering secure coding skills and
-  through adopting sticky development practices
+  This catalogue contains the description of the current defdev.eu courses, the
+  available add-on modules, and the raw specific modules, along with the bios of
+  our trainers. Main site: https://defdev.eu
 ---
 
 # Readme first
