@@ -1,9 +1,10 @@
 ---
 description: >-
-  This page represents the general agenda of a secure development course for web applications 
+  This page represents the general agenda of a secure development course for web
+  applications
 ---
 
-#  Web applications development with security in mind 
+# Webapp development with security in mind
 
 {% hint style="warning" %}
 Work in progress
@@ -20,7 +21,6 @@ Work in progress
 **duration**: 2 days \(12 hrs education time\) in the standard case
 
 **options**: DIY code and ASVS audit; [assisted code-review lab](../extras/assisted-code-review-lab.md); [S-SDLC playbook](../extras/s-sdlc-playbook.md)
-
 {% endtab %}
 
 {% tab title="Disclaimer" %}
@@ -139,7 +139,7 @@ By default the duration of a course is 2 days, 12 hours education time in the st
 
 ### D. Framework/language specifics
 
-#### Secure coding in <a webapp development languag/framework>
+#### Secure coding in 
 
 * XOX
 

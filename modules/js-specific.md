@@ -1,8 +1,8 @@
 # JavaScript specific
 
-### Language specific module
+## Language specific module
 
-#### Secure coding in JS <a id="secure-coding-in-js"></a>
+### Secure coding in JS  <a id="secure-coding-in-js"></a>
 
 {% hint style="info" %}
 Created by Péter Nyilasy
@@ -15,12 +15,12 @@ Created by Péter Nyilasy
 * SEI CERT Oracle Coding Standard for JS
 * Cryptography in JS
 
+## Prerequisites
 
-### Prerequisites 
 We assume that the developers attending the JS secdev course:
+
 * are familiar with the JS language and with XOX
 * understand the HTTP protocol and HTML
-* are familiar with basic security features of an enterprise application (authentication, authorization, the concept of a session)
-* have XOX and a suitable IDE installed on their laptop (labs desktop)
-
+* are familiar with basic security features of an enterprise application \(authentication, authorization, the concept of a session\)
+* have XOX and a suitable IDE installed on their laptop \(labs desktop\)
 
