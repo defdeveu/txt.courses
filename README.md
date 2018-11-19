@@ -22,6 +22,14 @@ We do trainings on Java, Js/React/Angular, Node.js, iOS/Android, C\#, Golang, Py
 * Secure development for Android
 * Secure development for iOS
 
+{% page-ref page="courses/secure-development-in-java.md" %}
+
+{% page-ref page="courses/secure-development-in-.net.md" %}
+
+{% page-ref page="courses/webapp-secure-development.md" %}
+
+## 
+
 ## Extras
 
 * [Assisted code-review lab](extras/assisted-code-review-lab.md)

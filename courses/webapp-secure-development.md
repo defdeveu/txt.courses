@@ -14,9 +14,11 @@ Work in progress
 
 {% tabs %}
 {% tab title="Properties" %}
-**title**: Secure development in XOX
+| title |
+| :--- |
+| Webapp development with security in mind |
 
-**audience**: senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
+`audience` senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
 
 **duration**: 2 days \(12 hrs education time\) in the standard case
 
