@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Readme first](README.md)
+* [README](README.md)
 
 ## secdev courses
 

@@ -5,7 +5,7 @@ description: >-
   our trainers. Main site: https://defdev.eu
 ---
 
-# Readme first
+# README
 
 {% hint style="warning" %}
 The defdeveu courses publication is a work in progress, please check back in a few days! ;\)
