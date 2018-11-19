@@ -27,7 +27,7 @@
 * [Assisted code-review lab](modules/assisted-code-review-lab.md)
 * [S-SDLC playbook](modules/s-sdlc-playbook.md)
 * [Hacking applications](modules/hacking-applications.md)
-* [Language specific modules](modules/language-specific-modules/README.md)
+* [Language specific](modules/language-specific-modules/README.md)
   * [Java specific](modules/language-specific-modules/java-specific.md)
   * [.net/C\# specific](modules/language-specific-modules/dotnet-specific.md)
   * [JavaScript specific](modules/language-specific-modules/js-specific.md)
