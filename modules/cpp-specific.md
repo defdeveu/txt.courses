@@ -8,25 +8,21 @@
 Created by Marek Zachara
 {% endhint %}
 
-aka: C/C++ related code vulnerabilities
-
-* Stack overflow / heap overflow
-* Memory management in general
-* Data representation
-* Race conditions
-* printf command vulnerabilities
-
-  \[x\] Remote execution
-
-  \[x\] Cryptography
-
-  \[x\] Framework specific cases \(.net\)
-
+* Major difference of C++ against other common technologies
+* C/C++ related code vulnerabilities
+  * Buffer overflow
+  * Memory management and pointers
+  * String handling
+  * Integer overflow
+  * Multiple threads
+  * Privilege management
+  * Uninitialized variables
+  * execve()
+* Library functions and returns
+* How to write a secure code?
 * Debugging tips & tricks
-
-  \[x\] A look from the future \(Rust, golang\)
-
-* SEI CERT Oracle Coding Standard for C++
+* A look from the future \(Rust, golang\)
+* SEI CERT C++ Coding Standard
 * Cryptography in C/C++
 
 ## Prerequisites

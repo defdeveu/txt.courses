@@ -4,11 +4,12 @@
 
 ## courses
 
-* [Webapp development with security in mind](courses/webapp-secure-development.md)
-* [Secure development in Java](courses/secure-development-in-java.md)
-* [Secure development in .NET](courses/secure-development-in-.net.md)
-* [Secure development for Android](courses/secure-development-for-android.md)
-* [Secure development for iOS](courses/secure-development-for-ios.md)
+* [Webapps in general](courses/webapp-secure-development.md)
+* [Java](courses/secure-development-in-java.md)
+* [.NET](courses/secure-development-in-.net.md)
+* [Android](courses/secure-development-for-android.md)
+* [iOS](courses/secure-development-for-ios.md)
+* [C/C++](courses/secure-development-in-cpp.md)
 
 ## Delivery
 
