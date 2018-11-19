@@ -1,8 +1,8 @@
 # C/C++ specific
 
-## Language specific module
+## The language specific module
 
-### Secure coding in C/C++  <a id="secure-coding-in-cpp"></a>
+### Secure coding in C/C++   <a id="secure-coding-in-cpp"></a>
 
 {% hint style="info" %}
 Created by Marek Zachara
@@ -17,7 +17,7 @@ Created by Marek Zachara
   * Multiple threads
   * Privilege management
   * Uninitialized variables
-  * execve()
+  * execve\(\)
 * Library functions and returns
 * How to write a secure code?
 * Debugging tips & tricks

@@ -1,6 +1,4 @@
-# Secure development in C/C++
-
-
+# C/C++
 
 
 

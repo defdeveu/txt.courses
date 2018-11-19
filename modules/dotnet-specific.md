@@ -1,6 +1,6 @@
 # .net/C\# specific
 
-## Language specific module
+## The language specific module
 
 ### Secure coding in .net/C\#  <a id="secure-coding-in-dotnet"></a>
 

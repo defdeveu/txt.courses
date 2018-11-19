@@ -4,7 +4,7 @@ description: >-
   applications
 ---
 
-# Webapp development with security in mind
+# Webapps in general
 
 {% hint style="warning" %}
 Work in progress

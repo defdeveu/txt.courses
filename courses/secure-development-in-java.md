@@ -1,11 +1,11 @@
 ---
 description: >-
-  With the Secure development in Java/JEE course we deliver a complete set of
-  knowledge and practicing. We can on the fly flex the course to meet the level
-  and the experiences of the audience.
+  "Secure development in Java/JEE" course template. Using the "Webapp
+  development with security in mind" template and the "Secure coding in
+  Java/JEE" language specific module.
 ---
 
-# Secure development in Java
+# Java
 
 {% hint style="warning" %}
 Work in progress

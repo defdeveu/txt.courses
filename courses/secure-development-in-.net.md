@@ -5,7 +5,7 @@ description: >-
   and the experiences of the audience.
 ---
 
-# Secure development in .NET
+# .NET
 
 
 

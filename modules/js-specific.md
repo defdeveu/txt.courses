@@ -1,6 +1,6 @@
 # JavaScript specific
 
-## Language specific module
+## The language specific module
 
 ### Secure coding in JS  <a id="secure-coding-in-js"></a>
 

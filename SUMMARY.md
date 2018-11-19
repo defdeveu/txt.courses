@@ -41,3 +41,8 @@
 * [Riccardo ten Cate](trainers/riccardo-ten-cate.md)
 * [Zsombor Kovács](trainers/zsombor-kovacs.md)
 
+## etc
+
+* [Changelog](etc/changelog.md)
+* [Untitled](etc/untitled.md)
+
