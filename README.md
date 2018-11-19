@@ -15,12 +15,9 @@ defdev secure development trainings are designed to **significantly improve the 
 
 We do trainings on Java, Js/React/Angular, Node.js, iOS/Android, C\#, Golang, Python, Kotlin and PHP secure coding, IoT and mainframe security, also S-SDLC \(secdev playbook\) and CI/CD pipeline \(security testing automation and vulnerability management\). Our courses are mostly structured around the OWASP ASVS, and are based on cloud-hosted exercises and DIY tasks.
 
-## Courses
+## Secdev courses
 
-* [Secure development in Java](courses/secure-development-in-java.md)
-* Secure development in .NET
-* Secure development for Android
-* Secure development for iOS
+We offer the following standard **secure development** courses which are flexible to be customized, and we flex the actual delivery according to the audience on the fly. Also check out the extra addons in the next section which can greatly expand the impact of the course.
 
 {% page-ref page="courses/secure-development-in-java.md" %}
 
@@ -28,14 +25,26 @@ We do trainings on Java, Js/React/Angular, Node.js, iOS/Android, C\#, Golang, Py
 
 {% page-ref page="courses/webapp-secure-development.md" %}
 
-## 
+{% page-ref page="courses/secure-development-for-android.md" %}
+
+{% page-ref page="courses/secure-development-for-ios.md" %}
+
+{% page-ref page="courses/secure-development-in-cpp.md" %}
+
+{% page-ref page="modules/language-specific-modules/js-specific.md" %}
+
+We also offer secdev courses in Kotlin, Python  
+
+## DevSecOps courses
+
+
 
 ## Extras
 
-* [Assisted code-review lab](extras/assisted-code-review-lab.md)
-* [S-SDLC playbook](extras/s-sdlc-playbook.md)
-* [Security test automation in CI/CD pipelines](extras/security-test-automation-in-ci-cd-pipelines.md)
-* [Hacking applications](extras/hacking-applications.md)
+* [Assisted code-review lab](modules/assisted-code-review-lab.md)
+* [S-SDLC playbook](modules/s-sdlc-playbook.md)
+* [Security test automation in CI/CD pipelines](testing-courses/security-test-automation-in-ci-cd-pipelines.md)
+* [Hacking applications](modules/hacking-applications.md)
 
 ## Delivery
 

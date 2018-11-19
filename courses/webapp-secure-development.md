@@ -22,7 +22,7 @@ Work in progress
 
 **duration**: 2 days \(12 hrs education time\) in the standard case
 
-**options**: DIY code and ASVS audit; [assisted code-review lab](../extras/assisted-code-review-lab.md); [S-SDLC playbook](../extras/s-sdlc-playbook.md)
+**options**: DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/s-sdlc-playbook.md)
 {% endtab %}
 
 {% tab title="Disclaimer" %}
@@ -44,7 +44,7 @@ A defdev course for developers consists of the following ingredients:
 * [Secure coding](../delivery/agenda-ingredients.md#secure-coding) \[see block B\]; 
 * [Secure architecting](../delivery/agenda-ingredients.md#secure-architecting) \[see block C\]; 
 * [Framework/language specifics](../delivery/agenda-ingredients.md#framework-language-specifics) \[see [block D](secure-development-in-java.md#secure-coding-in-java-jee)\]; 
-* [Security testing and audit](../delivery/agenda-ingredients.md#security-testing-and-audit) \[see [block E](../extras/assisted-code-review-lab.md)\]; 
+* [Security testing and audit](../delivery/agenda-ingredients.md#security-testing-and-audit) \[see [block E](../modules/assisted-code-review-lab.md)\]; 
 * [Options](../delivery/agenda-ingredients.md#options)
 
 ### Course variants

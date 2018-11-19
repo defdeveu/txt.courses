@@ -28,5 +28,5 @@ We assume that developers \(and other professionals involved in software product
 
 ## Options
 
-The course can be extended with add-on modules, such as [assisted code-review](../extras/assisted-code-review-lab.md) or [S-SDLC playbook](../extras/s-sdlc-playbook.md). \[see blocks K,L,M\];
+The course can be extended with add-on modules, such as [assisted code-review](../modules/assisted-code-review-lab.md) or [S-SDLC playbook](../modules/s-sdlc-playbook.md). \[see blocks K,L,M\];
 
