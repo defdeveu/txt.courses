@@ -1,6 +1,6 @@
 ---
 description: >-
-  This catalogue contains descriptions of the current defdev.eu courses, the
+  This catalog contains descriptions of the current defdev.eu courses, the
   available add-on modules, and the raw specific modules, along with the bios of
   our trainers. Main site: https://defdev.eu
 ---
@@ -8,16 +8,18 @@ description: >-
 # README
 
 {% hint style="warning" %}
-The defdeveu courses publication is a work in progress, please check back in a few days! ;\)
+The defdeveu courses catalog is a work in progress
 {% endhint %}
 
 defdev secure development trainings are designed to **significantly improve the security quality of the software production** by mastering secure coding skills and through adopting sticky development practices that systematically reduce defects.
 
-We do trainings on Java, Js/React/Angular, Node.js, iOS/Android, C\#, Golang, Python, Kotlin and PHP secure coding, IoT and mainframe security, also S-SDLC \(secdev playbook\) and CI/CD pipeline \(security testing automation and vulnerability management\). Our courses are mostly structured around the OWASP ASVS, and are based on cloud-hosted exercises and DIY tasks.
-
 ## Secdev courses
 
-We offer the following standard **secure development** courses which are flexible to be customized, and we flex the actual delivery according to the audience on the fly. Also check out the extra addons in the next section which can greatly expand the impact of the course.
+Our **secure development** courses are mostly structured around the [`OWASP ASVS`](https://github.com/OWASP/ASVS), and are based on cloud-hosted exercises and many DIY tasks.
+
+We flex the actual delivery according to the audience on the fly, in terms of the depth of different topics in agenda.
+
+We offer the following standard secdev ****courses which are flexible to be customized. Also check out the extra addons in the next section which can greatly expand the impact of the course.
 
 {% page-ref page="courses/secure-development-in-java.md" %}
 
@@ -33,7 +35,7 @@ We offer the following standard **secure development** courses which are flexibl
 
 {% page-ref page="modules/language-specific-modules/js-specific.md" %}
 
-We also offer secdev courses in Kotlin, Python  
+We also offer secdev courses in **`Kotlin`**, **`Python`**, `Node.js` and **`PHP`**. Please check back later. Subscribe to our twitter @[defdeveu](https://twitter.com/defdeveu) for updates and announcements.
 
 ## DevSecOps courses
 
