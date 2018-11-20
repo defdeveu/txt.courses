@@ -19,7 +19,7 @@ Our **secure development** courses are mostly structured around the [`OWASP ASVS
 
 We flex the actual delivery according to the audience on the fly, in terms of the depth of different topics in agenda.
 
-We offer the following standard secdev ****courses which are flexible to be customized. Also check out the extra addons in the next section which can greatly expand the impact of the course.
+We offer the following standard secdev _\*\*_courses which are flexible to be customized. Also check out the extra addons in the next section which can greatly expand the impact of the course.
 
 {% page-ref page="secdev-courses/webapp-secure-development.md" %}
 
@@ -35,7 +35,7 @@ We offer the following standard secdev ****courses which are flexible to be cust
 
 {% page-ref page="modules/language-specific-modules/js-specific.md" %}
 
-We also offer secdev courses in **`Kotlin`**, **`Python`**, `Node.js` and **`PHP`**. Please check back later. Subscribe to our twitter @[defdeveu](https://twitter.com/defdeveu) for updates and announcements.
+We also offer secdev courses in `Kotlin`, `Python`, `Node.js` and `PHP`. Please check back later. Subscribe to our twitter @[defdeveu](https://twitter.com/defdeveu) for updates and announcements.
 
 ## Testing and DevSecOps courses
 

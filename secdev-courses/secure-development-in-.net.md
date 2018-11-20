@@ -1,8 +1,5 @@
 ---
-description: >-
-  "Secure development in .net/C#" course template. Using the "Webapp development
-  with security in mind" template and the "Secure coding in .net/C#" language
-  specific module.
+description: x
 ---
 
 # .NET
@@ -15,7 +12,7 @@ Work in progress
 
 ### Properties
 
-`title` **Secure development in Java/JEE**
+`title` **Secure development in .net/C\#**
 
 `revision` R1811i %wip
 

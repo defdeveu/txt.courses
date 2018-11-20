@@ -1,9 +1,3 @@
----
-description: >-
-  The agenda of this course heavily depends on the actual case of using C/C++ in
-  development.
----
-
 # C/C++
 
 {% hint style="danger" %}
