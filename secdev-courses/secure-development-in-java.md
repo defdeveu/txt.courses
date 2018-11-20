@@ -149,7 +149,7 @@ By default the duration of a course is 2 days, 12 hours education time in the st
 
 ### D. Framework/language specifics
 
-#### Secure coding in Java/JEE   <a id="secure-coding-in-java-jee"></a>
+#### Secure coding in Java/JEE    <a id="secure-coding-in-java-jee"></a>
 
 {% hint style="info" %}
 Developed by Péter Nyilasy

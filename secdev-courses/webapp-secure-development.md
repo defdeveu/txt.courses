@@ -1,7 +1,5 @@
 ---
-description: >-
-  This page represents the general agenda of a secure development course for web
-  applications
+description: x
 ---
 
 # Webapps in general
