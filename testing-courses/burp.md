@@ -1,23 +1,28 @@
-#Burp training 
+# Burp for developers 
 
-##Overview
+## Overview
+
 The purpose of the training is to provide testers and developers an overview how the Burp suite can be used for web testing work. Even though Burp is primarily designed for penetration testers, its sophisticated capabilities can come handy for everyone whose job is to perform general bug hunting in web applications.
 
 By the end of the training, participants will have a general understanding of how web applications work under the hood, how to use Burp for troubleshooting errors and how to utilise Burp's tool set for re-creation of error conditions by manual HTTP traffic manipulation.
 
-##Prerequisites
-###Technical prerequisites
+## Prerequisites
+
+### Technical prerequisites
 Each participant needs a working computer with Burp installed. Ideally, a licensed Pro version is accessible for participants, but most of the training agenda can be completed also with the Community version.  
 
-###Knowledge related prerequisites
+### Knowledge related prerequisites
 Participants need a general understanding of how computer networks work, and they should be familiar and comfortable with reading and understanding HTML and simple JavaScript code.
 
-##Schedule
+## Schedule
+
 Day 1. Chapter 1
 Day 2. Chapter 2
 
-##Agenda
-###Chapter 1. Understanding Burp
+## Agenda
+
+### Chapter 1. Understanding Burp
+
 1. *Computer networking in general*. The HTTP protocol. Requests and responses. Stateful and stateless protocol philosophy and built-in hacks in HTTP. 
 
 2. *Browsers and web applications*. Executable code vs. static code. Basic browser features (cookies, caching etc.) and potential pitfalls.
@@ -42,7 +47,8 @@ Day 2. Chapter 2
 
 12. *The Extender*. Basic concepts, the Burp API. Writing extensions for various tasks in Python. 
 
-###Chapter 2. Mastering Burp
+### Chapter 2. Mastering Burp
+
 In this chapter, lifelike challenges will be presented to participants as small web applications modelling real-life scenarios, which can be overcome by using and fine-tuning several tools in conjunctions within Burp.
 
 
