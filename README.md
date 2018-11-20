@@ -1,3 +1,7 @@
+---
+description: 'Use this catalog to browse the current https://defdev.eu courses.'
+---
+
 # README
 
 {% hint style="warning" %}
