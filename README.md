@@ -15,7 +15,7 @@ defdev secure development trainings are designed to **significantly improve the 
 
 ## Secdev courses
 
-Our **secure development** courses are mostly structured around the [`OWASP ASVS`](https://github.com/OWASP/ASVS), and are based on cloud-hosted exercises and many DIY tasks.
+Our **secure development** courses are mostly structured around the [`OWASP ASVS`](https://github.com/OWASP/ASVS), and are based on cloud-hosted exercises and many DIY tasks. 
 
 We flex the actual delivery according to the audience on the fly, in terms of the depth of different topics in agenda.
 
