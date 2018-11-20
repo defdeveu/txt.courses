@@ -1,7 +1,8 @@
 ---
 description: >-
-  This page represents the general agenda of a secure development course for web
-  applications
+  The defdev's "Webapp development with security in mind" template agenda which
+  serves as the major agenda for courses such as Secure development in Java,
+  .NET, JavaScript, and other webapp platforms
 ---
 
 # Webapps in general
@@ -12,31 +13,25 @@ Work in progress
 
 ## About the course
 
-{% tabs %}
-{% tab title="Properties" %}
-| title |
-| :--- |
-| Webapp development with security in mind |
+### Properties
+
+`title` **Webapp development with security in mind**
+
+`revision` R1811i %wip
 
 `audience` senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
 
-**duration**: 2 days \(12 hrs education time\) in the standard case
+`duration` 2 days \(12 hrs education time\) in the standard case
 
-**options**: DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/s-sdlc-playbook.md)
-{% endtab %}
-
-{% tab title="Disclaimer" %}
-This document describes a subject under discussion. The agenda of the training and the particulars of the planned delivery may change during further iterations of the discussion.
-{% endtab %}
-
-{% tab title="Revision" %}
-R1811i %wip
-{% endtab %}
-{% endtabs %}
+`options` DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/s-sdlc-playbook.md)
 
 ### Agenda ingredients
 
-The below [agenda](secure-development-in-java.md#agenda) represents a collection of topics and classes we deliver on a course, normally or optionally, in depth or in a short version depending on the needs of the client and the actual audience. The below agenda does not represent a lineup of the topics and classes. For many of the topics in the below agenda we prepare demos, code fixing exercises, and DIY practices. Most of the hands-ons and other practical exercises are available as cloud instances developed and hosted by defdev.eu.
+{% hint style="info" %}
+The below agenda represents a collection of topics and classes we deliver on a course, normally or optionally, in depth or in a short version depending on the needs of the client and the actual audience. The below agenda does not represent a lineup of the topics and classes.
+{% endhint %}
+
+For many of the topics in the below agenda we prepare demos, code fixing exercises, and DIY practices. Most of the hands-ons and other practical exercises are available as cloud instances developed and hosted by defdev.eu.
 
 A defdev course for developers consists of the following ingredients:
 
@@ -143,7 +138,15 @@ By default the duration of a course is 2 days, 12 hours education time in the st
 
 #### Secure coding in 
 
-* XOX
+Here we deliver one of the language specific modules:
+
+* [Java/JEE](../modules/language-specific-modules/java-specific.md)
+* [.NET/C\#](../modules/language-specific-modules/dotnet-specific.md)
+* [JavaScript](../modules/language-specific-modules/js-specific.md)
+* Kotlin
+* Node.js
+* PHP
+* or even [C/C++](../modules/language-specific-modules/cpp-specific.md) in case of RESTful development
 
 #### JS frameworks _\[optional\]_
 
@@ -192,4 +195,8 @@ Check out the trainers' bios in the Trainers section
 * [Péter Nyilasy](../trainers/peter-nyilasy.md) 
 * [Marek Zachara](../trainers/marek-zachara.md) 
 * [Glenn ten Cate](../trainers/glenn-ten-cate.md) 
+
+## Disclaimer
+
+This document describes a subject under discussion. The agenda of the training and the particulars of the planned delivery may change during further iterations of the discussion.
 
