@@ -1,5 +1,5 @@
 ---
-description: 
+description: >-
   This catalogue contains descriptions of the current defdev.eu courses, the
   available add-on modules, and the raw specific modules, along with the bios of
   our trainers. Main site: https://defdev.eu
@@ -15,37 +15,45 @@ defdev secure development trainings are designed to **significantly improve the 
 
 ## Secdev courses
 
-Our **secure development** courses are mostly structured around the [`OWASP ASVS`](https://github.com/OWASP/ASVS), and are based on cloud-hosted exercises and many DIY tasks. 
+Our **secure development** courses are mostly structured around the [`OWASP ASVS`](https://github.com/OWASP/ASVS), and are based on cloud-hosted exercises and many DIY tasks.
 
 We flex the actual delivery according to the audience on the fly, in terms of the depth of different topics in agenda.
 
-We offer the following standard secdev courses which are flexible to be customized. Also check out the extra addons in the next section which can greatly expand the impact of the course.
+We offer the following standard secdev _\*\*_courses which are flexible to be customized. Also check out the extra addons in the next section which can greatly expand the impact of the course.
 
-* [Webapp development with security in mind](secdev-courses/webapp-secure-development.md)
-* [Secure development in Java/JEE](secdev-courses/secure-development-in-java.md)
-* [Secure development in .net/C\#](secdev-courses/secure-development-in-.net.md)
-* [Secure development for Android](secdev-courses/secure-development-for-android.md)
-* [Secure development for iOS](secdev-courses/secure-development-for-ios.md)
-* [Secure development in C/C++](secdev-courses/secure-development-in-cpp.md)
-* [Secure development in Javascript](modules/language-specific-modules/js-specific.md)
+{% page-ref page="secdev-courses/webapp-secure-development.md" %}
+
+{% page-ref page="secdev-courses/secure-development-in-java.md" %}
+
+{% page-ref page="secdev-courses/secure-development-in-.net.md" %}
+
+{% page-ref page="secdev-courses/secure-development-for-android.md" %}
+
+{% page-ref page="secdev-courses/secure-development-for-ios.md" %}
+
+{% page-ref page="secdev-courses/secure-development-in-cpp.md" %}
+
+{% page-ref page="modules/language-specific-modules/js-specific.md" %}
 
 We also offer secdev courses in `Kotlin`, `Python`, `Node.js` and `PHP`. Please check back later. Subscribe to our twitter @[defdeveu](https://twitter.com/defdeveu) for updates and announcements.
 
-## Testing courses
+## Testing and DevSecOps courses
 
-* [Security test automation in CI/CD pipelines](testing-courses/security-test-automation-in-ci-cd-pipelines.md)
-* [Burp for developers](testing-courses/burp.md)
+{% page-ref page="testing-courses/security-test-automation-in-ci-cd-pipelines.md" %}
 
-## DevSecOps courses
+{% page-ref page="devsecops-courses/docker-security.md" %}
 
-* [Docker security](devsecops-courses/docker-security.md)
-* [AWS security](devsecops-courses/aws-security.md)
+{% page-ref page="devsecops-courses/aws-security.md" %}
+
+{% page-ref page="testing-courses/burp.md" %}
 
 ## Extras
 
-* [Assisted code-review lab](modules/assisted-code-review-lab.md)
-* [S-SDLC playbook](modules/s-sdlc-playbook.md)
-* [Hacking applications](modules/hacking-applications.md)
+{% page-ref page="modules/assisted-code-review-lab.md" %}
+
+{% page-ref page="modules/s-sdlc-playbook.md" %}
+
+{% page-ref page="modules/hacking-applications.md" %}
 
 ## Delivery
 
