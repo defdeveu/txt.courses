@@ -65,7 +65,7 @@ Participants need a general understanding of how computer networks work, and the
 
 ### Chapter 2. Mastering Burp
 
-In this chapter, lifelike challenges will be presented to participants as small web applications modelling real-life scenarios, which can be overcome by using and fine-tuning several tools in conjunctions within Burp..
+In this chapter, lifelike challenges will be presented to participants as small web applications modelling real-life scenarios, which can be overcome by using and fine-tuning several tools in conjunctions within Burp.
 
 ## Schedule
 
