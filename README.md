@@ -23,6 +23,10 @@ We offer the following standard secdev ****courses which are flexible to be cust
 
 {% page-ref page="secdev-courses/webapp-secure-development.md" %}
 
+{% page-ref page="secdev-courses/secure-development-in-java.md" %}
+
+{% page-ref page="secdev-courses/secure-development-in-.net.md" %}
+
 {% page-ref page="secdev-courses/secure-development-for-android.md" %}
 
 {% page-ref page="secdev-courses/secure-development-for-ios.md" %}
