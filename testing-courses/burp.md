@@ -38,18 +38,30 @@ Participants need a general understanding of how computer networks work, and the
 
 ### Chapter 1. Understanding Burp
 
-1. _Computer networking in general_. The HTTP protocol. Requests and responses. Stateful and stateless protocol philosophy and built-in hacks in HTTP.
-2. _Browsers and web applications_. Executable code vs. static code. Basic browser features \(cookies, caching etc.\) and potential pitfalls.
-3. _Web proxies_. Different types, features. SSL related issues. Advantages, disadvantages of proxy implementations.
-4. _Burp at a glance_. Overall philosophy of the GUI. Sending requests internally between tools. Basic use of the GUI for static HTTP traffic inspection.
-5. _Burp and networking_. SSL, certificates, the PortswiggerCA. Importing and exporting certificates. Potential pitfalls with the oh-so-many different SSL certificate formats. Downstream and upstream proxies.
-6. _The Target_ tab. The significance of scope settings. Exclusion lists and the proper scope selection process.
-7. _The Spider_ tab. Operation, caveats and results. Throttling and performance issues.
-8. _The Repeater_. Operation, use of this versatile tool in several scenarios.
-9. _The Sequencer_. Setup, parametrization and use. Result interpretation.
-10. _The Intruder_. Interaction with repeater. The payload position template. Different types of payloads. Attack types \(sniper, pitchfork etc.\) and usage. Payload selection and pre-send processing. Throttling and result interpretation.
-11. _The Decoder_. Different encodings and external tools to enhance the efficiency of the process.
-12. _The Extender_. Basic concepts, the Burp API. Writing extensions for various tasks in Python.
+1. Computer networking in general 
+   1. The HTTP protocol. Requests and responses. Stateful and stateless protocol philosophy and built-in hacks in HTTP.
+2. Browsers and web applications 
+   1. Executable code vs. static code. Basic browser features \(cookies, caching etc.\) and potential pitfalls.
+3. Web proxies
+   1. Different types, features. SSL related issues. Advantages, disadvantages of proxy implementations.
+4. Burp at a glance
+   1. Overall philosophy of the GUI. Sending requests internally between tools. Basic use of the GUI for static HTTP traffic inspection.
+5. Burp and networking 
+   1. SSL, certificates, the PortswiggerCA. Importing and exporting certificates. Potential pitfalls with the oh-so-many different SSL certificate formats. Downstream and upstream proxies.
+6. The Target tab 
+   1. The significance of scope settings. Exclusion lists and the proper scope selection process.
+7. The Spider tab 
+   1. Operation, caveats and results. Throttling and performance issues.
+8. The Repeater
+   1. Operation, use of this versatile tool in several scenarios.
+9. The Sequencer 
+   1. Setup, parametrization and use. Result interpretation.
+10. The Intruder 
+    1. Interaction with repeater. The payload position template. Different types of payloads. Attack types \(sniper, pitchfork etc.\) and usage. Payload selection and pre-send processing. Throttling and result interpretation.
+11. The Decoder 
+    1. Different encodings and external tools to enhance the efficiency of the process.
+12. The Extender
+    1. Basic concepts, the Burp API. Writing extensions for various tasks in Python.
 
 ### Chapter 2. Mastering Burp
 
@@ -57,7 +69,7 @@ In this chapter, lifelike challenges will be presented to participants as small 
 
 ## Schedule
 
-**Day 1.** Chapter 1 
+**Day 1.** Chapter 1
 
 **Day 2.** Chapter 2
 
