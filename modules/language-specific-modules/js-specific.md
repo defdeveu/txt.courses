@@ -5,7 +5,7 @@
 ### Secure coding in JS  <a id="secure-coding-in-js"></a>
 
 {% hint style="info" %}
-Created by Péter Nyilasy
+Developed by Péter Nyilasy
 {% endhint %}
 
 * XOX

@@ -37,16 +37,23 @@ We offer the following standard secdev ****courses which are flexible to be cust
 
 We also offer secdev courses in **`Kotlin`**, **`Python`**, `Node.js` and **`PHP`**. Please check back later. Subscribe to our twitter @[defdeveu](https://twitter.com/defdeveu) for updates and announcements.
 
-## DevSecOps courses
+## Testing and DevSecOps courses
 
+{% page-ref page="testing-courses/security-test-automation-in-ci-cd-pipelines.md" %}
 
+{% page-ref page="devsecops-courses/docker-security.md" %}
+
+{% page-ref page="devsecops-courses/aws-security.md" %}
+
+{% page-ref page="testing-courses/burp.md" %}
 
 ## Extras
 
-* [Assisted code-review lab](modules/assisted-code-review-lab.md)
-* [S-SDLC playbook](modules/s-sdlc-playbook.md)
-* [Security test automation in CI/CD pipelines](testing-courses/security-test-automation-in-ci-cd-pipelines.md)
-* [Hacking applications](modules/hacking-applications.md)
+{% page-ref page="modules/assisted-code-review-lab.md" %}
+
+{% page-ref page="modules/s-sdlc-playbook.md" %}
+
+{% page-ref page="modules/hacking-applications.md" %}
 
 ## Delivery
 

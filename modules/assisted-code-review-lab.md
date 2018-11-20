@@ -1,5 +1,5 @@
 ---
-description: WIP
+description: Work in progress
 ---
 
 # Assisted code-review lab

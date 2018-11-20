@@ -1,4 +1,12 @@
+---
+description: Work in progress
+---
+
 # Security test automation in CI/CD pipelines
+
+{% hint style="info" %}
+Developed by Riccardo ten Cate
+{% endhint %}
 
 * Security test automation
   * Introduction to Docker

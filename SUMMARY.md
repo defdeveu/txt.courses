@@ -19,8 +19,8 @@
 
 ## DevSecOps courses
 
-* [AWS security](devsecops-courses/aws-security.md)
 * [Docker security](devsecops-courses/docker-security.md)
+* [AWS security](devsecops-courses/aws-security.md)
 
 ## Modules
 
@@ -52,5 +52,4 @@
 ## etc
 
 * [Changelog](etc/changelog.md)
-* [Untitled](etc/untitled.md)
 

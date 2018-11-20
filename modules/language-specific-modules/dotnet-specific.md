@@ -5,7 +5,7 @@
 ### Secure coding in .net/C\#  <a id="secure-coding-in-dotnet"></a>
 
 {% hint style="info" %}
-Created by Riccardo ten Cate
+Developed by Riccardo ten Cate
 {% endhint %}
 
 * Security features of .NET and what kind of protection they serve

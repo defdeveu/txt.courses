@@ -9,7 +9,7 @@
 ### Secure coding in Java/JEE  <a id="secure-coding-in-java-jee"></a>
 
 {% hint style="info" %}
-Created by Péter Nyilasy
+Developed by Péter Nyilasy
 {% endhint %}
 
 * Java security manager

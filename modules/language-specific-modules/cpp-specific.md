@@ -5,7 +5,7 @@
 ### Secure coding in C/C++   <a id="secure-coding-in-cpp"></a>
 
 {% hint style="info" %}
-Created by Marek Zachara
+Developed by Marek Zachara
 {% endhint %}
 
 * Major difference of C++ against other common technologies
