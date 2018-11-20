@@ -1,7 +1,7 @@
 ---
 description: >-
   Use this catalog to browse the current https://defdev.eu courses. Check the
-  gitbook menu on the left.
+  gitbook menu on the left (where available).
 ---
 
 # README
