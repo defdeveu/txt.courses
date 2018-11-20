@@ -2,7 +2,7 @@
 description: >-
   "Secure development in Java/JEE" course template. Using the "Webapp
   development with security in mind" template and the "Secure coding in
-  Java/JEE" language specific module.s
+  Java/JEE" language specific module.
 ---
 
 # Java
