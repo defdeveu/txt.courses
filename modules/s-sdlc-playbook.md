@@ -1,7 +1,3 @@
----
-description: The defdev's S-SDLC course or addon about the SSA best practices
----
-
 # S-SDLC playbook
 
 {% hint style="info" %}

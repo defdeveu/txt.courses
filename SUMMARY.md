@@ -4,13 +4,13 @@
 
 ## secdev courses
 
-* [Webapps in general](courses/webapp-secure-development.md)
-* [Java](courses/secure-development-in-java.md)
-* [.NET](courses/secure-development-in-.net.md)
-* [Android](courses/secure-development-for-android.md)
-* [iOS](courses/secure-development-for-ios.md)
-* [C/C++](courses/secure-development-in-cpp.md)
-* [etc](courses/etc.md)
+* [Webapps in general](secdev-courses/webapp-secure-development.md)
+* [Java](secdev-courses/secure-development-in-java.md)
+* [.NET](secdev-courses/secure-development-in-.net.md)
+* [Android](secdev-courses/secure-development-for-android.md)
+* [iOS](secdev-courses/secure-development-for-ios.md)
+* [C/C++](secdev-courses/secure-development-in-cpp.md)
+* [etc](secdev-courses/etc.md)
 
 ## Testing courses
 

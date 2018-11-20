@@ -1,9 +1,3 @@
----
-description: >-
-  The language specific modules are core parts of the secure development course
-  agendas
----
-
 # Language specific
 
 {% page-ref page="java-specific.md" %}

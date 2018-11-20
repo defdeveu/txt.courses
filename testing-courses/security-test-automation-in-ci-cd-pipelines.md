@@ -1,7 +1,3 @@
----
-description: Work in progress
----
-
 # Security test automation in CI/CD pipelines
 
 {% hint style="info" %}

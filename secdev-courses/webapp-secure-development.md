@@ -1,8 +1,7 @@
 ---
 description: >-
-  The defdev's "Webapp development with security in mind" template agenda serves
-  as the major agenda for courses such as "Secure development in <Java | .NET |
-  JavaScript | and other webapp platforms>"
+  This page represents the general agenda of a secure development course for web
+  applications
 ---
 
 # Webapps in general
@@ -38,7 +37,7 @@ A defdev course for developers consists of the following ingredients:
 * [Intros](../delivery/agenda-ingredients.md#intros) \[see block A\]; 
 * [Secure coding](../delivery/agenda-ingredients.md#secure-coding) \[see block B\]; 
 * [Secure architecting](../delivery/agenda-ingredients.md#secure-architecting) \[see block C\]; 
-* [Framework/language specifics](../delivery/agenda-ingredients.md#framework-language-specifics) \[see [block D](secure-development-in-java.md#secure-coding-in-java-jee)\]; 
+* [Framework/language specifics](../delivery/agenda-ingredients.md#framework-language-specifics) \[see [block D]()\]; 
 * [Security testing and audit](../delivery/agenda-ingredients.md#security-testing-and-audit) \[see [block E](../modules/assisted-code-review-lab.md)\]; 
 * [Options](../delivery/agenda-ingredients.md#options)
 
@@ -192,9 +191,10 @@ Upon request we also deliver additional blocks:
 Check out the trainers' bios in the Trainers section
 {% endhint %}
 
+* [Glenn ten Cate](../trainers/glenn-ten-cate.md)
 * [Péter Nyilasy](../trainers/peter-nyilasy.md) 
 * [Marek Zachara](../trainers/marek-zachara.md) 
-* [Glenn ten Cate](../trainers/glenn-ten-cate.md) 
+* [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
 
 ## Disclaimer
 

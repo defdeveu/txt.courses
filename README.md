@@ -1,6 +1,6 @@
 ---
 description: >-
-  This catalog contains descriptions of the current defdev.eu courses, the
+  This catalogue contains descriptions of the current defdev.eu courses, the
   available add-on modules, and the raw specific modules, along with the bios of
   our trainers. Main site: https://defdev.eu
 ---
@@ -21,17 +21,13 @@ We flex the actual delivery according to the audience on the fly, in terms of th
 
 We offer the following standard secdev ****courses which are flexible to be customized. Also check out the extra addons in the next section which can greatly expand the impact of the course.
 
-{% page-ref page="courses/secure-development-in-java.md" %}
+{% page-ref page="secdev-courses/webapp-secure-development.md" %}
 
-{% page-ref page="courses/secure-development-in-.net.md" %}
+{% page-ref page="secdev-courses/secure-development-for-android.md" %}
 
-{% page-ref page="courses/webapp-secure-development.md" %}
+{% page-ref page="secdev-courses/secure-development-for-ios.md" %}
 
-{% page-ref page="courses/secure-development-for-android.md" %}
-
-{% page-ref page="courses/secure-development-for-ios.md" %}
-
-{% page-ref page="courses/secure-development-in-cpp.md" %}
+{% page-ref page="secdev-courses/secure-development-in-cpp.md" %}
 
 {% page-ref page="modules/language-specific-modules/js-specific.md" %}
 

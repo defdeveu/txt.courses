@@ -1,11 +1,11 @@
 ---
 description: >-
-  With the Secure development in .net/C# course we deliver a complete set of
-  knowledge and practicing. We can on the fly flex the course to meet the level
-  and the experiences of the audience.
+  "Secure development in Java/JEE" course template. Using the "Webapp
+  development with security in mind" template and the "Secure coding in
+  Java/JEE" language specific module.
 ---
 
-# .NET
+# Java
 
 {% hint style="warning" %}
 Work in progress
@@ -27,16 +27,16 @@ Work in progress
 
 `already delivered to` Logmein, Siemens, AEGON
 
-With the Secure development in .net/C# course we deliver a complete set of knowledge and practicing. We can on the fly flex the course to meet the level and the experiences of the audience.
+With the Secure development in Java/JEE course we deliver a complete set of knowledge and practicing. We can on the fly flex the course to meet the level and the experiences of the audience.
 
 ### Prerequisites
 
-We assume that the developers attending the C\# secdev course:
+We assume that the developers attending the Java secdev course:
 
-* are familiar with the C\# language and with the .NET framework
+* are familiar with the Java language and with JEE
 * understand the HTTP protocol, HTML and Javascript
 * are familiar with basic security features of an enterprise application \(authentication, authorization, the concept of a session\)
-* have .net core 2.0 SDK and a suitable IDE installed on their laptop \(labs desktop\)
+* have Java \(JDK\) and a suitable IDE installed on their laptop \(labs desktop\)
 
 ### Agenda ingredients
 
@@ -149,26 +149,19 @@ By default the duration of a course is 2 days, 12 hours education time in the st
 
 ### D. Framework/language specifics
 
-#### Secure coding in .net/C\#  <a id="secure-coding-in-dotnet"></a>
+#### Secure coding in Java/JEE   <a id="secure-coding-in-java-jee"></a>
 
 {% hint style="info" %}
-Developed by Riccardo ten Cate
+Developed by Péter Nyilasy
 {% endhint %}
 
-* Security features of .NET and what kind of protection they serve
-* C\# language security \(is C\# a secure language?\) 
-* .NET-specific issues 
+* Java security manager
+* Java language security \(is Java a secure language?\)
+* Java-specific issues
   * Numeric overflow, automatic conversions
-  * Serialization
-  * Authentication, membership, provider model
-  * Login controls, session management
-  * Role based authorization
-  * ViewState
-  * Identity server
-  * OAuth
-* Cryptography in .NET
-  * How to use a key vault
-  * How to test entropy of secure random solutions
+  * Serialization, JPQL
+* SEI CERT Oracle Coding Standard for Java
+* Cryptography in Java
 
 #### JS frameworks _\[optional\]_
 
@@ -214,15 +207,16 @@ Upon request we also deliver additional blocks:
 Check out the trainers' bios in the Trainers section
 {% endhint %}
 
-* XOX
-* [Glenn ten Cate](../trainers/glenn-ten-cate.md) 
+Lead trainers:
+
 * [Péter Nyilasy](../trainers/peter-nyilasy.md) 
+* [Glenn ten Cate](../trainers/glenn-ten-cate.md) 
+
+Co-trainer:
+
 * [Marek Zachara](../trainers/marek-zachara.md) 
 
 ## Disclaimer
 
 This document describes a subject under discussion. The agenda of the training and the particulars of the planned delivery may change during further iterations of the discussion.
-
-
-
 

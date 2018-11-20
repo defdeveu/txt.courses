@@ -1,7 +1,3 @@
----
-description: Work in progress
----
-
 # AWS security
 
 {% hint style="danger" %}
