@@ -14,7 +14,7 @@ Work in progress
 
 ### Properties
 
-`title` **Webapp development with security in mind**
+`title` **`Webapp development with security in mind`**
 
 `revision` R1811i %wip
 

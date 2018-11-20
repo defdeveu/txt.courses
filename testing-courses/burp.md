@@ -1,30 +1,38 @@
 ---
 description: >-
-  The purpose of the training is to provide testers and developers an overview
-  how the Burp suite can be used for web testing work.
+  The purpose of the course is to provide testers and developers an overview how
+  the Burp suite can be used for web testing work.
 ---
 
 # Burp for developers
 
-## Overview
+## About the course
+
+### Overview
 
 The purpose of the training is to provide testers and developers an overview how the Burp suite can be used for web testing work. Even though Burp is primarily designed for penetration testers, its sophisticated capabilities can come handy for everyone whose job is to perform general bug hunting in web applications.
 
-By the end of the training, participants will have a general understanding of how web applications work under the hood, how to use Burp for troubleshooting errors and how to utilise Burp's tool set for re-creation of error conditions by manual HTTP traffic manipulation.
+By the end of the training, participants will have a general understanding of how web applications work under the hood, how to use Burp for troubleshooting errors and how to utilize Burp's tool set for re-creation of error conditions by manual HTTP traffic manipulation.
 
-## Prerequisites
+### Properties
 
-### Technical prerequisites
+title: **Burp suite for testers and developers**
+
+audience: application testers \(non-pentesters\), developers
+
+duration: 2 days \(12hrs education time\)
+
+developed by: Zsombor Kovács
+
+### Prerequisites
+
+#### Technical prerequisites
 
 Each participant needs a working computer with Burp installed. Ideally, a licensed Pro version is accessible for participants, but most of the training agenda can be completed also with the Community version.
 
-### Knowledge related prerequisites
+#### Knowledge related prerequisites
 
 Participants need a general understanding of how computer networks work, and they should be familiar and comfortable with reading and understanding HTML and simple JavaScript code.
-
-## Schedule
-
-Day 1. Chapter 1 Day 2. Chapter 2
 
 ## Agenda
 
@@ -46,4 +54,14 @@ Day 1. Chapter 1 Day 2. Chapter 2
 ### Chapter 2. Mastering Burp
 
 In this chapter, lifelike challenges will be presented to participants as small web applications modelling real-life scenarios, which can be overcome by using and fine-tuning several tools in conjunctions within Burp.
+
+## Schedule
+
+**Day 1.** Chapter 1 
+
+**Day 2.** Chapter 2
+
+## Trainers
+
+* [Zsombor Kovács](../trainers/zsombor-kovacs.md)
 
