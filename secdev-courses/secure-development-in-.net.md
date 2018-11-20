@@ -1,8 +1,8 @@
 ---
 description: >-
-  "Secure development in .net/C#" course template. Using the "Webapp
-  development with security in mind" template and the "Secure coding in
-  .net/C#" language specific module.
+  'Secure development in .net/C#' course template. Using the "Webapp
+  development with security in mind" template and the 'Secure coding in
+  .net/C#' language specific module.
 ---
 
 # .NET
