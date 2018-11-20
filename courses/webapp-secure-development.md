@@ -1,8 +1,8 @@
 ---
 description: >-
-  The defdev's "Webapp development with security in mind" template agenda which
-  serves as the major agenda for courses such as Secure development in Java,
-  .NET, JavaScript, and other webapp platforms
+  The defdev's "Webapp development with security in mind" template agenda serves
+  as the major agenda for courses such as "Secure development in <Java | .NET |
+  JavaScript | and other webapp platforms>"
 ---
 
 # Webapps in general
