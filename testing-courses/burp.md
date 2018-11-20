@@ -39,29 +39,29 @@ Participants need a general understanding of how computer networks work, and the
 ### Chapter 1. Understanding Burp
 
 1. Computer networking in general 
-   1. The HTTP protocol. Requests and responses. Stateful and stateless protocol philosophy and built-in hacks in HTTP.
+   * The HTTP protocol. Requests and responses. Stateful and stateless protocol philosophy and built-in hacks in HTTP.
 2. Browsers and web applications 
-   1. Executable code vs. static code. Basic browser features \(cookies, caching etc.\) and potential pitfalls.
+   * Executable code vs. static code. Basic browser features \(cookies, caching etc.\) and potential pitfalls.
 3. Web proxies
-   1. Different types, features. SSL related issues. Advantages, disadvantages of proxy implementations.
+   * Different types, features. SSL related issues. Advantages, disadvantages of proxy implementations.
 4. Burp at a glance
-   1. Overall philosophy of the GUI. Sending requests internally between tools. Basic use of the GUI for static HTTP traffic inspection.
+   * Overall philosophy of the GUI. Sending requests internally between tools. Basic use of the GUI for static HTTP traffic inspection.
 5. Burp and networking 
-   1. SSL, certificates, the PortswiggerCA. Importing and exporting certificates. Potential pitfalls with the oh-so-many different SSL certificate formats. Downstream and upstream proxies.
+   * SSL, certificates, the PortswiggerCA. Importing and exporting certificates. Potential pitfalls with the oh-so-many different SSL certificate formats. Downstream and upstream proxies.
 6. The Target tab 
-   1. The significance of scope settings. Exclusion lists and the proper scope selection process.
+   * The significance of scope settings. Exclusion lists and the proper scope selection process.
 7. The Spider tab 
-   1. Operation, caveats and results. Throttling and performance issues.
+   * Operation, caveats and results. Throttling and performance issues.
 8. The Repeater
-   1. Operation, use of this versatile tool in several scenarios.
+   * Operation, use of this versatile tool in several scenarios.
 9. The Sequencer 
-   1. Setup, parametrization and use. Result interpretation.
+   * Setup, parametrization and use. Result interpretation.
 10. The Intruder 
-    1. Interaction with repeater. The payload position template. Different types of payloads. Attack types \(sniper, pitchfork etc.\) and usage. Payload selection and pre-send processing. Throttling and result interpretation.
+    * Interaction with repeater. The payload position template. Different types of payloads. Attack types \(sniper, pitchfork etc.\) and usage. Payload selection and pre-send processing. Throttling and result interpretation.
 11. The Decoder 
-    1. Different encodings and external tools to enhance the efficiency of the process.
+    * Different encodings and external tools to enhance the efficiency of the process.
 12. The Extender
-    1. Basic concepts, the Burp API. Writing extensions for various tasks in Python.
+    * Basic concepts, the Burp API. Writing extensions for various tasks in Python.
 
 ### Chapter 2. Mastering Burp
 
