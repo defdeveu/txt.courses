@@ -15,7 +15,7 @@
 ## Testing courses
 
 * [Security test automation in CI/CD pipelines](testing-courses/security-test-automation-in-ci-cd-pipelines.md)
-* [Burp](testing-courses/burp.md)
+* [Burp for developers](testing-courses/burp.md)
 
 ## DevSecOps courses
 
