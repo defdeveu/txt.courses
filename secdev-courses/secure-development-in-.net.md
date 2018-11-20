@@ -149,7 +149,7 @@ By default the duration of a course is 2 days, 12 hours education time in the st
 
 ### D. Framework/language specifics
 
-#### Secure coding in .net/C\#    <a id="secure-coding-in-dotnet"></a>
+#### Secure coding in .net/C\#     <a id="secure-coding-in-dotnet"></a>
 
 {% hint style="info" %}
 Developed by Riccardo ten Cate
