@@ -13,31 +13,38 @@ Work in progress
 
 ## About the course
 
-{% tabs %}
-{% tab title="Properties" %}
-**title**: Secure development in Java/JEE
+### Properties
 
-**audience**: senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
+`title` **Secure development in Java/JEE**
 
-**duration**: 2 days \(12 hrs education time\) in the standard case
+`revision` R1811i %wip
 
-**options**: DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/s-sdlc-playbook.md)
+`audience` senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
 
-**already delivered to**: Logmein, Siemens, AEGON
-{% endtab %}
+`duration` 2 days \(12 hrs education time\) in the standard case
 
-{% tab title="Disclaimer" %}
-This document describes a subject under discussion. The agenda of the training and the particulars of the planned delivery may change during further iterations of the discussion.
-{% endtab %}
+`options` DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/s-sdlc-playbook.md)
 
-{% tab title="Revision" %}
-R1811i %wip
-{% endtab %}
-{% endtabs %}
+`already delivered to` Logmein, Siemens, AEGON
+
+With the Secure development in Java/JEE course we deliver a complete set of knowledge and practicing. We can on the fly flex the course to meet the level and the experiences of the audience.
+
+### Prerequisites
+
+We assume that the developers attending the Java secdev course:
+
+* are familiar with the Java language and with JEE
+* understand the HTTP protocol, HTML and Javascript
+* are familiar with basic security features of an enterprise application \(authentication, authorization, the concept of a session\)
+* have Java \(JDK\) and a suitable IDE installed on their laptop \(labs desktop\)
 
 ### Agenda ingredients
 
-The below [agenda](secure-development-in-java.md#agenda) represents a collection of topics and classes we deliver on a course, normally or optionally, in depth or in a short version depending on the needs of the client and the actual audience. The below agenda does not represent a lineup of the topics and classes. For many of the topics in the below agenda we prepare demos, code fixing exercises, and DIY practices. Most of the hands-ons and other practical exercises are available as cloud instances developed and hosted by defdev.eu.
+{% hint style="info" %}
+The below agenda represents a collection of topics and classes we deliver on a course, normally or optionally, in depth or in a short version depending on the needs of the client and the actual audience. The below agenda does not represent a lineup of the topics and classes.
+{% endhint %}
+
+For many of the topics in the below agenda we prepare demos, code fixing exercises, and DIY practices. Most of the hands-ons and other practical exercises are available as cloud instances developed and hosted by defdev.eu.
 
 A defdev course for developers consists of the following ingredients:
 
@@ -142,11 +149,15 @@ By default the duration of a course is 2 days, 12 hours education time in the st
 
 ### D. Framework/language specifics
 
-#### Secure coding in Java/JEE
+#### Secure coding in Java/JEE  <a id="secure-coding-in-java-jee"></a>
+
+{% hint style="info" %}
+Developed by Péter Nyilasy
+{% endhint %}
 
 * Java security manager
-* Java language security \(is Java a secure language?\) 
-* Java-specific issues 
+* Java language security \(is Java a secure language?\)
+* Java-specific issues
   * Numeric overflow, automatic conversions
   * Serialization, JPQL
 * SEI CERT Oracle Coding Standard for Java
@@ -200,3 +211,6 @@ Check out the trainers' bios in the Trainers section
 * [Marek Zachara](../trainers/marek-zachara.md) 
 * [Glenn ten Cate](../trainers/glenn-ten-cate.md) 
 
+## Disclaimer
+
+This document describes a subject under discussion. The agenda of the training and the particulars of the planned delivery may change during further iterations of the discussion.
