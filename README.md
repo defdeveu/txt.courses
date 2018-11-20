@@ -1,7 +1,7 @@
 ---
 description: >-
   Use this catalog to browse the current https://defdev.eu courses. Check the
-  menu on the left.
+  gitbook menu on the left.
 ---
 
 # README
@@ -14,7 +14,7 @@ The defdeveu courses catalog is a work in progress
 
 ## Courses
 
-**The European defensive development** \(defdev.eu\) project provides public and private \(and hybrid, aka hosted\) trainings for software development companies. We do **secure development**, security **testing** courses and trainings to establish secure **devops** and **SDLC** processes. 
+**The European defensive development** \(defdev.eu\) project provides public and private \(and hybrid, aka hosted\) trainings for software development companies. We do **secure development** and security **testing** courses and also trainings to improve secure **devops** and **SDLC** processes. 
 
 ### Secdev courses
 
