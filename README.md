@@ -22,24 +22,24 @@ We flex the actual delivery according to the audience on the fly, in terms of th
 We offer the following standard secdev courses which are flexible to be customized. Also check out the extra addons in the next section which can greatly expand the impact of the course.
 
 * [Webapp development with security in mind](secdev-courses/webapp-secure-development.md)
-* [Secure development in Java/JEE](secdev-courses/secure-development-in-java.md)
-* [Secure development in .net/C\#](secdev-courses/secure-development-in-.net.md)
-* [Secure development for Android](secdev-courses/secure-development-for-android.md)
-* [Secure development for iOS](secdev-courses/secure-development-for-ios.md)
-* [Secure development in C/C++](secdev-courses/secure-development-in-cpp.md)
-* [Secure development in Javascript](modules/language-specific-modules/js-specific.md)
+* [Secure development in `Java`/JEE](secdev-courses/secure-development-in-java.md)
+* [Secure development in .net/`C#`](secdev-courses/secure-development-in-.net.md)\`\`
+* [Secure development for `Android`](secdev-courses/secure-development-for-android.md)\`\`
+* [Secure development for `iOS`](secdev-courses/secure-development-for-ios.md)\`\`
+* [Secure development in C/`C++`](secdev-courses/secure-development-in-cpp.md)\`\`
+* [Secure development in `Javascript`](modules/language-specific-modules/js-specific.md)\`\`
 
 We also offer secdev courses in `Kotlin`, `Python`, `Node.js` and `PHP`. Please check back later. Subscribe to our twitter @[defdeveu](https://twitter.com/defdeveu) for updates and announcements.
 
 ## Testing courses
 
-* [Security test automation in CI/CD pipelines](testing-courses/security-test-automation-in-ci-cd-pipelines.md)
-* [Burp for developers](testing-courses/burp.md)
+* [Security test automation in `CI/CD` pipelines](testing-courses/security-test-automation-in-ci-cd-pipelines.md)
+* \`\`[`Burp` for developers](testing-courses/burp.md)
 
 ## DevSecOps courses
 
-* [Docker security](devsecops-courses/docker-security.md)
-* [AWS security](devsecops-courses/aws-security.md)
+* [`Docker` security](devsecops-courses/docker-security.md)
+* [`AWS` security](devsecops-courses/aws-security.md)
 
 ## Extras
 
