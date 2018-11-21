@@ -1,6 +1,6 @@
 ---
 description: >-
-  Use this catalog to brows the defdev.eu courses. Use the gitbook menu on the
+  Use this catalog to browse the defdev.eu courses. Use the gitbook menu on the
   left where available.
 ---
 
