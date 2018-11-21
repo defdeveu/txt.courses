@@ -34,8 +34,10 @@ XOX
 
 ## Trainers
 
-* [Zsombor Kovács](../trainers/zsombor-kovacs.md)
-
+* Lead trainer:
+  * [Zsombor Kovács](../trainers/zsombor-kovacs.md)
+* Co-trainer:
+  * ​[Glenn ten Cate](https://c.defdev.eu/trainers/glenn-ten-cate)
 
 
 

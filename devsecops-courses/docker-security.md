@@ -1,7 +1,3 @@
----
-description: XOX headline
----
-
 # Docker security
 
 ## About the course

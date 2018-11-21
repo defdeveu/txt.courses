@@ -60,6 +60,3 @@ XOX
 
 * [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
 
-
-
-
