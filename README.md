@@ -55,9 +55,9 @@ Also check out the extra addons in a below section which can greatly expand the 
 The lectures are mixed with cloud-hosted exercises and many DIY tasks, we also use gamification approach in education. We flex the actual delivery according to the audience on the fly, adapting the scope and the depth of different topics indicated in the course agendas. Read more about our practices and approach:
 
 * [Main features of our trainings](delivery/main-features.md)
-* [Agenda ingredients](delivery/agenda-structure.md)
-* [Course variants](delivery/kits.md)
-* [Delivery variants](delivery/formations.md)
+* [Agenda structure and ingredients](delivery/agenda-structure.md)
+* [Days and kits](delivery/kits.md)
+* [Trainer formations](delivery/formations.md)
 
 Our **trainers** are practitioners with authority and have years of experience in enterprise software production: such as security testers who are good at coding or senior developers who learnt security testing and S-SDLC.
 
