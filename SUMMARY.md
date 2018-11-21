@@ -36,10 +36,10 @@
 ## Delivery
 
 * [Main features](delivery/main-features.md)
-* [Agenda ingredients](delivery/agenda-ingredients.md)
-* [Course variants](delivery/course-variants.md)
-* [Delivery variants](delivery/delivery-variants.md)
-* [Course materials](delivery/course-materials.md)
+* [Agenda structure](delivery/agenda-structure.md)
+* [Days and kits](delivery/kits.md)
+* [Trainer formations](delivery/formations.md)
+* [Course materials](delivery/materials.md)
 
 ## Trainers
 

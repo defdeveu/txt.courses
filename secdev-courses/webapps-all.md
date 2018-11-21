@@ -1,5 +1,7 @@
 ---
-description: This course is the prototype of various webapp related courses.
+description: >-
+  This page represents the general agenda of a secure development course for web
+  applications
 ---
 
 # Webapps in general
@@ -38,21 +40,21 @@ For many of the topics in the below agenda we prepare demos, code fixing exercis
 
 A defdev course for developers consists of the following ingredients:
 
-* [Intros](../delivery/agenda-ingredients.md#intros) \[see block A\]; 
-* [Secure coding](../delivery/agenda-ingredients.md#secure-coding) \[see block B\]; 
-* [Secure architecting](../delivery/agenda-ingredients.md#secure-architecting) \[see block C\]; 
-* [Framework/language specifics](../delivery/agenda-ingredients.md#framework-language-specifics) \[see [block D]()\]; 
-* [Security testing and audit](../delivery/agenda-ingredients.md#security-testing-and-audit) \[see [block E](../modules/codereview-lab.md)\]; 
-* [Options](../delivery/agenda-ingredients.md#options)
+* [Intros](../delivery/agenda-structure.md#intros) \[see block A\]; 
+* [Secure coding](../delivery/agenda-structure.md#secure-coding) \[see block B\]; 
+* [Secure architecting](../delivery/agenda-structure.md#secure-architecting) \[see block C\]; 
+* [Framework/language specifics](../delivery/agenda-structure.md#framework-language-specifics) \[see [block D]()\]; 
+* [Security testing and audit](../delivery/agenda-structure.md#security-testing-and-audit) \[see [block E](../modules/codereview-lab.md)\]; 
+* [Options](../delivery/agenda-structure.md#options)
 
 ### Course variants
 
 By default the duration of a course is 2 days, 12 hours education time in the standard case. But it also can take 3 days depending on the demands, the preferences regarding the coverage or the depth and also the options requested. The general content variants are:
 
-* [2 days, broad coverage](../delivery/course-variants.md#2-days-broad-coverage)
-* [2 days, in-depth selected topics](../delivery/course-variants.md#2-days-in-depth-selected-topics) 
-* [3 days, both depth and scope ](../delivery/course-variants.md#3-days-both-depth-and-scope)
-* [3 days, assisted code-review](../delivery/course-variants.md#3-days-assisted-code-review)
+* [2 days, broad coverage](../delivery/kits.md#2-days-broad-coverage)
+* [2 days, in-depth selected topics](../delivery/kits.md#2-days-in-depth-selected-topics) 
+* [3 days, both depth and scope ](../delivery/kits.md#3-days-both-depth-and-scope)
+* [3 days, assisted code-review](../delivery/kits.md#3-days-assisted-code-review)
 
 ## Agenda
 
@@ -191,8 +193,10 @@ Upon request we also deliver additional blocks:
 
 ## Trainers
 
+In delivering the course one or two of the following trainers are involved as lead trainer or co-trainer: 
+
 {% hint style="info" %}
-Check out the trainers' bios in the Trainers section
+When it comes to the actual proposal we define who is supposed to do the delivery and in what formation or schedule.
 {% endhint %}
 
 * [Glenn ten Cate](../trainers/glenn-ten-cate.md)

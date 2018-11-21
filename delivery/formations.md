@@ -1,4 +1,4 @@
-# Delivery variants
+# Trainer formations
 
 Our trainings also vary by the delivery. It can be a **solo** training delivered by one trainer, or it can be delivered by **duo** when two trainers are present along the course, or there is a variant when the secondary \(**visiting**\) trainer joins the course for one or a half day.
 
