@@ -1,9 +1,3 @@
----
-description: >-
-  Use this catalog to browse the current https://defdev.eu courses. Check the
-  gitbook menu on the left (where available).
----
-
 # README
 
 defdev secure development trainings are designed to **significantly improve the security quality of the software production** by mastering secure coding skills and through adopting sticky development practices that systematically reduce defects.

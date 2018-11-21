@@ -1,10 +1,14 @@
+---
+description: XOX headline
+---
+
 # Docker security
 
-{% hint style="danger" %}
-TBD
-{% endhint %}
-
 ## About the course
+
+{% hint style="danger" %}
+Work in progress
+{% endhint %}
 
 ### Overview
 
@@ -21,6 +25,8 @@ duration: 1 days \(6hrs education time\)
 developed by: Riccardo ten Cate
 
 ### Prerequisites
+
+XOX
 
 ## Agenda
 
