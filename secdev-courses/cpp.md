@@ -16,7 +16,7 @@ Work in progress
 
 `duration` 2 days \(12 hrs education time\) in the standard case
 
-`options` DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/ssdlc-playbook.md)
+`options` DIY code and ASVS audit; [assisted code-review lab](../modules/codereview-lab.md); [S-SDLC playbook](../modules/ssdlc-playbook.md)
 
 `already delivered to` Siemens/evosoft
 

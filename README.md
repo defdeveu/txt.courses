@@ -46,7 +46,7 @@ Also check out the extra addons in a below section which can greatly expand the 
 
 ### Extras/addons
 
-* [Assisted code-review lab](modules/assisted-code-review-lab.md)
+* [Assisted code-review lab](modules/codereview-lab.md)
 * [S-SDLC playbook](modules/ssdlc-playbook.md)
 * [Hacking applications](modules/hacking.md)
 

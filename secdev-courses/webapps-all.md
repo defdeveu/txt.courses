@@ -24,7 +24,7 @@ audience: senior/medior developers, lead devs, testers and security champions \(
 
 duration: 2 days \(12 hrs education time\) in the standard case
 
-options: DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/ssdlc-playbook.md)
+options: DIY code and ASVS audit; [assisted code-review lab](../modules/codereview-lab.md); [S-SDLC playbook](../modules/ssdlc-playbook.md)
 
 developed by: Glenn ten Cate, Péter Nyilasy, Marek Zachara
 
@@ -42,7 +42,7 @@ A defdev course for developers consists of the following ingredients:
 * [Secure coding](../delivery/agenda-ingredients.md#secure-coding) \[see block B\]; 
 * [Secure architecting](../delivery/agenda-ingredients.md#secure-architecting) \[see block C\]; 
 * [Framework/language specifics](../delivery/agenda-ingredients.md#framework-language-specifics) \[see [block D]()\]; 
-* [Security testing and audit](../delivery/agenda-ingredients.md#security-testing-and-audit) \[see [block E](../modules/assisted-code-review-lab.md)\]; 
+* [Security testing and audit](../delivery/agenda-ingredients.md#security-testing-and-audit) \[see [block E](../modules/codereview-lab.md)\]; 
 * [Options](../delivery/agenda-ingredients.md#options)
 
 ### Course variants

@@ -24,7 +24,7 @@
 
 ## Modules
 
-* [Assisted code-review lab](modules/assisted-code-review-lab.md)
+* [Assisted code-review lab](modules/codereview-lab.md)
 * [S-SDLC playbook](modules/ssdlc-playbook.md)
 * [Hacking applications](modules/hacking.md)
 * [Language specific](modules/langs/README.md)
