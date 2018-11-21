@@ -1,11 +1,11 @@
 ---
 description: >-
-  'Secure development in Java/JEE' course template. Using the "Webapp
-  development with security in mind" template and the 'Secure coding in
-  Java/JEE' language specific module.
+  'Secure development in .net/C#' course template. Using the 'Webapp development
+  with security in mind' template and the 'Secure coding in .net/C#' language
+  specific module.
 ---
 
-# Java
+# .NET
 
 {% hint style="warning" %}
 Work in progress
@@ -15,7 +15,7 @@ Work in progress
 
 ### Properties
 
-`title` **Secure development in Java/JEE**
+`title` **Secure development in .net/C\#**
 
 `revision` R1811i %wip
 
@@ -23,20 +23,20 @@ Work in progress
 
 `duration` 2 days \(12 hrs education time\) in the standard case
 
-`options` DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/s-sdlc-playbook.md)
+`options` DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/ssdlc-playbook.md)
 
 `already delivered to` Logmein, Siemens, AEGON
 
-With the Secure development in Java/JEE course we deliver a complete set of knowledge and practicing. We can on the fly flex the course to meet the level and the experiences of the audience.
+With the Secure development in .net/C\# course we deliver a complete set of knowledge and practicing. We can on the fly flex the course to meet the level and the experiences of the audience.
 
 ### Prerequisites
 
-We assume that the developers attending the Java secdev course:
+We assume that the developers attending the C\# secdev course:
 
-* are familiar with the Java language and with JEE
+* are familiar with the C\# language and with the .NET framework
 * understand the HTTP protocol, HTML and Javascript
 * are familiar with basic security features of an enterprise application \(authentication, authorization, the concept of a session\)
-* have Java \(JDK\) and a suitable IDE installed on their laptop \(labs desktop\)
+* have .net core 2.0 SDK and a suitable IDE installed on their laptop \(labs desktop\)
 
 ### Agenda ingredients
 
@@ -51,7 +51,7 @@ A defdev course for developers consists of the following ingredients:
 * [Intros](../delivery/agenda-ingredients.md#intros) \[see block A\]; 
 * [Secure coding](../delivery/agenda-ingredients.md#secure-coding) \[see block B\]; 
 * [Secure architecting](../delivery/agenda-ingredients.md#secure-architecting) \[see block C\]; 
-* [Framework/language specifics](../delivery/agenda-ingredients.md#framework-language-specifics) \[see [block D](secure-development-in-java.md#secure-coding-in-java-jee)\]; 
+* [Framework/language specifics](../delivery/agenda-ingredients.md#framework-language-specifics) \[see [block D](java.md#secure-coding-in-java-jee)\]; 
 * [Security testing and audit](../delivery/agenda-ingredients.md#security-testing-and-audit) \[see [block E](../modules/assisted-code-review-lab.md)\]; 
 * [Options](../delivery/agenda-ingredients.md#options)
 
@@ -149,19 +149,26 @@ By default the duration of a course is 2 days, 12 hours education time in the st
 
 ### D. Framework/language specifics
 
-#### Secure coding in Java/JEE    <a id="secure-coding-in-java-jee"></a>
+#### Secure coding in .net/C\#     <a id="secure-coding-in-dotnet"></a>
 
 {% hint style="info" %}
-Developed by Péter Nyilasy
+Developed by Riccardo ten Cate
 {% endhint %}
 
-* Java security manager
-* Java language security \(is Java a secure language?\)
-* Java-specific issues
+* Security features of .NET and what kind of protection they serve
+* C\# language security \(is C\# a secure language?\) 
+* .NET-specific issues 
   * Numeric overflow, automatic conversions
-  * Serialization, JPQL
-* SEI CERT Oracle Coding Standard for Java
-* Cryptography in Java
+  * Serialization
+  * Authentication, membership, provider model
+  * Login controls, session management
+  * Role based authorization
+  * ViewState
+  * Identity server
+  * OAuth
+* Cryptography in .NET
+  * How to use a key vault
+  * How to test entropy of secure random solutions
 
 #### JS frameworks _\[optional\]_
 
@@ -207,13 +214,14 @@ Upon request we also deliver additional blocks:
 Check out the trainers' bios in the Trainers section
 {% endhint %}
 
-Lead trainers:
+Lead trainer:
 
-* [Péter Nyilasy](../trainers/peter-nyilasy.md) 
+* [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
+
+Co-trainers:
+
 * [Glenn ten Cate](../trainers/glenn-ten-cate.md) 
-
-Co-trainer:
-
+* [Péter Nyilasy](../trainers/peter-nyilasy.md) 
 * [Marek Zachara](../trainers/marek-zachara.md) 
 
 ## Disclaimer

@@ -1,32 +1,42 @@
 ---
-description: This course is the prototype of various webapp related courses.
+description: >-
+  'Secure development in Java/JEE' course template. Using the "Webapp
+  development with security in mind" template and the 'Secure coding in
+  Java/JEE' language specific module.
 ---
 
-# Webapps in general
-
-## About the course
-
-### Overview
-
-XOX
+# Java
 
 {% hint style="warning" %}
 Work in progress
 {% endhint %}
 
+## About the course
+
 ### Properties
 
-title: **Webapp development with security in mind**
+`title` **Secure development in Java/JEE**
 
-revision: R1811i %wip
+`revision` R1811i %wip
 
-audience: senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
+`audience` senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
 
-duration: 2 days \(12 hrs education time\) in the standard case
+`duration` 2 days \(12 hrs education time\) in the standard case
 
-options: DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/s-sdlc-playbook.md)
+`options` DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/ssdlc-playbook.md)
 
-developed by: Glenn ten Cate, Péter Nyilasy, Marek Zachara
+`already delivered to` Logmein, Siemens, AEGON
+
+With the Secure development in Java/JEE course we deliver a complete set of knowledge and practicing. We can on the fly flex the course to meet the level and the experiences of the audience.
+
+### Prerequisites
+
+We assume that the developers attending the Java secdev course:
+
+* are familiar with the Java language and with JEE
+* understand the HTTP protocol, HTML and Javascript
+* are familiar with basic security features of an enterprise application \(authentication, authorization, the concept of a session\)
+* have Java \(JDK\) and a suitable IDE installed on their laptop \(labs desktop\)
 
 ### Agenda ingredients
 
@@ -41,7 +51,7 @@ A defdev course for developers consists of the following ingredients:
 * [Intros](../delivery/agenda-ingredients.md#intros) \[see block A\]; 
 * [Secure coding](../delivery/agenda-ingredients.md#secure-coding) \[see block B\]; 
 * [Secure architecting](../delivery/agenda-ingredients.md#secure-architecting) \[see block C\]; 
-* [Framework/language specifics](../delivery/agenda-ingredients.md#framework-language-specifics) \[see [block D]()\]; 
+* [Framework/language specifics](../delivery/agenda-ingredients.md#framework-language-specifics) \[see [block D](java.md#secure-coding-in-java-jee)\]; 
 * [Security testing and audit](../delivery/agenda-ingredients.md#security-testing-and-audit) \[see [block E](../modules/assisted-code-review-lab.md)\]; 
 * [Options](../delivery/agenda-ingredients.md#options)
 
@@ -139,17 +149,19 @@ By default the duration of a course is 2 days, 12 hours education time in the st
 
 ### D. Framework/language specifics
 
-#### Secure coding in 
+#### Secure coding in Java/JEE    <a id="secure-coding-in-java-jee"></a>
 
-Here we deliver one of the language specific modules:
+{% hint style="info" %}
+Developed by Péter Nyilasy
+{% endhint %}
 
-* [Java/JEE](../modules/language-specific-modules/java-specific.md)
-* [.NET/C\#](../modules/language-specific-modules/dotnet-specific.md)
-* [JavaScript](../modules/language-specific-modules/js-specific.md)
-* Kotlin
-* Node.js
-* PHP
-* or even [C/C++](../modules/language-specific-modules/cpp-specific.md) in case of RESTful development
+* Java security manager
+* Java language security \(is Java a secure language?\)
+* Java-specific issues
+  * Numeric overflow, automatic conversions
+  * Serialization, JPQL
+* SEI CERT Oracle Coding Standard for Java
+* Cryptography in Java
 
 #### JS frameworks _\[optional\]_
 
@@ -195,10 +207,14 @@ Upon request we also deliver additional blocks:
 Check out the trainers' bios in the Trainers section
 {% endhint %}
 
-* [Glenn ten Cate](../trainers/glenn-ten-cate.md)
+Lead trainers:
+
 * [Péter Nyilasy](../trainers/peter-nyilasy.md) 
+* [Glenn ten Cate](../trainers/glenn-ten-cate.md) 
+
+Co-trainer:
+
 * [Marek Zachara](../trainers/marek-zachara.md) 
-* [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
 
 ## Disclaimer
 

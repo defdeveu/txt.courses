@@ -4,34 +4,34 @@
 
 ## secdev courses
 
-* [Webapps in general](secdev-courses/webapp-secure-development.md)
-* [Java](secdev-courses/secure-development-in-java.md)
-* [.NET](secdev-courses/secure-development-in-.net.md)
-* [Android](secdev-courses/secure-development-for-android.md)
-* [iOS](secdev-courses/secure-development-for-ios.md)
-* [C/C++](secdev-courses/secure-development-in-cpp.md)
+* [Webapps in general](secdev-courses/webapps-all.md)
+* [Java](secdev-courses/java.md)
+* [.NET](secdev-courses/dotnet.md)
+* [Android](secdev-courses/android.md)
+* [iOS](secdev-courses/ios.md)
+* [C/C++](secdev-courses/cpp.md)
 * [etc](secdev-courses/etc.md)
 
 ## Testing courses
 
-* [Security test automation in CI/CD pipelines](testing-courses/security-test-automation-in-ci-cd-pipelines.md)
+* [Security test automation in CI/CD pipelines](testing-courses/cicd.md)
 * [Burp for developers](testing-courses/burp.md)
 
 ## DevSecOps courses
 
-* [Docker security](devsecops-courses/docker-security.md)
-* [AWS security](devsecops-courses/aws-security.md)
+* [Docker security](devsecops-courses/docker.md)
+* [AWS security](devsecops-courses/aws.md)
 
 ## Modules
 
 * [Assisted code-review lab](modules/assisted-code-review-lab.md)
-* [S-SDLC playbook](modules/s-sdlc-playbook.md)
-* [Hacking applications](modules/hacking-applications.md)
-* [Language specific](modules/language-specific-modules/README.md)
-  * [Java specific](modules/language-specific-modules/java-specific.md)
-  * [.net/C\# specific](modules/language-specific-modules/dotnet-specific.md)
-  * [JavaScript specific](modules/language-specific-modules/js-specific.md)
-  * [C/C++ specific](modules/language-specific-modules/cpp-specific.md)
+* [S-SDLC playbook](modules/ssdlc-playbook.md)
+* [Hacking applications](modules/hacking.md)
+* [Language specific](modules/langs/README.md)
+  * [Java specific](modules/langs/java-specific.md)
+  * [.net/C\# specific](modules/langs/dotnet-specific.md)
+  * [JavaScript specific](modules/langs/js-specific.md)
+  * [C/C++ specific](modules/langs/cpp-specific.md)
 
 ## Delivery
 

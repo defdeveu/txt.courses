@@ -1,42 +1,32 @@
 ---
-description: >-
-  'Secure development in .net/C#' course template. Using the 'Webapp development
-  with security in mind' template and the 'Secure coding in .net/C#' language
-  specific module.
+description: This course is the prototype of various webapp related courses.
 ---
 
-# .NET
+# Webapps in general
+
+## About the course
+
+### Overview
+
+XOX
 
 {% hint style="warning" %}
 Work in progress
 {% endhint %}
 
-## About the course
-
 ### Properties
 
-`title` **Secure development in .net/C\#**
+title: **Webapp development with security in mind**
 
-`revision` R1811i %wip
+revision: R1811i %wip
 
-`audience` senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
+audience: senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
 
-`duration` 2 days \(12 hrs education time\) in the standard case
+duration: 2 days \(12 hrs education time\) in the standard case
 
-`options` DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/s-sdlc-playbook.md)
+options: DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/ssdlc-playbook.md)
 
-`already delivered to` Logmein, Siemens, AEGON
-
-With the Secure development in .net/C\# course we deliver a complete set of knowledge and practicing. We can on the fly flex the course to meet the level and the experiences of the audience.
-
-### Prerequisites
-
-We assume that the developers attending the C\# secdev course:
-
-* are familiar with the C\# language and with the .NET framework
-* understand the HTTP protocol, HTML and Javascript
-* are familiar with basic security features of an enterprise application \(authentication, authorization, the concept of a session\)
-* have .net core 2.0 SDK and a suitable IDE installed on their laptop \(labs desktop\)
+developed by: Glenn ten Cate, Péter Nyilasy, Marek Zachara
 
 ### Agenda ingredients
 
@@ -51,7 +41,7 @@ A defdev course for developers consists of the following ingredients:
 * [Intros](../delivery/agenda-ingredients.md#intros) \[see block A\]; 
 * [Secure coding](../delivery/agenda-ingredients.md#secure-coding) \[see block B\]; 
 * [Secure architecting](../delivery/agenda-ingredients.md#secure-architecting) \[see block C\]; 
-* [Framework/language specifics](../delivery/agenda-ingredients.md#framework-language-specifics) \[see [block D](secure-development-in-java.md#secure-coding-in-java-jee)\]; 
+* [Framework/language specifics](../delivery/agenda-ingredients.md#framework-language-specifics) \[see [block D]()\]; 
 * [Security testing and audit](../delivery/agenda-ingredients.md#security-testing-and-audit) \[see [block E](../modules/assisted-code-review-lab.md)\]; 
 * [Options](../delivery/agenda-ingredients.md#options)
 
@@ -149,26 +139,17 @@ By default the duration of a course is 2 days, 12 hours education time in the st
 
 ### D. Framework/language specifics
 
-#### Secure coding in .net/C\#     <a id="secure-coding-in-dotnet"></a>
+#### Secure coding in 
 
-{% hint style="info" %}
-Developed by Riccardo ten Cate
-{% endhint %}
+Here we deliver one of the language specific modules:
 
-* Security features of .NET and what kind of protection they serve
-* C\# language security \(is C\# a secure language?\) 
-* .NET-specific issues 
-  * Numeric overflow, automatic conversions
-  * Serialization
-  * Authentication, membership, provider model
-  * Login controls, session management
-  * Role based authorization
-  * ViewState
-  * Identity server
-  * OAuth
-* Cryptography in .NET
-  * How to use a key vault
-  * How to test entropy of secure random solutions
+* [Java/JEE](../modules/langs/java-specific.md)
+* [.NET/C\#](../modules/langs/dotnet-specific.md)
+* [JavaScript](../modules/langs/js-specific.md)
+* Kotlin
+* Node.js
+* PHP
+* or even [C/C++](../modules/langs/cpp-specific.md) in case of RESTful development
 
 #### JS frameworks _\[optional\]_
 
@@ -214,15 +195,10 @@ Upon request we also deliver additional blocks:
 Check out the trainers' bios in the Trainers section
 {% endhint %}
 
-Lead trainer:
-
-* [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
-
-Co-trainers:
-
-* [Glenn ten Cate](../trainers/glenn-ten-cate.md) 
+* [Glenn ten Cate](../trainers/glenn-ten-cate.md)
 * [Péter Nyilasy](../trainers/peter-nyilasy.md) 
 * [Marek Zachara](../trainers/marek-zachara.md) 
+* [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
 
 ## Disclaimer
 

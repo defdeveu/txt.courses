@@ -16,7 +16,7 @@ Work in progress
 
 `duration` 2 days \(12 hrs education time\) in the standard case
 
-`options` DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/s-sdlc-playbook.md)
+`options` DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/ssdlc-playbook.md)
 
 `already delivered to` Siemens/evosoft
 
@@ -33,7 +33,7 @@ We assume that the developers attending the Java secdev course:
 
 The agenda of this course heavily depends on the actual case of using C/C++ in development.
 
-{% page-ref page="../modules/language-specific-modules/cpp-specific.md" %}
+{% page-ref page="../modules/langs/cpp-specific.md" %}
 
 ## Trainers
 
