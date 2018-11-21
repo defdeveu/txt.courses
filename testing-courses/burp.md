@@ -1,7 +1,7 @@
 ---
 description: >-
-  The purpose of the course is to provide testers and developers an overview how
-  the Burp suite can be used for web testing work.
+  The purpose of the training is to provide testers and developers an overview
+  how the Burp suite can be used for web testing work.
 ---
 
 # Burp for developers
