@@ -1,28 +1,32 @@
 ---
-description: >-
-  This page represents the general agenda of a secure development course for web
-  applications
+description: This course is the prototype of various webapp related courses.
 ---
 
 # Webapps in general
+
+## About the course
+
+### Overview
+
+XOX
 
 {% hint style="warning" %}
 Work in progress
 {% endhint %}
 
-## About the course
-
 ### Properties
 
-`title` **`Webapp development with security in mind`**
+title: **Webapp development with security in mind**
 
-`revision` R1811i %wip
+revision: R1811i %wip
 
-`audience` senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
+audience: senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
 
-`duration` 2 days \(12 hrs education time\) in the standard case
+duration: 2 days \(12 hrs education time\) in the standard case
 
-`options` DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/s-sdlc-playbook.md)
+options: DIY code and ASVS audit; [assisted code-review lab](../modules/assisted-code-review-lab.md); [S-SDLC playbook](../modules/s-sdlc-playbook.md)
+
+developed by: Glenn ten Cate, Péter Nyilasy, Marek Zachara
 
 ### Agenda ingredients
 

@@ -22,7 +22,9 @@ audience: XOX
 
 duration: 2 days \(12hrs education time\)
 
-developed by: Paweł Rzepa
+developed by: Paweł Rzepa 
+
+delivery partner: **Securing** 
 
 ### Prerequisites
 
@@ -34,5 +36,5 @@ XOX
 
 ## Trainers
 
-* [Paweł Rzepa](https://www.securing.pl/en/index.html)
+* [Paweł Rzepa](https://www.securing.pl/en/index.html) @ securing.pl
 
