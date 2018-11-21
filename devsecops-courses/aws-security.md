@@ -24,7 +24,7 @@ duration: 2 days \(12hrs education time\)
 
 developed by: Paweł Rzepa 
 
-delivery partner: **Securing** 
+delivery partner: [**Securing**](https://www.securing.pl/en/index.html) ****
 
 ### Prerequisites
 
