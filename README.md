@@ -17,8 +17,8 @@ We offer the following standard **secure development** courses:
 * [Webapp development with security in mind](secdev-courses/webapp-secure-development.md)
 * [Secure development in Java/JEE](secdev-courses/secure-development-in-java.md)
 * [Secure development in .net/C\#](secdev-courses/secure-development-in-.net.md)
-* [Secure development for Android](secdev-courses/secure-development-for-android.md)
-* [Secure development for iOS](secdev-courses/secure-development-for-ios.md)
+* [Android security design and secure coding](secdev-courses/secure-development-for-android.md)
+* [iOS security design and secure coding](secdev-courses/secure-development-for-ios.md)
 * [Secure development in C/C++](secdev-courses/secure-development-in-cpp.md)
 * [Secure development in Javascript](modules/language-specific-modules/js-specific.md)
 
