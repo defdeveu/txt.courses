@@ -1,8 +1,34 @@
+---
+description: XOX headline
+---
+
 # Security test automation in CI/CD pipelines
 
-{% hint style="info" %}
-Developed by Riccardo ten Cate
+## About the course
+
+{% hint style="danger" %}
+Work in progress
 {% endhint %}
+
+### Overview
+
+XOX
+
+### Properties
+
+title: **Security test automation in CI/CD pipelines**
+
+audience: XOX
+
+duration: 1 day \(6hrs education time\)
+
+developed by: Riccardo ten Cate
+
+### Prerequisites
+
+XOX
+
+## Agenda
 
 * Security test automation
   * Introduction to Docker
@@ -29,4 +55,11 @@ Developed by Riccardo ten Cate
   * Optimize the pipe-line with Kubernetes
 * Intro to Behaviour-Driven Development, BDD-type testing 
   * Calabash introduction
+
+## Trainers
+
+* [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
+
+
+
 
