@@ -34,5 +34,5 @@ XOX
 
 ## Trainers
 
-* [Paweł Rzepa](https://github.com/defdeveu/txt.courses/tree/fb3ff3d4d36c2554895a5ce19ff7481574179a46/trainers/pawel-rzepa.md)
+* [Paweł Rzepa](https://www.securing.pl/en/index.html)
 
