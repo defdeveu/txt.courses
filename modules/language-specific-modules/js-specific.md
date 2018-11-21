@@ -50,8 +50,8 @@ Developed by Péter Nyilasy
 
 #### Other topics 
 
-* JS obfuscation
-* Cryptography in JS
+* JS obfuscation \[\*\]
+* Cryptography in JS \[\*\]
 
 \[\*\] optional, delivered on demand
 
