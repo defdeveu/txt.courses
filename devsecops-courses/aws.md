@@ -36,5 +36,5 @@ XOX
 
 ## Trainers
 
-* [Paweł Rzepa](https://www.securing.pl/en/index.html) @ securing.pl
+* [Paweł Rzepa](https://www.youtube.com/watch?v=MkRYM4HF1h8) @ securing.pl
 
