@@ -4,36 +4,36 @@
 
 ## secdev courses
 
-* [Webapps in general](code/webapps-all.md)
-* [Java](code/java.md)
-* [.NET](code/dotnet.md)
-* [Android](code/android.md)
-* [iOS](code/ios.md)
-* [C/C++](code/cpp.md)
+* [Webapps in general](secdev-courses/webapps-all.md)
+* [Java](secdev-courses/java.md)
+* [.NET](secdev-courses/dotnet.md)
+* [Android](secdev-courses/android.md)
+* [iOS](secdev-courses/ios.md)
+* [C/C++](secdev-courses/cpp.md)
 
 ## Testing courses
 
-* [Security test automation in CI/CD pipelines](test/cicd.md)
-* [Burp for developers](test/burp.md)
+* [Security test automation in CI/CD pipelines](testing-courses/cicd.md)
+* [Burp for developers](testing-courses/burp.md)
 
 ## DevSecOps courses
 
-* [Docker security](ops/docker.md)
-* [AWS security](ops/aws.md)
+* [Docker security](devsecops-courses/docker.md)
+* [AWS security](devsecops-courses/aws.md)
 
 ## Control courses
 
-* [S-SDLC playbook](ctrl/ssdlc-playbook.md)
-* [Assisted code-review lab](ctrl/codereview-lab.md)
+* [S-SDLC playbook](control-courses/ssdlc-playbook.md)
+* [Assisted code-review lab](control-courses/codereview-lab.md)
 
 ## Library
 
-* [Hacking applications](lib/hacking.md)
-* [Language specific](lib/langs/README.md)
-  * [Java specific](lib/langs/java-specific.md)
-  * [.net/C\# specific](lib/langs/dotnet-specific.md)
-  * [JavaScript specific](lib/langs/js-specific.md)
-  * [C/C++ specific](lib/langs/cpp-specific.md)
+* [Hacking applications](library/hacking.md)
+* [Language specific](library/langs/README.md)
+  * [Java specific](library/langs/java-specific.md)
+  * [.net/C\# specific](library/langs/dotnet-specific.md)
+  * [JavaScript specific](library/langs/js-specific.md)
+  * [C/C++ specific](library/langs/cpp-specific.md)
 
 ## Delivery
 
@@ -50,4 +50,8 @@
 * [Péter Nyilasy](trainers/peter-nyilasy.md)
 * [Riccardo ten Cate](trainers/riccardo-ten-cate.md)
 * [Zsombor Kovács](trainers/zsombor-kovacs.md)
+
+## a
+
+* [Untitled](a/untitled.md)
 

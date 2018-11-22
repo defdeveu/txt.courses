@@ -23,7 +23,7 @@ Work in progress
 
 `duration` 2 days \(12 hrs education time\) in the standard case
 
-`options` DIY code and ASVS audit; [assisted code-review lab](../ctrl/codereview-lab.md); [S-SDLC playbook](../ctrl/ssdlc-playbook.md)
+`options` DIY code and ASVS audit; [assisted code-review lab](../control-courses/codereview-lab.md); [S-SDLC playbook](../control-courses/ssdlc-playbook.md)
 
 `already delivered to` Logmein, Siemens, AEGON
 
@@ -52,7 +52,7 @@ A defdev course for developers consists of the following ingredients:
 * [Secure coding](../delivery/agenda-structure.md#secure-coding) \[see block B\]; 
 * [Secure architecting](../delivery/agenda-structure.md#secure-architecting) \[see block C\]; 
 * [Framework/language specifics](../delivery/agenda-structure.md#framework-language-specifics) \[see [block D](java.md#secure-coding-in-java-jee)\]; 
-* [Security testing and audit](../delivery/agenda-structure.md#security-testing-and-audit) \[see [block E](../ctrl/codereview-lab.md)\]; 
+* [Security testing and audit](../delivery/agenda-structure.md#security-testing-and-audit) \[see [block E](../control-courses/codereview-lab.md)\]; 
 * [Options](../delivery/agenda-structure.md#options)
 
 ### Days and kits
@@ -149,7 +149,7 @@ By default the duration of a course is 2 days, 12 hours education time in the st
 
 ### D. Framework/language specifics
 
-#### Secure coding in Java/JEE    <a id="secure-coding-in-java-jee"></a>
+#### Secure coding in Java/JEE     <a id="secure-coding-in-java-jee"></a>
 
 {% hint style="info" %}
 Developed by Péter Nyilasy

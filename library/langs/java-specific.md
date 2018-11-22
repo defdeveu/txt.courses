@@ -2,7 +2,7 @@
 
 ## Courses using it
 
-* [Secure development in Java/JEE](../../code/java.md)
+* [Secure development in Java/JEE]()
 
 ## The language specific module
 
