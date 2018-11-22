@@ -22,7 +22,7 @@
 * [Docker security](ops/docker.md)
 * [AWS security](ops/aws.md)
 
-## Modules
+## Library
 
 * [Assisted code-review lab](modules/codereview-lab.md)
 * [S-SDLC playbook](modules/ssdlc-playbook.md)
