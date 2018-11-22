@@ -4,23 +4,23 @@
 
 ## secdev courses
 
-* [Webapps in general](secdev-courses/webapps-all.md)
-* [Java](secdev-courses/java.md)
-* [.NET](secdev-courses/dotnet.md)
-* [Android](secdev-courses/android.md)
-* [iOS](secdev-courses/ios.md)
-* [C/C++](secdev-courses/cpp.md)
-* [etc](secdev-courses/etc.md)
+* [Webapps in general](secdev/webapps-all.md)
+* [Java](secdev/java.md)
+* [.NET](secdev/dotnet.md)
+* [Android](secdev/android.md)
+* [iOS](secdev/ios.md)
+* [C/C++](secdev/cpp.md)
+* [etc](secdev/etc.md)
 
 ## Testing courses
 
-* [Security test automation in CI/CD pipelines](testing-courses/cicd.md)
-* [Burp for developers](testing-courses/burp.md)
+* [Security test automation in CI/CD pipelines](testing/cicd.md)
+* [Burp for developers](testing/burp.md)
 
 ## DevSecOps courses
 
-* [Docker security](devsecops-courses/docker.md)
-* [AWS security](devsecops-courses/aws.md)
+* [Docker security](devops/docker.md)
+* [AWS security](devops/aws.md)
 
 ## Modules
 

@@ -20,12 +20,12 @@ The defdeveu courses catalog is a work in progress
 
 We offer the following standard **secure development** courses:
 
-* [Webapp development with security in mind](secdev-courses/webapps-all.md)
-* [Secure development in Java/JEE](secdev-courses/java.md)
-* [Secure development in .net/C\#](secdev-courses/dotnet.md)
-* [Android security design and secure coding](secdev-courses/android.md)
-* [iOS security design and secure coding](secdev-courses/ios.md)
-* [Secure development in C/C++](secdev-courses/cpp.md)
+* [Webapp development with security in mind](secdev/webapps-all.md)
+* [Secure development in Java/JEE](secdev/java.md)
+* [Secure development in .net/C\#](secdev/dotnet.md)
+* [Android security design and secure coding](secdev/android.md)
+* [iOS security design and secure coding](secdev/ios.md)
+* [Secure development in C/C++](secdev/cpp.md)
 * [Secure development in Javascript](modules/langs/js-specific.md)
 
 We also offer secdev courses in Kotlin, Python, Node.js and PHP. Please check back later. Subscribe to our twitter @[defdeveu](https://twitter.com/defdeveu) for updates and announcements.
@@ -36,13 +36,13 @@ Also check out the extra addons in a below section which can greatly expand the 
 
 ### Testing courses
 
-* [Security test automation in CI/CD pipelines](testing-courses/cicd.md)
-* [Burp for developers](testing-courses/burp.md)
+* [Security test automation in CI/CD pipelines](testing/cicd.md)
+* [Burp for developers](testing/burp.md)
 
 ### DevSecOps courses
 
-* [Docker security](devsecops-courses/docker.md)
-* [AWS security](devsecops-courses/aws.md)
+* [Docker security](devops/docker.md)
+* [AWS security](devops/aws.md)
 
 ### Extras/addons
 
