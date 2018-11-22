@@ -51,7 +51,7 @@
 * [Riccardo ten Cate](trainers/riccardo-ten-cate.md)
 * [Zsombor Kovács](trainers/zsombor-kovacs.md)
 
-## a
+## b
 
-* [Untitled](a/untitled.md)
+* [Untitled](b/untitled.md)
 
