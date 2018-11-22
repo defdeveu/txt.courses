@@ -30,7 +30,7 @@ options: DIY code and ASVS audit; [assisted code-review lab](../ctrl/codereview-
 
 developed by: Glenn ten Cate, Péter Nyilasy, Marek Zachara
 
-### Agenda ingredients
+### Agenda structure
 
 {% hint style="info" %}
 The below agenda represents a collection of topics and classes we deliver on a course, normally or optionally, in depth or in a short version depending on the needs of the client and the actual audience. The below agenda does not represent a lineup of the topics and classes.
@@ -47,7 +47,7 @@ A defdev course for developers consists of the following ingredients:
 * [Security testing and audit](../delivery/agenda-structure.md#security-testing-and-audit) \[see [block E](../ctrl/codereview-lab.md)\]; 
 * [Options](../delivery/agenda-structure.md#options)
 
-### Course variants
+### Days and kits
 
 By default the duration of a course is 2 days, 12 hours education time in the standard case. But it also can take 3 days depending on the demands, the preferences regarding the coverage or the depth and also the options requested. The general content variants are:
 
