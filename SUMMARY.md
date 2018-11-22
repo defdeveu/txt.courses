@@ -10,7 +10,6 @@
 * [Android](code/android.md)
 * [iOS](code/ios.md)
 * [C/C++](code/cpp.md)
-* [etc](code/etc.md)
 
 ## Testing courses
 
@@ -22,16 +21,19 @@
 * [Docker security](ops/docker.md)
 * [AWS security](ops/aws.md)
 
+## Control courses
+
+* [S-SDLC playbook](ctrl/ssdlc-playbook.md)
+* [Assisted code-review lab](ctrl/codereview-lab.md)
+
 ## Library
 
-* [Assisted code-review lab](modules/codereview-lab.md)
-* [S-SDLC playbook](modules/ssdlc-playbook.md)
-* [Hacking applications](modules/hacking.md)
-* [Language specific](modules/langs/README.md)
-  * [Java specific](modules/langs/java-specific.md)
-  * [.net/C\# specific](modules/langs/dotnet-specific.md)
-  * [JavaScript specific](modules/langs/js-specific.md)
-  * [C/C++ specific](modules/langs/cpp-specific.md)
+* [Hacking applications](lib/hacking.md)
+* [Language specific](lib/langs/README.md)
+  * [Java specific](lib/langs/java-specific.md)
+  * [.net/C\# specific](lib/langs/dotnet-specific.md)
+  * [JavaScript specific](lib/langs/js-specific.md)
+  * [C/C++ specific](lib/langs/cpp-specific.md)
 
 ## Delivery
 
@@ -48,8 +50,4 @@
 * [Péter Nyilasy](trainers/peter-nyilasy.md)
 * [Riccardo ten Cate](trainers/riccardo-ten-cate.md)
 * [Zsombor Kovács](trainers/zsombor-kovacs.md)
-
-## etc
-
-* [Changelog](etc/changelog.md)
 

@@ -26,7 +26,7 @@ audience: senior/medior developers, lead devs, testers and security champions \(
 
 duration: 2 days \(12 hrs education time\) in the standard case
 
-options: DIY code and ASVS audit; [assisted code-review lab](../modules/codereview-lab.md); [S-SDLC playbook](../modules/ssdlc-playbook.md)
+options: DIY code and ASVS audit; [assisted code-review lab](../ctrl/codereview-lab.md); [S-SDLC playbook](../ctrl/ssdlc-playbook.md)
 
 developed by: Glenn ten Cate, Péter Nyilasy, Marek Zachara
 
@@ -44,7 +44,7 @@ A defdev course for developers consists of the following ingredients:
 * [Secure coding](../delivery/agenda-structure.md#secure-coding) \[see block B\]; 
 * [Secure architecting](../delivery/agenda-structure.md#secure-architecting) \[see block C\]; 
 * [Framework/language specifics](../delivery/agenda-structure.md#framework-language-specifics) \[see [block D]()\]; 
-* [Security testing and audit](../delivery/agenda-structure.md#security-testing-and-audit) \[see [block E](../modules/codereview-lab.md)\]; 
+* [Security testing and audit](../delivery/agenda-structure.md#security-testing-and-audit) \[see [block E](../ctrl/codereview-lab.md)\]; 
 * [Options](../delivery/agenda-structure.md#options)
 
 ### Course variants
@@ -145,13 +145,13 @@ By default the duration of a course is 2 days, 12 hours education time in the st
 
 Here we deliver one of the language specific modules:
 
-* [Java/JEE](../modules/langs/java-specific.md)
-* [.NET/C\#](../modules/langs/dotnet-specific.md)
-* [JavaScript](../modules/langs/js-specific.md)
+* [Java/JEE](../lib/langs/java-specific.md)
+* [.NET/C\#](../lib/langs/dotnet-specific.md)
+* [JavaScript](../lib/langs/js-specific.md)
 * Kotlin
 * Node.js
 * PHP
-* or even [C/C++](../modules/langs/cpp-specific.md) in case of RESTful development
+* or even [C/C++](../lib/langs/cpp-specific.md) in case of RESTful development
 
 #### JS frameworks _\[optional\]_
 

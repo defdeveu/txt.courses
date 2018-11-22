@@ -26,7 +26,7 @@ We offer the following standard **secure development** courses:
 * [Android security design and secure coding](code/android.md)
 * [iOS security design and secure coding](code/ios.md)
 * [Secure development in C/C++](code/cpp.md)
-* [Secure development in Javascript](modules/langs/js-specific.md)
+* [Secure development in Javascript](lib/langs/js-specific.md)
 
 We also offer secdev courses in Kotlin, Python, Node.js and PHP. Please check back later. Subscribe to our twitter @[defdeveu](https://twitter.com/defdeveu) for updates and announcements.
 
@@ -46,9 +46,9 @@ Also check out the extra addons in a below section which can greatly expand the 
 
 ### Extras/addons
 
-* [Assisted code-review lab](modules/codereview-lab.md)
-* [S-SDLC playbook](modules/ssdlc-playbook.md)
-* [Hacking applications](modules/hacking.md)
+* [Assisted code-review lab](ctrl/codereview-lab.md)
+* [S-SDLC playbook](ctrl/ssdlc-playbook.md)
+* [Hacking applications](lib/hacking.md)
 
 ## Delivery
 

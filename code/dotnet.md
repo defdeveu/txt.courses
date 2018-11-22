@@ -23,7 +23,7 @@ Work in progress
 
 `duration` 2 days \(12 hrs education time\) in the standard case
 
-`options` DIY code and ASVS audit; [assisted code-review lab](../modules/codereview-lab.md); [S-SDLC playbook](../modules/ssdlc-playbook.md)
+`options` DIY code and ASVS audit; [assisted code-review lab](../ctrl/codereview-lab.md); [S-SDLC playbook](../ctrl/ssdlc-playbook.md)
 
 `already delivered to` Logmein, Siemens, AEGON
 
@@ -52,7 +52,7 @@ A defdev course for developers consists of the following ingredients:
 * [Secure coding](../delivery/agenda-structure.md#secure-coding) \[see block B\]; 
 * [Secure architecting](../delivery/agenda-structure.md#secure-architecting) \[see block C\]; 
 * [Framework/language specifics](../delivery/agenda-structure.md#framework-language-specifics) \[see [block D](java.md#secure-coding-in-java-jee)\]; 
-* [Security testing and audit](../delivery/agenda-structure.md#security-testing-and-audit) \[see [block E](../modules/codereview-lab.md)\]; 
+* [Security testing and audit](../delivery/agenda-structure.md#security-testing-and-audit) \[see [block E](../ctrl/codereview-lab.md)\]; 
 * [Options](../delivery/agenda-structure.md#options)
 
 ### Course variants
