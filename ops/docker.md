@@ -16,7 +16,7 @@ title: **Docker security**
 
 audience: XOX
 
-duration: 1 days \(6hrs education time\)
+duration: 0.5 day \(3hrs education time\)
 
 developed by: Riccardo ten Cate
 
