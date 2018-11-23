@@ -20,7 +20,7 @@ title: **iOS security design and secure coding**
 
 audience: XOX
 
-duration: 1 day \(6hrs education time\)
+duration: 1 XL day \(7hrs education time\)
 
 developed by: Zsombor Kovács
 
