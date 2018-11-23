@@ -20,9 +20,9 @@ The defdeveu courses catalog is a work in progress
 
 We offer the following standard **secure development** courses:
 
-* [Webapp development with security in mind]()
-* [Secure development in Java/JEE]()
-* [Secure development in .net/C\#]()
+* [Webapp development with security in mind](code/webapps-all.md)
+* [Secure development in Java/JEE](code/java.md)
+* [Secure development in .net/C\#](code/dotnet.md)
 * [Android security design and secure coding](code/android.md)
 * [iOS security design and secure coding](code/ios.md)
 * [Secure development in C/C++](code/cpp.md)
