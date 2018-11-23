@@ -8,7 +8,9 @@ Work in progress
 
 ### Overview
 
-XOX
+The Docker security course is a great course to get some more insights and hands-on experience with Docker security.
+
+The topics in this course are the absolute fundamentals of what you should know to work with Docker responsibly. It goes from building minimalistic images to real live exploitation and mitigation of containerized solutions.
 
 ### Properties
 
