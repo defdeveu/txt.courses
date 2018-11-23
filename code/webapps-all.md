@@ -124,8 +124,8 @@ By default the duration of a course is 2 days, 12 hours education time in the st
 #### Access management
 
 * Authentication principles, session management, authorization
-* RESTful authorization \(OAuth2, OpenID Connect\)
-* JSON web tokens, JWT
+* Access management in a RESTful environment \(to JWT or not to JWT\)
+* OAuth2, OpenID Connect
 
 #### Server-side defense
 
@@ -143,7 +143,7 @@ By default the duration of a course is 2 days, 12 hours education time in the st
 
 #### Secure coding in
 
-Here we deliver one of the language specific modules:
+Here we can deliver one of the language specific modules:
 
 * [Java/JEE](../lib/langs/java-specific.md)
 * [.NET/C\#](../lib/langs/dotnet-specific.md)
