@@ -1,42 +1,34 @@
 ---
 description: >-
-  'Secure development in Java/JEE' course template. Using the "Webapp
-  development with security in mind" template and the 'Secure coding in
-  Java/JEE' language specific module.
+  This page represents the general agenda of a secure development course for web
+  applications
 ---
 
-# Java
+# Webapps in general
+
+## About the course
+
+### Overview
+
+XOX
 
 {% hint style="warning" %}
 Work in progress
 {% endhint %}
 
-## About the course
-
 ### Properties
 
-`title` **Secure development in Java/JEE**
+title: **Webapp development with security in mind**
 
-`revision` R1811i %wip
+revision: R1811i %wip
 
-`audience` senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
+audience: senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
 
-`duration` 2 days \(12 hrs education time\) in the standard case
+duration: 2 days \(12 hrs education time\) in the standard case
 
-`options` DIY code and ASVS audit; [assisted code-review lab](../control-courses/codereview-lab.md); [S-SDLC playbook](../control-courses/ssdlc-playbook.md)
+options: DIY code and ASVS audit; [assisted code-review lab](../ctrl/codereview-lab.md); [S-SDLC playbook](../ctrl/ssdlc-playbook.md)
 
-`already delivered to` Logmein, Siemens, AEGON
-
-With the Secure development in Java/JEE course we deliver a complete set of knowledge and practicing. We can on the fly flex the course to meet the level and the experiences of the audience.
-
-### Prerequisites
-
-We assume that the developers attending the Java secdev course:
-
-* are familiar with the Java language and with JEE
-* understand the HTTP protocol, HTML and Javascript
-* are familiar with basic security features of an enterprise application \(authentication, authorization, the concept of a session\)
-* have Java \(JDK\) and a suitable IDE installed on their laptop \(labs desktop\)
+developed by: Glenn ten Cate, Péter Nyilasy, Marek Zachara
 
 ### Agenda structure
 
@@ -51,8 +43,8 @@ A defdev course for developers consists of the following ingredients:
 * [Intros](../delivery/agenda-structure.md#intros) \[see block A\]; 
 * [Secure coding](../delivery/agenda-structure.md#secure-coding) \[see block B\]; 
 * [Secure architecting](../delivery/agenda-structure.md#secure-architecting) \[see block C\]; 
-* [Framework/language specifics](../delivery/agenda-structure.md#framework-language-specifics) \[see [block D](java.md#secure-coding-in-java-jee)\]; 
-* [Security testing and audit](../delivery/agenda-structure.md#security-testing-and-audit) \[see [block E](../control-courses/codereview-lab.md)\]; 
+* [Framework/language specifics](../delivery/agenda-structure.md#framework-language-specifics) \[see [block D](webapps-all.md)\]; 
+* [Security testing and audit](../delivery/agenda-structure.md#security-testing-and-audit) \[see [block E](../ctrl/codereview-lab.md)\]; 
 * [Options](../delivery/agenda-structure.md#options)
 
 ### Days and kits
@@ -149,19 +141,17 @@ By default the duration of a course is 2 days, 12 hours education time in the st
 
 ### D. Framework/language specifics
 
-#### Secure coding in Java/JEE     <a id="secure-coding-in-java-jee"></a>
+#### Secure coding in
 
-{% hint style="info" %}
-Developed by Péter Nyilasy
-{% endhint %}
+Here we deliver one of the language specific modules:
 
-* Java security manager
-* Java language security \(is Java a secure language?\)
-* Java-specific issues
-  * Numeric overflow, automatic conversions
-  * Serialization, JPQL
-* SEI CERT Oracle Coding Standard for Java
-* Cryptography in Java
+* [Java/JEE](../lib/langs/java-specific.md)
+* [.NET/C\#](../lib/langs/dotnet-specific.md)
+* [JavaScript](../lib/langs/js-specific.md)
+* Kotlin
+* Node.js
+* PHP
+* or even [C/C++](../lib/langs/cpp-specific.md) in case of RESTful development
 
 #### JS frameworks _\[optional\]_
 
@@ -203,18 +193,16 @@ Upon request we also deliver additional blocks:
 
 ## Trainers
 
+In delivering the course one or two of the following trainers are involved as lead trainer or co-trainer:
+
 {% hint style="info" %}
-Check out the trainers' bios in the Trainers section
+When it comes to the actual proposal we define who is supposed to do the delivery and in what formation or schedule.
 {% endhint %}
 
-Lead trainers:
-
+* [Glenn ten Cate](../trainers/glenn-ten-cate.md)
 * [Péter Nyilasy](../trainers/peter-nyilasy.md) 
-* [Glenn ten Cate](../trainers/glenn-ten-cate.md) 
-
-Co-trainer:
-
 * [Marek Zachara](../trainers/marek-zachara.md) 
+* [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
 
 ## Disclaimer
 

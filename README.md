@@ -23,10 +23,10 @@ We offer the following standard **secure development** courses:
 * [Webapp development with security in mind]()
 * [Secure development in Java/JEE]()
 * [Secure development in .net/C\#]()
-* [Android security design and secure coding](secdev-courses/android.md)
-* [iOS security design and secure coding](secdev-courses/ios.md)
-* [Secure development in C/C++](secdev-courses/cpp.md)
-* [Secure development in Javascript](library/langs/js-specific.md)
+* [Android security design and secure coding](code/android.md)
+* [iOS security design and secure coding](code/ios.md)
+* [Secure development in C/C++](code/cpp.md)
+* [Secure development in Javascript](lib/langs/js-specific.md)
 
 We also offer secdev courses in Kotlin, Python, Node.js and PHP. Please check back later. Subscribe to our twitter @[defdeveu](https://twitter.com/defdeveu) for updates and announcements.
 
@@ -36,19 +36,19 @@ Also check out the extra addons in a below section which can greatly expand the 
 
 ### Testing courses
 
-* [Security test automation in CI/CD pipelines](testing-courses/cicd.md)
-* [Burp for developers](testing-courses/burp.md)
+* [Security test automation in CI/CD pipelines](test/cicd.md)
+* [Burp for developers](test/burp.md)
 
 ### DevSecOps courses
 
-* [Docker security](devsecops-courses/docker.md)
-* [AWS security](devsecops-courses/aws.md)
+* [Docker security](ops/docker.md)
+* [AWS security](ops/aws.md)
 
 ### Extras/addons
 
-* [Assisted code-review lab](control-courses/codereview-lab.md)
-* [S-SDLC playbook](control-courses/ssdlc-playbook.md)
-* [Hacking applications](library/hacking.md)
+* [Assisted code-review lab](ctrl/codereview-lab.md)
+* [S-SDLC playbook](ctrl/ssdlc-playbook.md)
+* [Hacking applications](lib/hacking.md)
 
 ## Delivery
 

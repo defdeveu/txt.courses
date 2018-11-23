@@ -1,11 +1,11 @@
 ---
 description: >-
-  'Secure development in .net/C#' course template. Using the 'Webapp development
-  with security in mind' template and the 'Secure coding in .net/C#' language
-  specific module.
+  'Secure development in Java/JEE' course template. Using the "Webapp
+  development with security in mind" template and the 'Secure coding in
+  Java/JEE' language specific module.
 ---
 
-# .NET
+# Java
 
 {% hint style="warning" %}
 Work in progress
@@ -15,7 +15,7 @@ Work in progress
 
 ### Properties
 
-`title` **Secure development in .net/C\#**
+`title` **Secure development in Java/JEE**
 
 `revision` R1811i %wip
 
@@ -23,20 +23,20 @@ Work in progress
 
 `duration` 2 days \(12 hrs education time\) in the standard case
 
-`options` DIY code and ASVS audit; [assisted code-review lab](../control-courses/codereview-lab.md); [S-SDLC playbook](../control-courses/ssdlc-playbook.md)
+`options` DIY code and ASVS audit; [assisted code-review lab](../ctrl/codereview-lab.md); [S-SDLC playbook](../ctrl/ssdlc-playbook.md)
 
 `already delivered to` Logmein, Siemens, AEGON
 
-With the Secure development in .net/C\# course we deliver a complete set of knowledge and practicing. We can on the fly flex the course to meet the level and the experiences of the audience.
+With the Secure development in Java/JEE course we deliver a complete set of knowledge and practicing. We can on the fly flex the course to meet the level and the experiences of the audience.
 
 ### Prerequisites
 
-We assume that the developers attending the C\# secdev course:
+We assume that the developers attending the Java secdev course:
 
-* are familiar with the C\# language and with the .NET framework
+* are familiar with the Java language and with JEE
 * understand the HTTP protocol, HTML and Javascript
 * are familiar with basic security features of an enterprise application \(authentication, authorization, the concept of a session\)
-* have .net core 2.0 SDK and a suitable IDE installed on their laptop \(labs desktop\)
+* have Java \(JDK\) and a suitable IDE installed on their laptop \(labs desktop\)
 
 ### Agenda structure
 
@@ -52,7 +52,7 @@ A defdev course for developers consists of the following ingredients:
 * [Secure coding](../delivery/agenda-structure.md#secure-coding) \[see block B\]; 
 * [Secure architecting](../delivery/agenda-structure.md#secure-architecting) \[see block C\]; 
 * [Framework/language specifics](../delivery/agenda-structure.md#framework-language-specifics) \[see [block D](java.md#secure-coding-in-java-jee)\]; 
-* [Security testing and audit](../delivery/agenda-structure.md#security-testing-and-audit) \[see [block E](../control-courses/codereview-lab.md)\]; 
+* [Security testing and audit](../delivery/agenda-structure.md#security-testing-and-audit) \[see [block E](../ctrl/codereview-lab.md)\]; 
 * [Options](../delivery/agenda-structure.md#options)
 
 ### Days and kits
@@ -149,26 +149,19 @@ By default the duration of a course is 2 days, 12 hours education time in the st
 
 ### D. Framework/language specifics
 
-#### Secure coding in .net/C\#      <a id="secure-coding-in-dotnet"></a>
+#### Secure coding in Java/JEE     <a id="secure-coding-in-java-jee"></a>
 
 {% hint style="info" %}
-Developed by Riccardo ten Cate
+Developed by Péter Nyilasy
 {% endhint %}
 
-* Security features of .NET and what kind of protection they serve
-* C\# language security \(is C\# a secure language?\) 
-* .NET-specific issues 
+* Java security manager
+* Java language security \(is Java a secure language?\)
+* Java-specific issues
   * Numeric overflow, automatic conversions
-  * Serialization
-  * Authentication, membership, provider model
-  * Login controls, session management
-  * Role based authorization
-  * ViewState
-  * Identity server
-  * OAuth
-* Cryptography in .NET
-  * How to use a key vault
-  * How to test entropy of secure random solutions
+  * Serialization, JPQL
+* SEI CERT Oracle Coding Standard for Java
+* Cryptography in Java
 
 #### JS frameworks _\[optional\]_
 
@@ -214,14 +207,13 @@ Upon request we also deliver additional blocks:
 Check out the trainers' bios in the Trainers section
 {% endhint %}
 
-Lead trainer:
+Lead trainers:
 
-* [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
-
-Co-trainers:
-
-* [Glenn ten Cate](../trainers/glenn-ten-cate.md) 
 * [Péter Nyilasy](../trainers/peter-nyilasy.md) 
+* [Glenn ten Cate](../trainers/glenn-ten-cate.md) 
+
+Co-trainer:
+
 * [Marek Zachara](../trainers/marek-zachara.md) 
 
 ## Disclaimer
