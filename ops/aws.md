@@ -29,7 +29,7 @@ delivery partner: [**Securing**](https://www.securing.pl/en/index.html) _\*\*_
 ### Prerequisites
 
 * AWS account \(can be free tier\)
-* laptop with: 
+* a laptop with: 
   * git \(the exact repositories to clone will be provided before the course\)
   * Terraform
   * AWS CLI
