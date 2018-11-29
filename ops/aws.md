@@ -7,7 +7,7 @@ description: XOX headline
 ## About the course
 
 During the AWS security course you will learn key security concepts on how to stay secure and compliant using the AWS cloud. The course is designed to be as much practical as possible containing common pitfails in a form of hands-on labs. During the unique labs you do not only learn how to properly configure AWS services, but you will also find a misconfigurations there from an attacker perspective and get to know how to fix it.
- 
+
 Furthermore, we will go through AWS security services - what they are and how to use them to effectively in order to detect and prevent any malicious action. The course also covers what to do once you already got hacked to better prepare you for meeting the wild world.
 
 ### Overview
@@ -28,11 +28,9 @@ delivery partner: [**Securing**](https://www.securing.pl/en/index.html) _\*\*_
 
 ### Prerequisites
 
-AWS account (can be free tier), installed software: git (the exact repositories to clone will be provided before the course), Terraform and AWS CLI 
+AWS account \(can be free tier\), installed software: git \(the exact repositories to clone will be provided before the course\), Terraform and AWS CLI
 
 ## Agenda
-
-
 
 #### Security Basics
 

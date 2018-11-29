@@ -42,7 +42,7 @@ Also check out the extra addons in a below section which can greatly expand the 
 ### DevSecOps courses
 
 * [Docker security](ops/docker.md)
-* [AWS security](ops/aws.md)
+* [AWS security]()
 
 ### Extras/addons
 
