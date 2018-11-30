@@ -36,7 +36,7 @@ delivery partner: [**Securing**](https://www.securing.pl/en/index.html) _\*\*_
 
 ## Agenda
 
-> \* - available in extendeted course version
+> \* -- available in the extended course version
 
 #### Security Basics
 
@@ -62,13 +62,13 @@ delivery partner: [**Securing**](https://www.securing.pl/en/index.html) _\*\*_
 * VPC, NAT instances vs NAT Gateways, NACLs vs Security Groups, Bastions, VPC Flow Logs
 * Labs\*: setting up VPC and data exfiltration
 
-#### Infrastructure Security
+#### Infrastructure Security \*
 
-* Lectures\*: KMS, Key Pairs in EC2 and LightSail, WAF, AWS Shield
+* KMS, Key Pairs in EC2 and LightSail, WAF, AWS Shield
 
 #### Incidence Response in AWS
 
-* Lectures: steps to take after being hacked or loosing keys, reading CloudTrail logs, Pentesting in AWS, AWS Certificate Manager, AWS System Managers, Compliance in AWS
+* Steps to take after being hacked or loosing keys, Reading CloudTrail logs, Pentesting in AWS, AWS Certificate Manager, AWS System Managers, Compliance in AWS
 
 ## Trainers
 
