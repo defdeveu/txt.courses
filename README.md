@@ -22,11 +22,11 @@ We offer the following standard **secure development** courses:
 
 * [Webapp development with security in mind](code/webapps-all.md)
 * [Secure development in Java/JEE](code/java.md)
-* [Secure development in .net/C\#](code/dotnet.md)
+* [Secure development in Javascript](code/js.md)
 * [Android security design and secure coding](code/android.md)
 * [iOS security design and secure coding](code/ios.md)
+* [Secure development in .net/C\#](code/dotnet.md)
 * [Secure development in C/C++](code/cpp.md)
-* [Secure development in Javascript](lib/langs/js-specific.md)
 
 We also offer secdev courses in Kotlin, Python, Node.js and PHP. Please check back later. Subscribe to our twitter @[defdeveu](https://twitter.com/defdeveu) for updates and announcements.
 

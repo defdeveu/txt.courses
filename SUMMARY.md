@@ -6,9 +6,10 @@
 
 * [Webapps in general](code/webapps-all.md)
 * [Java](code/java.md)
-* [.NET](code/dotnet.md)
+* [JavaScript](code/js.md)
 * [Android](code/android.md)
 * [iOS](code/ios.md)
+* [.NET](code/dotnet.md)
 * [C/C++](code/cpp.md)
 
 ## Testing courses
