@@ -6,7 +6,7 @@
 
 ### Overview
 
-The one-day javascript security training will cover the fundamentals of secure coding in javascript. We will teach the most important web vulnerabilities related to javascript from the perspective of the developer. They will learn how to find vulnerabilities during testing, how to recognize them within the source-code, how to avoid, and how to mitigate them. We will cover the security-related specialties of javascript, emphasizing some common pitfalls. We will reach an in-depth understanding of XSS, covering all types and flavors, focusing not only on the theory, but practicing on intentionally vulnerable applications and analyzing their source-code. We will raise awareness of several other js vulnerabilities, CSRF, OSRF, clickjacking, tabnapping as well as some HTML5 related security problems. We will enlighten the significance of CSP and other security-related Http headers. Depending on the needs of the audience we can also present a brief security-evaluation of some popular js technologies \(Angular, React\). 
+The one-day javascript security training will cover the fundamentals of secure coding in javascript. We will teach the most important web vulnerabilities related to javascript from the perspective of the developer. They will learn how to find vulnerabilities during testing, how to recognize them within the source-code, how to avoid, and how to mitigate them. We will cover the security-related specialties of javascript, emphasizing some common pitfalls. We will reach an in-depth understanding of XSS, covering all types and flavors, focusing not only on the theory, but practicing on intentionally vulnerable applications and analyzing their source-code. We will raise awareness of several other js vulnerabilities, CSRF, OSRF, clickjacking, tabnabbing as well as some HTML5 related security problems. We will enlighten the significance of CSP and other security-related Http headers. Depending on the needs of the audience we can also present a brief security-evaluation of some popular js technologies \(Angular, React\). 
 
 On the two-days training we do more exercises, thereby deepening the understanding and the awareness of several topics. We can analyze specific technologies \(Angular, React\) in a more detailed manner. We also learn about some tools used by hackers and penetration testers. If time and the structure of the audience allows it, we can even finish the course by analyzing the some of the audience’s own source code, trying to find vulnerabilities and putting into practice what we learned during the course.
 
@@ -157,13 +157,6 @@ Developed by Péter Nyilasy
 * Open redirection
 * Client side sqli \[\*\]
 * Cookie injection
-
-#### Other JS \(or JS related\) vulnerabilities 
-
-* The same origin policy, CSRF, CORS
-* OSRF
-* Clickjacking
-* Tabnapping
 
 #### HTML5 security
 

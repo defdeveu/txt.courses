@@ -32,7 +32,7 @@ Developed by Péter Nyilasy
 * The same origin policy, CSRF, CORS
 * OSRF
 * Clickjacking
-* Tabnapping
+* Tabnabbing
 
 #### HTML5 security
 
