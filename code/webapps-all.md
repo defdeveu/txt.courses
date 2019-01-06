@@ -1,28 +1,34 @@
-# JavaScript
+---
+description: >-
+  This page represents the general agenda of a secure development course for web
+  applications
+---
 
-
+# Webapps in general
 
 ## About the course
 
 ### Overview
 
-The one-day javascript security training will cover the fundamentals of secure coding in javascript. We will teach the most important web vulnerabilities related to javascript from the perspective of the developer. They will learn how to find vulnerabilities during testing, how to recognize them within the source-code, how to avoid, and how to mitigate them. We will cover the security-related specialties of javascript, emphasizing some common pitfalls. We will reach an in-depth understanding of XSS, covering all types and flavors, focusing not only on the theory, but practicing on intentionally vulnerable applications and analyzing their source-code. We will raise awareness of several other js vulnerabilities, CSRF, OSRF, clickjacking, tabnabbing as well as some HTML5 related security problems. We will enlighten the significance of CSP and other security-related Http headers. Depending on the needs of the audience we can also present a brief security-evaluation of some popular js technologies \(Angular, React\). 
+XOX
 
-On the two-days training we do more exercises, thereby deepening the understanding and the awareness of several topics. We can analyze specific technologies \(Angular, React\) in a more detailed manner. We also learn about some tools used by hackers and penetration testers. If time and the structure of the audience allows it, we can even finish the course by analyzing the some of the audience’s own source code, trying to find vulnerabilities and putting into practice what we learned during the course.
+{% hint style="warning" %}
+Work in progress
+{% endhint %}
 
 ### Properties
 
-title: **Secure development in Javascript**
+title: **Webapp development with security in mind**
 
 revision: R1811i %wip
 
 audience: senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
 
-duration: 2 days \(12 hrs education time\) in the standard case; 1 XL day \(7 hrs\)
+duration: 2 days \(12 hrs education time\) in the standard case
 
-options: DIY code and ASVS audit; [assisted code-review lab](../control-courses/codereview-lab.md); [S-SDLC playbook](../control-courses/ssdlc-playbook.md)
+options: DIY code and ASVS audit; [assisted code-review lab](../ctrl/codereview-lab.md); [S-SDLC playbook](../ctrl/ssdlc-playbook.md)
 
-developed by: Péter Nyilasy, Glenn ten Cate, Marek Zachara
+developed by: Glenn ten Cate, Péter Nyilasy, Marek Zachara
 
 ### Agenda structure
 
@@ -38,7 +44,7 @@ A defdev course for developers consists of the following ingredients:
 * [Secure coding](../delivery/agenda-structure.md#secure-coding) \[see block B\]; 
 * [Secure architecting](../delivery/agenda-structure.md#secure-architecting) \[see block C\]; 
 * [Framework/language specifics](../delivery/agenda-structure.md#framework-language-specifics) \[see [block D](webapps-all.md)\]; 
-* [Security testing and audit](../delivery/agenda-structure.md#security-testing-and-audit) \[see [block E](../control-courses/codereview-lab.md)\]; 
+* [Security testing and audit](../delivery/agenda-structure.md#security-testing-and-audit) \[see [block E](../ctrl/codereview-lab.md)\]; 
 * [Options](../delivery/agenda-structure.md#options)
 
 ### Days and kits
@@ -133,51 +139,57 @@ By default the duration of a course is 2 days, 12 hours education time in the st
 * Intrusion detection, correct reactions
 * Protecting the admin interface
 
-### D. Secure coding in JS
+### D. Framework/language specifics
 
-{% hint style="info" %}
-Developed by Péter Nyilasy
-{% endhint %}
+#### Secure coding in
 
-#### Is JS a secure language? 
+Here we can deliver one of the language specific modules:
 
-* Automatic conversions
-* Type safety
-* Variable scopes
-* Eval, setTimeout, etc,,,
+* [Java/JEE](../lib/langs/java-specific.md)
+* [.NET/C\#](../lib/langs/dotnet-specific.md)
+* [JavaScript](../lib/langs/js-specific.md)
+* Kotlin
+* Node.js
+* PHP
+* or even [C/C++](../lib/langs/cpp-specific.md) in case of RESTful development
 
-#### Js injections
+#### JS frameworks _\[optional\]_
 
-* XSS
-  * Types \(reflective, stored, dom-based, non dom-based\) 
-  * Dangerous js functions \(Vanilla and jQuery\)
-  * How to defend 
-  * BeEF demo \[\*\]
-* Other html injections
-* Open redirection
-* Client side sqli \[\*\]
-* Cookie injection
+* Angular JS/TS
+* Polymer
+* React
 
-#### HTML5 security
+#### HTML5 _\[optional\]_
 
-* Web storage \[\*\]
-* WebSockets \[\*\]
-* Web Messaging \[\*\]
-* Webworkers \[\*\]
-* Iframe sandboxing
-* CSP and other security headers
+* Local storage/session storage 
+* Web messaging, web sockets
 
-#### Technology specific security 
+### E. Security testing and audit
 
-* ReactJS security \[\*\]
-* Angular security \[\*\]
+Practicing is part of many of the above blocks. We start off basic hacking challenges, but the real exercises are about fixing vulnerable codes, and tasks when attendees need to assess code and an application on their own. We mostly offer cloud based facilities to run the exercise environments, so no local installation is needed.
 
-#### Other topics 
+#### Hands-ons with vulnerable apps
 
-* JS obfuscation \[\*\]
-* Cryptography in JS \[\*\]
+* For most of the courses there are intentionally vulnerable applications which we use to demonstrate and learn specific vulnerabilities and how to fix them.
+* In some cases we use public "damn vulnerable" applications, in some cases we prepared our own applications to practice with. 
 
-\[\*\] optional, delivered on demand
+#### DIY sonarqube code checking
+
+* We assume that developers should be capable of running basic automated tests against the security of their codes on their own. And also be able to tune the SCA tools to produce reasonable false positive and valuable findings ratio. 
+* Normally we teach how to use security plugins of Sonarqube. 
+* We provide sample codes to test. Though the best experience is achieved when developers run the security SCA against their own codes. 
+* See also the extra, on-demand block of 'Assisted code-review lab' below for practicing on your own codes. 
+
+#### DIY ASVS self-audit
+
+* OWASP ASVS is the current standard for assessing the security quality and design flaws of a \(web\) application, and it's the developers who know the answers to the ASVS audit questions. So we take developers to a short journey in assessing the security properties of their applications.
+
+### Extras _\[optional\]_
+
+Upon request we also deliver additional blocks:
+
+* K: In case of languages and frameworks our trainers are familiar with as auditors we can deliver an additional day to let developers apply the knowledge and skills learnt against their own codes. We call it the 'Assisted code-review lab'. 
+* L-N: We also suggest one of the related add-on courses: S-SDLC playbook Hacking applications Security test automation in CI/CD pipelines
 
 ## Trainers
 
@@ -191,4 +203,8 @@ When it comes to the actual proposal we define who is supposed to do the deliver
 * [Péter Nyilasy](../trainers/peter-nyilasy.md) 
 * [Marek Zachara](../trainers/marek-zachara.md) 
 * [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
+
+## Disclaimer
+
+This document describes a subject under discussion. The agenda of the training and the particulars of the planned delivery may change during further iterations of the discussion.
 
