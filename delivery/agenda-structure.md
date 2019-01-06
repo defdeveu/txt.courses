@@ -30,7 +30,7 @@ We assume that developers \(and other professionals involved in software product
 
 ### Options
 
-The course can be extended with add-on modules, such as [assisted code-review](../ctrl/codereview-lab.md) or [S-SDLC playbook](../ctrl/ssdlc-playbook.md). \[see blocks K,L,M\];
+The course can be extended with add-on modules, such as [assisted code-review](../control-courses/codereview-lab.md) or [S-SDLC playbook](../control-courses/ssdlc-playbook.md). \[see blocks K,L,M\];
 
 ## Other course types
 
