@@ -67,5 +67,5 @@ Our **trainers** are practitioners with authority and have years of experience i
 
 **Contact**: x@secmachine.com
 
-[Try a training!](https://goo.gl/forms/IBtLGX8XU6vql9y42) \(contact google form\)
+[**&gt;&gt;&gt; Try a training! &lt;&lt;&lt;**](https://goo.gl/forms/IBtLGX8XU6vql9y42) \(a contact google form\)
 
