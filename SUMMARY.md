@@ -30,7 +30,7 @@
 
 ## Library
 
-* [Mobile security baseline](lib/preps-for-mobile.md)
+* [Mobile security baseline](lib/mobile-baseline.md)
 * [Hacking applications](lib/hacking.md)
 * [Language specific](lib/langs/README.md)
   * [Java specific](lib/langs/java-specific.md)

@@ -37,7 +37,7 @@ We assume that the developers attending the iOS secdev course:
 
 ### Related courses
 
-* [Mobile security baseline](../lib/preps-for-mobile.md)
+* [Mobile security baseline](../lib/mobile-baseline.md)
 * [Mobile testing automation](../test/mobile-testing-automation.md)
 * [Android security design and secure coding](android.md)
 
