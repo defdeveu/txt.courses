@@ -47,6 +47,7 @@ Also check out the extra addons in a below section which can greatly expand the 
 ### Extras/addons
 
 * [Assisted code-review lab](ctrl/codereview-lab.md)
+* [Mobile security baseline](lib/preps-for-mobile.md)
 * [S-SDLC playbook](ctrl/ssdlc-playbook.md)
 * [Hacking applications](lib/hacking.md)
 

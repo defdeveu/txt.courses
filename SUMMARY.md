@@ -15,6 +15,7 @@
 ## Testing courses
 
 * [Security test automation in CI/CD pipelines](test/cicd.md)
+* [Mobile testing automation](test/mobile-testing-automation.md)
 * [Burp for developers](test/burp.md)
 
 ## DevSecOps courses
@@ -29,6 +30,7 @@
 
 ## Library
 
+* [Mobile security baseline](lib/preps-for-mobile.md)
 * [Hacking applications](lib/hacking.md)
 * [Language specific](lib/langs/README.md)
   * [Java specific](lib/langs/java-specific.md)

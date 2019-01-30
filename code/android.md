@@ -33,6 +33,12 @@ We assume that the developers attending the Android secdev course:
   * Android Studio installed and configured
   * Genymotion emulator installed and configured
 
+### Related courses
+
+* [Mobile security baseline](../lib/preps-for-mobile.md)
+* [Mobile testing automation](../test/mobile-testing-automation.md)
+* [iOS security design and secure coding](ios.md)
+
 ## Agenda
 
 #### Intro

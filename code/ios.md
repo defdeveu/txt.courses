@@ -35,6 +35,12 @@ We assume that the developers attending the iOS secdev course:
   * Apple Developer Account with a distribution profile
   * test devices that are included in the installed distribution profile
 
+### Related courses
+
+* [Mobile security baseline](../lib/preps-for-mobile.md)
+* [Mobile testing automation](../test/mobile-testing-automation.md)
+* [Android security design and secure coding](android.md)
+
 ## Agenda
 
 #### Intro
