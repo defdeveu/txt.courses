@@ -8,7 +8,7 @@ Work in progress
 
 ### Overview
 
-XOX
+The course provides a solid overview about how mobile applications can be viewed from a hacker's perspective. Besides introducing the audience to concepts and ideas, the participants are also provided with examples and demo applications for common hacking tools, exploiting security pitfalls, design and implementation mistakes.
 
 ### Properties
 
@@ -16,7 +16,7 @@ title: **Mobile security baseline**
 
 aka: "Secure coding and design principles for mobile**"**
 
-audience: XOX
+audience: mobile applications developers, application hackers, security enthusiasts
 
 duration: 3-6hrs education time
 
