@@ -30,7 +30,7 @@ We assume that the developers attending the preps mobile secdev course:
 
 * [Android security design and secure coding](../code/android.md)
 * [iOS security design and secure coding](../code/ios.md)
-* [Mobile security baseline]()
+* [Mobile security baseline](../lib/mobile-baseline.md)
 
 ## Agenda
 
