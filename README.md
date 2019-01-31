@@ -64,7 +64,7 @@ Our **trainers** are practitioners with authority and have years of experience i
 
 ## About us
 
-**Clients**/visitors of public and private defdev \[and also secmachine\] trainings were/are: LogMeIn/LastPass/GoToMeeting/Boldchat, Ustream, JKU Institute für Netzwerke und Sicherheit, Siemens/evosoft, Nokia, GE Healthcare, Opera Software, SAP, Balabit, AEGON, KBC/KH Hungary, Ocado.
+**Clients**/visitors of public and private defdev \[and also secmachine\] trainings were/are: LogMeIn/LastPass/GoToMeeting/Boldchat, Ustream, JKU Institute für Netzwerke und Sicherheit, Siemens/evosoft, Nokia, GE Healthcare, Opera Software, SAP, Balabit, AEGON, KBC/KH Hungary, Ocado,  [Vijfhart](https://www.vijfhart.nl/waarom-vijfhart/).
 
 **Contact**: x@secmachine.com
 

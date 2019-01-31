@@ -2,10 +2,6 @@
 
 ## About the course
 
-{% hint style="danger" %}
-Work in progress
-{% endhint %}
-
 ### Overview
 
 The course provides a solid overview about how mobile applications can be viewed from a hacker's perspective. Besides introducing the audience to concepts and ideas, the participants are also provided with examples and demo applications for common hacking tools, exploiting security pitfalls, design and implementation mistakes.
@@ -40,28 +36,28 @@ We assume that the developers attending the preps mobile secdev course:
 * OWASP MASVS topics, an introduction to the areas to protect 
 * How a properly designed infrastructure architecture should be built 
 
-#### Secure coding principles and design 
+#### Secure coding principles and design
 
 * Explanation of the secure coding principles 
 * Practical hands-on tasks of the secure coding principles 
 * Security by design 
 
-#### Mobile architectures are secure by design, why do we care 
+#### Mobile architectures are secure by design, why do we care
 
 * API security, what will hit the server-side via a rooted mobile device 
 
-#### Cryptography basics 
+#### Cryptography basics
 
 * Cryptography basics, TLS, ciphersuites 
 * HTTP certificate pinning, Perfect forward secrecy, Certificate transparency 
 
-#### Practical secure development 
+#### Practical secure development
 
 * Setting up the right security requirements 
 * Create and train security champions S-SDLC basics, secure development as integral part of SDLC 
 * Automatic tools and their values, non-automatic tools, pentests, peer code-review, assisted code-review 
 
-#### Testing exercises, DIY 
+#### Testing exercises, DIY
 
 * Testing security in Xcode / Android Studio 
 * Security testing with MobSF 
