@@ -1,24 +1,22 @@
 ---
-description: XOX headline
----
 
 # iOS
 
 ## About the course
 
-{% hint style="danger" %}
-Work in progress
-{% endhint %}
+Our iOS training aims to provide an insight into every aspect of secure mobile application development. In order to cover everything a developer needs to commit and publish secure code through the App Store, the agenda is built from the ground up and has been designed to provide practical exercises throughout the entire training. 
+
+The training has been tested and used successfully with several mobile heavy developer companies.
 
 ### Overview
 
-XOX
+After a short introduction, we take a look at the overall Apple/iOS philosophy, the OS security features and their implications on the daily life of a developer. We take a look at typical issues in iOS applications (many of those result in immediate rejection from App Store upload), how problematic challenges can be tackled and how typical pitfalls can be avoided. Throughout the course, a plethora of in-house demo applications are provided to highlight issues.
 
 ### Properties
 
 title: **iOS security design and secure coding**
 
-audience: XOX
+audience: iOS developers, information security officers, security champions
 
 duration: 1 XL day \(7hrs education time\)
 
@@ -30,7 +28,7 @@ We assume that the developers attending the iOS secdev course:
 
 * are familiar with with the mobile apps development process and technologies
 * have a suitable IDE installed on their laptop \(labs desktop\)
-  * a physical Apple computer
+  * a physical Apple computer (ideally a MacBook Pro model)
   * the latest Xcode with the corresponding SDKs
   * Apple Developer Account with a distribution profile
   * test devices that are included in the installed distribution profile
@@ -59,8 +57,8 @@ We assume that the developers attending the iOS secdev course:
 #### Secure data storage
 
 * iOS storage encryption
-* Protection classes, storage formats and security implications
-* Data storage and backups
+* Protection classes, storage formats and their security implications
+* Data storage and backups (iTunes, iCloud, 3rd party applications)
 * Logging
 * Hands-on: \(in\)secure storage in applications
 
@@ -68,18 +66,26 @@ We assume that the developers attending the iOS secdev course:
 
 * App Transport Security
 * Certificate pinning
-* Hands-on: certificate pinning implementation and bypass
+* Hands-on: certificate pinning implementation and potential bypass methods
 
 #### Inter-process communication
 
 * Custom protocol handlers
 * Hands-on: attacking and securing an insecure custom protocol handler
 
-  Secure crypto implementation
+### Secure crypto implementation
 
-* Hands-on: insecure crypto examples and hardcoded encryption key extraction
+* Crypto implementation in iOS. CCCrypt and wrappers
+* Designing a secure crypto engine, what to do and what to avoid. The dangers of home grown ciphers 
+* Hands-on: insecure crypto examples, the extraction of a hard wired encryption key
 
-#### Secure implementation in
+### Environmental interaction in iOS
+
+* The iOS environment philosophy, the evolution of the 'iOS cage'
+* Expected and unexpected environmental intervetions throughout the application lifecycle
+* Hands-on: screen masking, side channel data leakage, WebView issues 
+
+### Secure implementation in
 
 * Swift
 * Objective C 
