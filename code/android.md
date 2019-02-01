@@ -6,13 +6,13 @@ description: XOX headline
 
 ## About the course
 
-{% hint style="danger" %}
-Work in progress
-{% endhint %}
+Our Android training aims to provide an insight into every aspect of secure mobile application development. In order to cover everything a developer needs to commit and publish secure code through the Play Store, the agenda is built from the ground up and has been designed to provide practical exercises throughout the entire training, with a heavy focus on how Android as a development platform offers security features to developers. 
+
+The training has been tested and used successfully with several mobile heavy developer companies.
 
 ### Overview
 
-XOX
+After a short introduction, we take a look at the overall Google/Android philosophy, the OS security features and their implications on the daily life of a developer. We take a look at typical issues in Android applications with some now-infamous bugs and exploits from the past, how problematic challenges can be tackled and how typical pitfalls can be avoided. Throughout the course, a plethora of in-house demo applications are provided to highlight issues.
 
 ### Properties
 
