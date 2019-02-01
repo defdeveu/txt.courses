@@ -28,7 +28,7 @@ We assume that the developers attending the preps mobile secdev course:
 
 ### Related courses
 
-* [Android security design and secure coding](../code/android.md)
+* [Android security design and secure coding]()
 * [iOS security design and secure coding](../code/ios.md)
 * [Mobile security baseline](../lib/mobile-baseline.md)
 
