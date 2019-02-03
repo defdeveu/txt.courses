@@ -23,7 +23,7 @@ We offer the following standard **secure development** courses:
 * [Webapp development with security in mind](code/webapps-all.md)
 * [Secure development in Java/JEE](code/java.md)
 * [Secure development in Javascript](code/js.md)
-* [Android security design and secure coding]()
+* [Android security design and secure coding](code/android.md)
 * [iOS security design and secure coding](code/ios.md)
 * [Secure development in .net/C\#](code/dotnet.md)
 * [Secure development in C/C++](code/cpp.md)
@@ -37,6 +37,7 @@ Also check out the extra addons in a below section which can greatly expand the 
 ### Testing courses
 
 * [Security test automation in CI/CD pipelines](test/cicd.md)
+* [Mobile testing automation](test/mobile-testing-automation.md)
 * [Burp for developers](test/burp.md)
 
 ### DevSecOps courses

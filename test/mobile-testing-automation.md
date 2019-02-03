@@ -2,23 +2,27 @@
 
 ## About the course
 
-{% hint style="danger" %}
-Work in progress
-{% endhint %}
-
 ### Overview
 
-XOX
+Mobile security test automation focuses on how to set up security test automation in your CI/CD pipelines. But also how to create an agnostic pipeline approach that works over different CI tooling.
+
+Build once, run everywhere!
+
+In the course we will in depth cover different security tooling for mobile software development. We cover static analysis tools and dynamic analysis tools, and in what stages of development to introduce these tools. By learning the tools that the hackers will run against your application, we will learn how to create more robust and hardened applications.
+
+Now, security tooling can only cover the applications technical and misconfiguration vulnerabilities. In this course we will also be learning how to find and define the right security requirements by means of threat modeling and utilizing powerful standards of security controls like `MASVS`. This also helps us to prevent introducing vulnerabilities in the applications business logic.
+
+After we learn how to set up a pipeline generating security metrics for your mobile applications. We now need a way to handle these metrics so that they can be easily worked with. Here we introduce the vulnerability management system. The VMT in short will help you with critical difficulties like delta reporting, false positive suppression, prioritise risk decisions and helps as a powerful reporting tool to your upper management.
 
 ### Properties
 
 title: **Mobile testing automation**
 
-audience: XOX
+**audience**: Android and iOS testers and developers, security engineers, security champions
 
-duration: 3-6hrs education time
+**duration**: 3-6hrs education time
 
-developed by: Riccardo ten Cate
+developed by: [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
 
 ### Prerequisites
 
