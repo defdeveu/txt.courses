@@ -11,7 +11,7 @@ description: >-
 
 ### Overview
 
-The two-day java security workshop covers the fundamentals of secure coding in a web-related environment. We can on the fly flex the course to meet the level and the experiences of the audience.
+The two-days Java security workshop covers the fundamentals of secure coding in a web-related environment. We can on the fly flex the training to meet the level and the experiences of the audience.
 
 During the course, developers learn how to find vulnerabilities, how to identify them within the source code, how to avoid, and how to mitigate them. We believe that developers understand security concepts at best when it is presented in their own programming language, therefore in this course, every example \(except HTML and js specifics\) are demonstrated via Java code. 
 
