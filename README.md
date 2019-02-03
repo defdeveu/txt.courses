@@ -8,17 +8,15 @@ description: >-
 
 defdev secure development trainings are designed to **significantly improve the security quality of the software production** by mastering secure coding skills and through adopting sticky development practices that systematically reduce defects.
 
-{% hint style="warning" %}
-The defdeveu courses catalog is a work in progress
-{% endhint %}
+This site \(c.defdev.eu\) is a catalog/menu/repertoire of the defdev private trainings/workshops. For the upcoming public and hosted trainings check the [defdev.eu](https://defdev.eu) site.
 
-## Courses
+## Courses/workshops
 
 **The European defensive development** \(defdev.eu\) project provides public and private \(and hybrid, aka hosted\) trainings for software development companies. We do **secure development** and security **testing** courses and also trainings to improve secure **devops** and **SDLC** processes.
 
 ### Secdev courses
 
-We offer the following standard **secure development** courses:
+We offer the following standard **secure development** courses and workshops:
 
 * [Webapp development with security in mind](code/webapps-all.md)
 * [Secure development in Java/JEE](code/java.md)

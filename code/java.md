@@ -7,27 +7,45 @@ description: >-
 
 # Java
 
-{% hint style="warning" %}
-Work in progress
-{% endhint %}
-
 ## About the course
+
+### Overview
+
+The two-day java security workshop covers the fundamentals of secure coding in a web-related environment. We can on the fly flex the course to meet the level and the experiences of the audience.
+
+During the course, developers learn how to find vulnerabilities, how to identify them within the source code, how to avoid, and how to mitigate them. We believe that developers understand security concepts at best when it is presented in their own programming language, therefore in this course, every example \(except HTML and js specifics\) are demonstrated via Java code. 
+
+Doing exercises is the most fun and most effective way of learning security concepts, and so during the workshop, the attendees will identify and fix security vulnerabilities in [Javulna](https://github.com/defdeveu/javulna), a deliberately vulnerable Java application, developed by us \(available on Github\). 
+
+The course covers the following topics: 
+
+* Secure-coding principles 
+* Injections \(SQL, XML, LDAP, path-traversal, etc...\) 
+* Other server-side vulnerabilities \(XXE, CSRF, Billion laughs, RFI\) 
+* Java-specific \(overflows, type-safety, serialization, Java Security Manager, Java-coding best-practices by SEI CERT\) 
+* Client-side vulnerabilities \(XSS, HTML injection, Clickjacking, Tabnabbing\) 
+* Http security-related headers
+* Security of the most fundamental authentication and authorization schemes. 
+
+Based on their previous knowledge and interest attendees can further choose from the following topics: 
+
+* Security of OAuth and OpenId
+* Cryptography basics
+* Cryptography of the web \(TLS, certificate pinning\)
+* HTML5 security 
+* Security of some JS frameworks.
+
+Auditing of the attendees' own source-code, identifying security best-practises of their specific technologies can be part of the two-days workshop, or extended to an additional day \(see Related courses below\).
 
 ### Properties
 
-`title` **Secure development in Java/JEE**
+title: **Secure development in Java/JEE**
 
-`revision` R1811i %wip
+**audience**: senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
 
-`audience` senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
+**duration**: 2 days \(12 hrs education time\) in the standard case, 3 days if combined with additional modules \(see the related courses below\)
 
-`duration` 2 days \(12 hrs education time\) in the standard case
-
-`options` DIY code and ASVS audit; [assisted code-review lab](../ctrl/codereview-lab.md); [S-SDLC playbook](../ctrl/ssdlc-playbook.md)
-
-`already delivered to` Logmein, Siemens, AEGON
-
-With the Secure development in Java/JEE course we deliver a complete set of knowledge and practicing. We can on the fly flex the course to meet the level and the experiences of the audience.
+Java specific parts are developed by: [Péter Nyilasy](../trainers/peter-nyilasy.md)  
 
 ### Prerequisites
 
@@ -38,31 +56,11 @@ We assume that the developers attending the Java secdev course:
 * are familiar with basic security features of an enterprise application \(authentication, authorization, the concept of a session\)
 * have Java \(JDK\) and a suitable IDE installed on their laptop \(labs desktop\)
 
-### Agenda structure
+### Related courses
 
-{% hint style="info" %}
-The below agenda represents a collection of topics and classes we deliver on a course, normally or optionally, in depth or in a short version depending on the needs of the client and the actual audience. The below agenda does not represent a lineup of the topics and classes.
-{% endhint %}
-
-For many of the topics in the below agenda we prepare demos, code fixing exercises, and DIY practices. Most of the hands-ons and other practical exercises are available as cloud instances developed and hosted by defdev.eu.
-
-A defdev course for developers consists of the following ingredients:
-
-* [Intros](../delivery/agenda-structure.md#intros) \[see block A\]; 
-* [Secure coding](../delivery/agenda-structure.md#secure-coding) \[see block B\]; 
-* [Secure architecting](../delivery/agenda-structure.md#secure-architecting) \[see block C\]; 
-* [Framework/language specifics](../delivery/agenda-structure.md#framework-language-specifics) \[see [block D](java.md#secure-coding-in-java-jee)\]; 
-* [Security testing and audit](../delivery/agenda-structure.md#security-testing-and-audit) \[see [block E](../ctrl/codereview-lab.md)\]; 
-* [Options](../delivery/agenda-structure.md#options)
-
-### Days and kits
-
-By default the duration of a course is 2 days, 12 hours education time in the standard case. But it also can take 3 days depending on the demands, the preferences regarding the coverage or the depth and also the options requested. The general content variants are:
-
-* [2 days, broad coverage](../delivery/kits.md#2-days-broad-coverage)
-* [2 days, in-depth selected topics](../delivery/kits.md#2-days-in-depth-selected-topics) 
-* [3 days, both depth and scope ](../delivery/kits.md#3-days-both-depth-and-scope)
-* [3 days, assisted code-review](../delivery/kits.md#3-days-assisted-code-review)
+* DIY code and ASVS audit
+* [Assisted code-review lab](../ctrl/codereview-lab.md)
+* [S-SDLC playbook](../ctrl/ssdlc-playbook.md)
 
 ## Agenda
 
@@ -174,7 +172,7 @@ Developed by Péter Nyilasy
 * Local storage/session storage 
 * Web messaging, web sockets
 
-### E. Security testing and audit
+### E. Security testing and audit \[optional\]
 
 Practicing is part of many of the above blocks. We start off basic hacking challenges, but the real exercises are about fixing vulnerable codes, and tasks when attendees need to assess code and an application on their own. We mostly offer cloud based facilities to run the exercise environments, so no local installation is needed.
 
@@ -193,13 +191,6 @@ Practicing is part of many of the above blocks. We start off basic hacking chall
 #### DIY ASVS self-audit
 
 * OWASP ASVS is the current standard for assessing the security quality and design flaws of a \(web\) application, and it's the developers who know the answers to the ASVS audit questions. So we take developers to a short journey in assessing the security properties of their applications.
-
-### Extras _\[optional\]_
-
-Upon request we also deliver additional blocks:
-
-* K: In case of languages and frameworks our trainers are familiar with as auditors we can deliver an additional day to let developers apply the knowledge and skills learnt against their own codes. We call it the 'Assisted code-review lab'. 
-* L-N: We also suggest one of the related add-on courses: S-SDLC playbook Hacking applications Security test automation in CI/CD pipelines
 
 ## Trainers
 

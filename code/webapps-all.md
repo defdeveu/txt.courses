@@ -8,25 +8,15 @@ description: >-
 
 ## About the course
 
-### Overview
-
-XOX
-
-{% hint style="warning" %}
-Work in progress
-{% endhint %}
-
 ### Properties
 
 title: **Webapp development with security in mind**
 
-revision: R1811i %wip
+**audience**: senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
 
-audience: senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
+**duration**: 2 days \(12 hrs education time\) in the standard case
 
-duration: 2 days \(12 hrs education time\) in the standard case
-
-options: DIY code and ASVS audit; [assisted code-review lab](../ctrl/codereview-lab.md); [S-SDLC playbook](../ctrl/ssdlc-playbook.md)
+**options**: DIY code and ASVS audit; [assisted code-review lab](../ctrl/codereview-lab.md); [S-SDLC playbook](../ctrl/ssdlc-playbook.md)
 
 developed by: Glenn ten Cate, Péter Nyilasy, Marek Zachara
 
