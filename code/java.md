@@ -7,9 +7,7 @@ description: >-
 
 # Java
 
-## About the course
-
-### Overview
+## About the workshop
 
 The two-days Java security workshop covers the fundamentals of secure coding in a web-related environment. We can on the fly flex the training to meet the level and the experiences of the audience.
 

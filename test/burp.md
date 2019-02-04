@@ -6,11 +6,9 @@ description: >-
 
 # Burp for developers
 
-## About the course
+## About the workshop
 
-### Overview
-
-The purpose of the training is to provide testers and developers an overview how the Burp suite can be used for web testing work. Even though Burp is primarily designed for penetration testers, its sophisticated capabilities can come handy for everyone whose job is to perform general bug hunting in web applications.
+The purpose of the workshop is to provide testers and developers an overview how the Burp suite can be used for web testing work. Even though Burp is primarily designed for penetration testers, its sophisticated capabilities can come handy for everyone whose job is to perform general bug hunting in web applications.
 
 By the end of the training, participants will have a general understanding of how web applications work under the hood, how to use Burp for troubleshooting errors and how to utilize Burp's tool set for re-creation of error conditions by manual HTTP traffic manipulation.
 

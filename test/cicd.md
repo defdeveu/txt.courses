@@ -4,7 +4,7 @@ description: XOX headline
 
 # Security test automation in CI/CD pipelines
 
-## About the course
+## About the workshop
 
 ### Properties
 
@@ -13,6 +13,11 @@ title: **Security test automation in CI/CD pipelines**
 **duration**: 1 day \(6hrs education time\)
 
 developed by: [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
+
+### Related courses
+
+* [Docker security](../ops/docker.md)
+* [Mobile testing automation](mobile-testing-automation.md)
 
 ## Agenda
 

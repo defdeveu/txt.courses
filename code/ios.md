@@ -1,10 +1,8 @@
 # iOS
 
-## About the course
+## About the workshop
 
-### Overview
-
-Our iOS training aims to provide an insight into every aspect of secure mobile application development. In order to cover everything a developer needs to commit and publish secure code through the App Store, the agenda is built from the ground up and has been designed to provide practical exercises throughout the entire training.
+Our iOS workshop aims to provide an insight into every aspect of secure mobile application development. In order to cover everything a developer needs to commit and publish secure code through the App Store, the agenda is built from the ground up and has been designed to provide practical exercises throughout the entire training.
 
 After a short introduction, we take a look at the overall Apple/iOS philosophy, the OS security features and their implications on the daily life of a developer. We take a look at typical issues in iOS applications \(many of those result in immediate rejection from App Store upload\), how problematic challenges can be tackled and how typical pitfalls can be avoided. Throughout the course, a plethora of in-house demo applications are provided to highlight issues.
 

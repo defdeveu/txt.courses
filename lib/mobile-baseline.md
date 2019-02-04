@@ -2,8 +2,6 @@
 
 ## About the course
 
-### Overview
-
 The course provides a solid overview about how mobile applications can be viewed from a hacker's perspective. Besides introducing the audience to concepts and ideas, the participants are also provided with examples and demo applications for common hacking tools, exploiting security pitfalls, design and implementation mistakes.
 
 ### Properties

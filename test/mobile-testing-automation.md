@@ -1,12 +1,8 @@
 # Mobile testing automation
 
-## About the course
+## About the workshop
 
-### Overview
-
-Mobile security test automation focuses on how to set up security test automation in your CI/CD pipelines. But also how to create an agnostic pipeline approach that works over different CI tooling.
-
-Build once, run everywhere!
+Mobile security test automation workshop focuses on how to set up security test automation in your CI/CD pipelines. But also how to create an agnostic pipeline approach that works over different CI tooling. **Build once, run everywhere!**
 
 In the course we will in depth cover different security tooling for mobile software development. We cover static analysis tools and dynamic analysis tools, and in what stages of development to introduce these tools. By learning the tools that the hackers will run against your application, we will learn how to create more robust and hardened applications.
 
@@ -26,21 +22,21 @@ developed by: [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
 
 ### Prerequisites
 
-We assume that the developers attending the preps mobile secdev course:
-
-* are familiar with with the mobile apps development process and technologies
+Familiarity with with the mobile apps development process and technologies.
 
 ### Related courses
 
 * [Android security design and secure coding](../code/android.md)
 * [iOS security design and secure coding](../code/ios.md)
 * [Mobile security baseline](../lib/mobile-baseline.md)
+* [Security test automation in CI/CD pipelines](cicd.md)
+* [Docker security](../ops/docker.md)
 
 ## Agenda
 
 #### Introduction + setup
 
-* This part covers the Introduction to setting up security test automation in the CI/CD pipelines. Here we cover things as tool selection and how you set up a vulnerability management system. Here we also make sure all the participants get access to different platforms such as defect dojo, gitlab, kubernetes, and the intentionally vulnerable software used for the course.
+* This part covers the introduction to setting up security test automation in the CI/CD pipelines. Here we cover things as tool selection and how you set up a vulnerability management system. Here we also make sure all the participants get access to different platforms such as defect dojo, gitlab, kubernetes, and the intentionally vulnerable software used for the course.
 
 #### Running your first pipeline
 

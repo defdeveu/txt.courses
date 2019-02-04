@@ -1,10 +1,8 @@
 # Docker security
 
-## About the course
+## About the workshop
 
-### Overview
-
-The **Docker** security course is a great course to get some more insights and hands-on experience with Docker security. The topics in this course are the absolute fundamentals of what you should know to work with Docker responsibly. It goes from building minimalistic images to real live exploitation and mitigation of containerized solutions. The strictly Docker related part takes only half day. 
+The **Docker** security workshop is a great course to get some more insights and hands-on experience with Docker security. The topics in this course are the absolute fundamentals of what you should know to work with Docker responsibly. It goes from building minimalistic images to real live exploitation and mitigation of containerized solutions. The strictly Docker related part takes only half day. 
 
 In the one-day long \(extended\) version of the course we will not only learn Docker security, but also get means to continuously scan for vulnerabilities in for both appsec and infrastructure. Armed with this knowledge we can get a great understanding of the progression of the security maturity of your company. However, knowledge is useless if we have no effective way to handle it. Because of this the '**Security test automation**' part of the course also introduces means of setting up a vulnerability management process.
 
@@ -15,6 +13,12 @@ title: **Docker security**
 **duration**: normal: 0.5 day \(3hrs education time\); extended: 1 day
 
 developed by: [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
+
+### Related courses
+
+* [Mobile testing automation](../test/mobile-testing-automation.md)
+* [Security test automation in CI/CD pipelines](../test/cicd.md)
+* [AWS security](aws.md)
 
 ## Agenda
 
@@ -50,7 +54,7 @@ developed by: [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
 
 #### Security test automation 
 
-* How to create a schalable and CI platform agnostic approach for integrating security test automation into your organizations CI/CD pipelines.
+* How to create a scalable and CI platform agnostic approach for integrating security test automation into your organizations CI/CD pipelines.
 
 #### Vulnerability management system 
 

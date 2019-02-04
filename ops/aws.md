@@ -6,8 +6,6 @@ description: XOX headline
 
 ## About the course
 
-### Overview
-
 In today's world more and more companies decide to move their businesses to a cloud. It means that the success of a company is more dependent on those cloud services. While some security responsibilities are taken by the provider, the configuration and management of the cloud environment is still among the duties of the customer. There are thousands of stories showing that this task is not a trivial one.
 
 During the AWS security course you will learn key security concepts on how to stay secure and compliant using the AWS cloud. The course is designed to be as much practical as possible containing common pitfalls in form of hands-on labs. During the labs you do not only learn how to properly configure AWS services, but you will also find misconfigurations there from an attacker perspective and get to know how to fix it.
@@ -31,6 +29,11 @@ delivery partner: [**Securing**](https://www.securing.pl/en/index.html) _\*\*_
   * git \(the exact repositories to clone will be provided before the course\)
   * Terraform
   * AWS CLI
+
+### Related courses
+
+* [Docker security](docker.md)
+* [Security test automation in CI/CD pipelines](../test/cicd.md)
 
 ## Agenda
 
