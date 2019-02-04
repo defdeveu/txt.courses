@@ -1,54 +1,40 @@
 # JavaScript
 
-
-
 ## About the course
 
 ### Overview
 
-The one-day javascript security training will cover the fundamentals of secure coding in javascript. We will teach the most important web vulnerabilities related to javascript from the perspective of the developer. They will learn how to find vulnerabilities during testing, how to recognize them within the source-code, how to avoid, and how to mitigate them. We will cover the security-related specialties of javascript, emphasizing some common pitfalls. We will reach an in-depth understanding of XSS, covering all types and flavors, focusing not only on the theory, but practicing on intentionally vulnerable applications and analyzing their source-code. We will raise awareness of several other js vulnerabilities, CSRF, OSRF, clickjacking, tabnabbing as well as some HTML5 related security problems. We will enlighten the significance of CSP and other security-related Http headers. Depending on the needs of the audience we can also present a brief security-evaluation of some popular js technologies \(Angular, React\). 
+The one-day JavaScript security training will cover the fundamentals of secure coding in javascript. We will teach the most important web vulnerabilities related to javascript from the perspective of the developer. They will learn how to find vulnerabilities during testing, how to recognize them within the source-code, how to avoid, and how to mitigate them. We will cover the security-related specialties of javascript, emphasizing some common pitfalls. We will reach an in-depth understanding of XSS, covering all types and flavors, focusing not only on the theory, but practicing on intentionally vulnerable applications and analyzing their source-code. We will raise awareness of several other js vulnerabilities, CSRF, OSRF, clickjacking, tabnabbing as well as some HTML5 related security problems. We will enlighten the significance of CSP and other security-related Http headers. Depending on the needs of the audience we can also present a brief security-evaluation of some popular js technologies \(Angular, React\). 
 
-On the two-days training we do more exercises, thereby deepening the understanding and the awareness of several topics. We can analyze specific technologies \(Angular, React\) in a more detailed manner. We also learn about some tools used by hackers and penetration testers. If time and the structure of the audience allows it, we can even finish the course by analyzing the some of the audience’s own source code, trying to find vulnerabilities and putting into practice what we learned during the course.
+On the two-days training we do more exercises, thereby deepening the understanding and the awareness of several topics. We can analyze specific technologies \(Angular, React\) in a more detailed manner. We also learn about some tools used by hackers and penetration testers. 
+
+If time and the structure of the audience allows it, we can even finish the course by analyzing some of the audience’s own source code, trying to find vulnerabilities and putting into practice what we learned during the course. This can be part of the two-days workshop, or extended to an additional day \(see Related courses below\).
 
 ### Properties
 
 title: **Secure development in Javascript**
 
-revision: R1811i %wip
+**audience**: senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
 
-audience: senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
+**duration**: 2 days \(12 hrs education time\) in the standard case; the core is available in a 1 XL day \(7 hrs\), 3 days if combined with additional modules \(see the Related courses below\)
 
-duration: 2 days \(12 hrs education time\) in the standard case; 1 XL day \(7 hrs\)
+JS specific parts are developed by: [Péter Nyilasy](../trainers/peter-nyilasy.md)  
 
-options: DIY code and ASVS audit; [assisted code-review lab](../ctrl/codereview-lab.md); [S-SDLC playbook](../ctrl/ssdlc-playbook.md)
+Many parts developed by: [Glenn ten Cate](../trainers/glenn-ten-cate.md), [Marek Zachara](../trainers/marek-zachara.md)
 
-developed by: Péter Nyilasy, Glenn ten Cate, Marek Zachara
+### Prerequisites
 
-### Agenda structure
+We assume that the developers attending the JS secdev course:
 
-{% hint style="info" %}
-The below agenda represents a collection of topics and classes we deliver on a course, normally or optionally, in depth or in a short version depending on the needs of the client and the actual audience. The below agenda does not represent a lineup of the topics and classes.
-{% endhint %}
+* are familiar with with the JS language
+* understand the HTTP protocol and HTML
+* are familiar with basic security features of an enterprise application \(authentication, authorization, the concept of a session\)
 
-For many of the topics in the below agenda we prepare demos, code fixing exercises, and DIY practices. Most of the hands-ons and other practical exercises are available as cloud instances developed and hosted by defdev.eu.
+### Related courses
 
-A defdev course for developers consists of the following ingredients:
-
-* [Intros](../delivery/agenda-structure.md#intros) \[see block A\]; 
-* [Secure coding](../delivery/agenda-structure.md#secure-coding) \[see block B\]; 
-* [Secure architecting](../delivery/agenda-structure.md#secure-architecting) \[see block C\]; 
-* [Framework/language specifics](../delivery/agenda-structure.md#framework-language-specifics) \[see [block D](webapps-all.md)\]; 
-* [Security testing and audit](../delivery/agenda-structure.md#security-testing-and-audit) \[see [block E](../ctrl/codereview-lab.md)\]; 
-* [Options](../delivery/agenda-structure.md#options)
-
-### Days and kits
-
-By default the duration of a course is 2 days, 12 hours education time in the standard case. But it also can take 3 days depending on the demands, the preferences regarding the coverage or the depth and also the options requested. The general content variants are:
-
-* [2 days, broad coverage](../delivery/kits.md#2-days-broad-coverage)
-* [2 days, in-depth selected topics](../delivery/kits.md#2-days-in-depth-selected-topics) 
-* [3 days, both depth and scope ](../delivery/kits.md#3-days-both-depth-and-scope)
-* [3 days, assisted code-review](../delivery/kits.md#3-days-assisted-code-review)
+* DIY code and ASVS audit
+* [Assisted code-review lab](../ctrl/codereview-lab.md)
+* [S-SDLC playbook](../ctrl/ssdlc-playbook.md)
 
 ## Agenda
 

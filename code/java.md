@@ -35,7 +35,7 @@ Based on their previous knowledge and interest attendees can further choose from
 * HTML5 security 
 * Security of some JS frameworks.
 
-Auditing of the attendees' own source-code, identifying security best-practises of their specific technologies can be part of the two-days workshop, or extended to an additional day \(see Related courses below\).
+Auditing of the attendees' own source-code, identifying security best-practices of their specific technologies can be part of the two-days workshop, or extended to an additional day \(see Related courses below\).
 
 ### Properties
 
@@ -43,9 +43,11 @@ title: **Secure development in Java/JEE**
 
 **audience**: senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
 
-**duration**: 2 days \(12 hrs education time\) in the standard case, 3 days if combined with additional modules \(see the related courses below\)
+**duration**: 2 days \(12 hrs education time\) in the standard case, 3 days if combined with additional modules \(see the Related courses below\)
 
 Java specific parts are developed by: [Péter Nyilasy](../trainers/peter-nyilasy.md)  
+
+Many parts developed by: [Glenn ten Cate](../trainers/glenn-ten-cate.md), [Marek Zachara](../trainers/marek-zachara.md)
 
 ### Prerequisites
 

@@ -1,5 +1,9 @@
 # C/C++ specific
 
+{% hint style="danger" %}
+Work in progress
+{% endhint %}
+
 ## The language specific module
 
 ### Secure coding in C/C++   <a id="secure-coding-in-cpp"></a>

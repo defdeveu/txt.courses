@@ -8,26 +8,19 @@ Work in progress
 
 ### Properties
 
-`title` **Secure development in C/C++**
+title: **Secure development in C/C++**
 
-`revision` R1811i %wip
+**audience**: senior/medior developers, lead devs, testers and security champions
 
-`audience` senior/medior developers, lead devs, testers and security champions \(mostly comprehensible for juniors as well\)
+**duration**: 2 days \(12 hrs education time\) in the standard case
 
-`duration` 2 days \(12 hrs education time\) in the standard case
+developed by: [Marek Zachara](../trainers/marek-zachara.md)
 
-`options` DIY code and ASVS audit; [assisted code-review lab](../ctrl/codereview-lab.md); [S-SDLC playbook](../ctrl/ssdlc-playbook.md)
+### Related courses
 
-`already delivered to` Siemens/evosoft
-
-XOX
-
-### Prerequisites
-
-We assume that the developers attending the Java secdev course:
-
-* are familiar with the C++ language
-* XOX
+* DIY code and ASVS audit
+* [Assisted code-review lab](../ctrl/codereview-lab.md)
+* [S-SDLC playbook](../ctrl/ssdlc-playbook.md)
 
 ## Agenda
 

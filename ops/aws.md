@@ -18,9 +18,7 @@ Furthermore, we will go through AWS security services -- what they are and how t
 
 title: **AWS security**
 
-audience: XOX
-
-duration: normal: 1.5 days \(9hrs education time\); extended: 2 days
+**duration**: normal: 1.5 days \(9hrs education time\); extended: 2 days
 
 developed by: Paweł Rzepa
 

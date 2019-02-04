@@ -6,27 +6,13 @@ description: XOX headline
 
 ## About the course
 
-{% hint style="danger" %}
-Work in progress
-{% endhint %}
-
-### Overview
-
-XOX
-
 ### Properties
 
 title: **Security test automation in CI/CD pipelines**
 
-audience: XOX
+**duration**: 1 day \(6hrs education time\)
 
-duration: 1 day \(6hrs education time\)
-
-developed by: Riccardo ten Cate
-
-### Prerequisites
-
-XOX
+developed by: [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
 
 ## Agenda
 

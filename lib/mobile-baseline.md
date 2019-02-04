@@ -12,11 +12,11 @@ title: **Mobile security baseline**
 
 aka: "Secure coding and design principles for mobile**"**
 
-audience: mobile applications developers, application hackers, security enthusiasts
+**audience**: mobile applications developers, application hackers, security enthusiasts
 
-duration: 3-6hrs education time
+**duration**: 3-6hrs education time
 
-developed by: Zsombor Kovács and Glenn ten Cate
+developed by: [Zsombor Kovács](../trainers/zsombor-kovacs.md) and [Glenn ten Cate](../trainers/glenn-ten-cate.md)
 
 ### Prerequisites
 

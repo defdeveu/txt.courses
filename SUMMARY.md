@@ -14,8 +14,8 @@
 
 ## Testing courses
 
-* [Security test automation in CI/CD pipelines](test/cicd.md)
 * [Mobile testing automation](test/mobile-testing-automation.md)
+* [Security test automation in CI/CD pipelines](test/cicd.md)
 * [Burp for developers](test/burp.md)
 
 ## DevSecOps courses
@@ -25,8 +25,8 @@
 
 ## Control courses
 
-* [S-SDLC playbook](ctrl/ssdlc-playbook.md)
 * [Assisted code-review lab](ctrl/codereview-lab.md)
+* [S-SDLC playbook](ctrl/ssdlc-playbook.md)
 
 ## Library
 

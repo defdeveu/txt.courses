@@ -2,10 +2,6 @@
 
 ## About the course
 
-{% hint style="danger" %}
-Work in progress
-{% endhint %}
-
 ### Overview
 
 The **Docker** security course is a great course to get some more insights and hands-on experience with Docker security. The topics in this course are the absolute fundamentals of what you should know to work with Docker responsibly. It goes from building minimalistic images to real live exploitation and mitigation of containerized solutions. The strictly Docker related part takes only half day. 
@@ -16,15 +12,9 @@ In the one-day long \(extended\) version of the course we will not only learn Do
 
 title: **Docker security**
 
-audience: XOX
+**duration**: normal: 0.5 day \(3hrs education time\); extended: 1 day
 
-duration: normal: 0.5 day \(3hrs education time\); extended: 1 day
-
-developed by: Riccardo ten Cate
-
-### Prerequisites
-
-XOX
+developed by: [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
 
 ## Agenda
 

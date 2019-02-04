@@ -16,9 +16,13 @@ title: **Webapp development with security in mind**
 
 **duration**: 2 days \(12 hrs education time\) in the standard case
 
-**options**: DIY code and ASVS audit; [assisted code-review lab](../ctrl/codereview-lab.md); [S-SDLC playbook](../ctrl/ssdlc-playbook.md)
-
 developed by: Glenn ten Cate, Péter Nyilasy, Marek Zachara
+
+### Related courses
+
+* DIY code and ASVS audit
+* [Assisted code-review lab](../ctrl/codereview-lab.md)
+* [S-SDLC playbook](../ctrl/ssdlc-playbook.md)
 
 ### Agenda structure
 

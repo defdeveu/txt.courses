@@ -18,11 +18,11 @@ By the end of the training, participants will have a general understanding of ho
 
 title: **Burp suite for testers and developers**
 
-audience: application testers \(non-pentesters\), developers
+**audience**: application testers \(non-pentesters\), developers
 
-duration: 2 days \(12hrs education time\)
+**duration**: 2 days \(12hrs education time\)
 
-developed by: Zsombor Kovács
+developed by: [Zsombor Kovács](../trainers/zsombor-kovacs.md)
 
 ### Prerequisites
 
