@@ -9,9 +9,7 @@ description: >-
 
 ## About the workshop
 
-The two-days Java security workshop covers the fundamentals of secure coding in a web-related environment. We can on the fly flex the training to meet the level and the experiences of the audience.
-
-During the course, developers learn how to find vulnerabilities, how to identify them within the source code, how to avoid, and how to mitigate them. We believe that developers understand security concepts at best when it is presented in their own programming language, therefore in this course, every example \(except HTML and js specifics\) are demonstrated via Java code. 
+The two-days Java security workshop covers the fundamentals of secure coding in a web-related environment. During the course, developers learn how to find vulnerabilities, how to identify them within the source code, how to avoid, and how to mitigate them. We believe that developers understand security concepts at best when it is presented in their own programming language, therefore in this course, every example \(except HTML and js specifics\) are demonstrated via Java code. 
 
 Doing exercises is the most fun and most effective way of learning security concepts, and so during the workshop, the attendees will identify and fix security vulnerabilities in [Javulna](https://github.com/defdeveu/javulna), a deliberately vulnerable Java application, developed by us \(available on Github\). 
 
@@ -24,6 +22,8 @@ The course covers the following topics:
 * Client-side vulnerabilities \(XSS, HTML injection, Clickjacking, Tabnabbing\) 
 * Http security-related headers
 * Security of the most fundamental authentication and authorization schemes. 
+
+We can on the fly flex the training to meet the level and the experiences of the audience.
 
 Based on their previous knowledge and interest attendees can further choose from the following topics: 
 
