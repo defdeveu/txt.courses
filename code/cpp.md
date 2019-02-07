@@ -8,7 +8,7 @@ title: **Secure development in C/C++**
 
 **audience**: senior/medior developers, lead devs, testers and security champions
 
-**duration**: 1 or 2 days \(6 or 12 hrs education time\), depending on the actual kit of topics applicable/required \(see Agenda below\) 
+**duration**: 1 or 2 days \(7 or 12 hrs education time\), depending on the actual kit of topics applicable/required \(see Agenda below\) 
 
 developed by: [Marek Zachara](../trainers/marek-zachara.md)
 
