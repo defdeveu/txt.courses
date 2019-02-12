@@ -42,7 +42,8 @@ We assume that the developers attending the preps mobile secdev course:
 
 #### Mobile architectures are secure by design, why do we care
 
-* API security, what will hit the server-side via a rooted mobile device 
+* API security, what will hit the server-side via a rooted mobile device
+* The attack potential of an intercepting attacker with traffic manipulation capabilities 
 
 #### Cryptography basics
 
