@@ -24,12 +24,11 @@ developed by: [Zsombor Kovács](../trainers/zsombor-kovacs.md)
 
 We assume that the developers attending the iOS secdev course:
 
-* are familiar with with the mobile apps development process and technologies
-* have a suitable IDE installed on their laptop \(labs desktop\)
-  * a physical Apple computer \(ideally a MacBook Pro model\)
-  * the latest Xcode with the corresponding SDKs
-  * Apple Developer Account with a distribution profile
-  * test devices that are included in the installed distribution profile
+* Are familiar with with the mobile apps development process and technologies;
+* Have a suitable IDE installed on their MacBook
+  * with Xcode and the latest SDK installed,
+  * and a valid developer profile \(a free limited 7-day developer licence is sufficient\);
+* Ideally bring an iOS device.
 
 ### Related courses
 

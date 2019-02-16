@@ -28,10 +28,10 @@ developed by: [Zsombor Kovács](../trainers/zsombor-kovacs.md)
 
 We assume that the developers attending the Android secdev course:
 
-* are familiar with with the mobile apps development process and technologies
-* have a suitable IDE installed on their laptop \(labs desktop\)
-  * Android Studio installed and configured
-  * Genymotion emulator installed and configured
+* Are familiar with with the mobile apps development process and technologies;
+* Have a suitable IDE installed on their laptop \(labs desktop\) with
+  * Android Studio with 6.0 SDK installed,
+  * Genymotion emulator \(personal licence is sufficient\) with an initialized 6.0 image.
 
 ### Related courses
 
