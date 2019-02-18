@@ -52,5 +52,6 @@
 * [Marek Zachara](trainers/marek-zachara.md)
 * [Péter Nyilasy](trainers/peter-nyilasy.md)
 * [Riccardo ten Cate](trainers/riccardo-ten-cate.md)
+* [Timur Khrotko](trainers/timur-khrotko.md)
 * [Zsombor Kovács](trainers/zsombor-kovacs.md)
 
