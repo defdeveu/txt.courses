@@ -1,6 +1,6 @@
 # Timur Khrotko
 
-Timur Khrotko works as a producer and sometimes trainer at defdev.eu a secdev training project. He manages cybersec projects at secdev.eu and sometimes outsourced audit projects for KPMG. Also you can call him an impresario for hackers and trainers. 
+Timur Khrotko works as a producer and sometimes trainer at defdev.eu a secdev training project. He manages cybersec projects at secdev.eu. Also you can call him an impresario for hackers and trainers. 
 
 Formerly he was running an independent software vendor company, which developed IAM solutions and was awarded by IT Europa for an original IdM methodology. 
 
