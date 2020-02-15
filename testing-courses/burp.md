@@ -6,19 +6,17 @@ description: >-
 
 # Burp for developers
 
-## About the workshop
-
-The purpose of the workshop is to provide testers and developers an overview how the Burp suite can be used for web testing work. Even though Burp is primarily designed for penetration testers, its sophisticated capabilities can come handy for everyone whose job is to perform general bug hunting in web applications.
+The purpose of the workshop is to provide testers and developers an overview how the [Burp Suite](https://portswigger.net/burp) can be used for web testing work. Even though Burp is primarily designed for penetration testers, its sophisticated capabilities can come handy for everyone whose job is to perform general bug hunting in web applications.
 
 By the end of the training, participants will have a general understanding of how web applications work under the hood, how to use Burp for troubleshooting errors and how to utilize Burp's tool set for re-creation of error conditions by manual HTTP traffic manipulation.
 
 ### Properties
 
-title: **Burp suite for testers and developers**
+title: **Burp Suite for testers and developers**
 
 **audience**: application testers \(non-pentesters\), developers
 
-**duration**: 2 days \(12hrs education time\)
+**duration**: 2 days \(12hrs education time\) or 1 XL \(7hrs\)
 
 developed by: [Zsombor Kovács](../trainers/zsombor-kovacs.md)
 

@@ -16,7 +16,7 @@
 
 * [Mobile testing automation](test/mobile-testing-automation.md)
 * [Security test automation in CI/CD pipelines](test/cicd.md)
-* [Burp for developers](test/burp.md)
+* [Burp for developers](testing-courses/burp.md)
 
 ## DevSecOps courses
 
