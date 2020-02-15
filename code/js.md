@@ -6,7 +6,7 @@ The one-day JavaScript security training will cover the fundamentals of secure c
 
 On the two-days training we do more exercises, thereby deepening the understanding and the awareness of several topics. We can analyze specific technologies \(Angular, React\) in a more detailed manner. We also learn about some tools used by hackers and penetration testers. 
 
-If time and the structure of the audience allows it, we can even finish the course by analyzing some of the audience’s own source code, trying to find vulnerabilities and putting into practice what we learned during the course. This can be part of the two-days workshop, or extended to an additional day \(see Related courses below\).
+If time and the structure of the audience allows, we can even finish the course by analyzing some of the audience’s own source code, trying to find vulnerabilities and putting into practice what we learned during the course. This can be part of the two-days workshop, or extended to an additional day \(see Related courses below\).
 
 ### Properties
 
