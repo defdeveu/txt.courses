@@ -16,7 +16,7 @@
 
 * [Mobile testing automation](test/mobile-testing-automation.md)
 * [Security test automation in CI/CD pipelines](test/cicd.md)
-* [Burp for developers](test/burp.md)
+* [Burp for developers](testing-courses/burp.md)
 
 ## DevSecOps courses <a id="ops"></a>
 
@@ -48,6 +48,7 @@
 
 ## Trainers
 
+* [Davide Cioccia](trainers/davide-cioccia.md)
 * [Glenn ten Cate](trainers/glenn-ten-cate.md)
 * [Marek Zachara](trainers/marek-zachara.md)
 * [Péter Nyilasy](trainers/peter-nyilasy.md)
