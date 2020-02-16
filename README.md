@@ -6,9 +6,9 @@ description: >-
 
 # README
 
-defdev secure development trainings are designed to **significantly improve the security quality of the software production** by mastering secure coding skills and through adopting sticky development practices that systematically reduce defects.
+defdeveu secure development trainings are designed to **significantly improve the security quality of the software production** by mastering secure coding skills and through adopting sticky development practices that systematically reduce defects.
 
-This site \(c.defdev.eu\) is a catalog/repertoire of the defdev private trainings/workshops. For the upcoming public and hosted trainings check the [defdev.eu](https://defdev.eu) site.
+This site \(c.defdev.eu\) is a catalog/repertoire of the defdeveu private trainings/workshops. For the upcoming public and hosted trainings check the [defdev.eu](https://defdev.eu) site.
 
 ## Courses/workshops
 
