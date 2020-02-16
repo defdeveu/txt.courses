@@ -12,11 +12,11 @@
 * [C/C++](code/cpp.md)
 * [Webapps in general](code/webapps-all.md)
 
-## Testing courses <a id="test"></a>
+## Testing courses <a id="testx"></a>
 
-* [Mobile testing automation](test/mobile-testing-automation.md)
-* [Security test automation in CI/CD pipelines](test/cicd.md)
-* [Burp for developers](testing-courses/burp.md)
+* [Mobile testing automation](testx/mobile-testing-automation.md)
+* [Security test automation in CI/CD pipelines](testx/cicd.md)
+* [Burp for developers](testx/burp.md)
 
 ## DevSecOps courses <a id="ops"></a>
 

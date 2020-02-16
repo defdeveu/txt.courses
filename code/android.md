@@ -10,7 +10,7 @@ Our Android workshop aims to provide an insight into every aspect of secure mobi
 
 After a short introduction, we take a look at the overall Google/Android philosophy, the OS security features and their implications on the daily life of a developer. We take a look at typical issues in Android applications with some now-infamous bugs and exploits from the past, how problematic challenges can be tackled and how typical pitfalls can be avoided. Throughout the course, a plethora of in-house demo applications are provided to highlight issues.
 
-The '[Mobile security baseline](../lib/mobile-baseline.md)' module can be taken as general preps to this course. While the '[Mobile testing automation](../test/mobile-testing-automation.md)' module greatly extends the coverage of the practical field. 
+The '[Mobile security baseline](../lib/mobile-baseline.md)' module can be taken as general preps to this course. While the '[Mobile testing automation](../testx/mobile-testing-automation.md)' module greatly extends the coverage of the practical field. 
 
 The course has been tested and used successfully with several mobile heavy developer companies.
 
@@ -36,7 +36,7 @@ We assume that the developers attending the Android secdev course:
 ### Related courses
 
 * [Mobile security baseline](../lib/mobile-baseline.md)
-* [Mobile testing automation](../test/mobile-testing-automation.md)
+* [Mobile testing automation](../testx/mobile-testing-automation.md)
 * [iOS security design and secure coding](ios.md)
 
 ## Agenda

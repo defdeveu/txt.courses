@@ -33,7 +33,7 @@ delivery partner: [**Securing**](https://www.securing.pl/en/index.html) _\*\*_
 ### Related courses
 
 * [Docker security](docker.md)
-* [Security test automation in CI/CD pipelines](../test/cicd.md)
+* [Security test automation in CI/CD pipelines](../testx/cicd.md)
 
 ## Agenda
 
