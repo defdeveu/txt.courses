@@ -48,11 +48,11 @@
 
 ## Trainers
 
-* [Davide Cioccia](trainers/davide-cioccia.md)
 * [Glenn ten Cate](trainers/glenn-ten-cate.md)
-* [Marek Zachara](trainers/marek-zachara.md)
+* [Zsombor Kovács](trainers/zsombor-kovacs.md)
+* [Davide Cioccia](trainers/davide-cioccia.md)
 * [Péter Nyilasy](trainers/peter-nyilasy.md)
+* [Marek Zachara](trainers/marek-zachara.md)
 * [Riccardo ten Cate](trainers/riccardo-ten-cate.md)
 * [Timur Khrotko](trainers/timur-khrotko.md)
-* [Zsombor Kovács](trainers/zsombor-kovacs.md)
 
