@@ -2,7 +2,7 @@
 
 * [README](README.md)
 
-## secdev courses
+## secdev courses <a id="code"></a>
 
 * [Java](code/java.md)
 * [JavaScript](code/js.md)
@@ -12,23 +12,23 @@
 * [C/C++](code/cpp.md)
 * [Webapps in general](code/webapps-all.md)
 
-## Testing courses
+## Testing courses <a id="test"></a>
 
 * [Mobile testing automation](test/mobile-testing-automation.md)
 * [Security test automation in CI/CD pipelines](test/cicd.md)
-* [Burp for developers](testing-courses/burp.md)
+* [Burp for developers](test/burp.md)
 
-## DevSecOps courses
+## DevSecOps courses <a id="ops"></a>
 
 * [Docker security](ops/docker.md)
 * [AWS security](ops/aws.md)
 
-## Control courses
+## Control courses <a id="ctrl"></a>
 
 * [Assisted code-review lab](ctrl/codereview-lab.md)
 * [S-SDLC playbook](ctrl/ssdlc-playbook.md)
 
-## Library
+## Library <a id="lib"></a>
 
 * [Mobile security baseline](lib/mobile-baseline.md)
 * [Hacking applications](lib/hacking.md)
