@@ -34,8 +34,8 @@ Also check out the extra addons in a below section which can greatly expand the 
 
 ### Testing courses
 
-* [Security test automation in CI/CD pipelines](testx/cicd.md)
-* [Mobile testing automation](testx/mobile-testing-automation.md)
+* [Security test automation in CI/CD pipelines](test/cicd.md)
+* [Mobile testing automation](test/mobile-testing-automation.md)
 * [Burp for developers](https://github.com/defdeveu/txt.courses/tree/5571bfa8b71602f3250e560212cb02b1dc2e8068/test/burp.md)
 
 ### DevSecOps courses

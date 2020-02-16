@@ -16,8 +16,8 @@ developed by: [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
 
 ### Related courses
 
-* [Mobile testing automation](../testx/mobile-testing-automation.md)
-* [Security test automation in CI/CD pipelines](../testx/cicd.md)
+* [Mobile testing automation](../test/mobile-testing-automation.md)
+* [Security test automation in CI/CD pipelines](../test/cicd.md)
 * [AWS security](aws.md)
 
 ## Agenda
