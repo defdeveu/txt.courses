@@ -26,6 +26,7 @@
 ## Control courses <a id="ctrl"></a>
 
 * [Assisted code-review lab](ctrl/codereview-lab.md)
+* [Practical personal cybersec for security auditors](ctrl/practical-personal-cybersec-for-security-auditors.md)
 * [S-SDLC playbook](ctrl/ssdlc-playbook.md)
 
 ## Library <a id="lib"></a>
