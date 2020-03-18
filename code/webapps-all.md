@@ -143,6 +143,7 @@ Here we can deliver one of the language specific modules:
 * [.NET/C\#](../lib/langs/dotnet-specific.md)
 * [JavaScript](../lib/langs/js-specific.md)
 * Kotlin
+* Python
 * Node.js
 * PHP
 * or even [C/C++](../lib/langs/cpp-specific.md) in case of RESTful development
