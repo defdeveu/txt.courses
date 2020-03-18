@@ -1,3 +1,7 @@
+---
+description: Spring-flavoured
+---
+
 # Security champions boot
 
 ### The training story
