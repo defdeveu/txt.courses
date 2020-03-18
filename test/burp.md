@@ -14,7 +14,7 @@ By the end of the training, participants will have a general understanding of ho
 
 title: **Burp Suite for testers and developers**
 
-**audience**: application testers \(non-pentesters\), developers
+**audience**: application testers, developers, junior pentesters
 
 **duration**: 2 days \(12hrs education time\) or 1 XL \(7hrs\)
 
