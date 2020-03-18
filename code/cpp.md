@@ -98,8 +98,9 @@ The list of modules below illustrate **the scope to choose from**, however the e
 
 ## Trainers
 
-Lead trainer:
+Lead trainers:
 
+* [Davide Cioccia](../trainers/davide-cioccia.md)
 * ​[Marek Zachara](https://c.defdev.eu/~/drafts/-LRimPLzCGCSQqe-UcTB/primary/trainers/marek-zachara)
 
 Co-trainers:

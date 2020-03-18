@@ -173,6 +173,7 @@ When it comes to the actual proposal we define who is supposed to do the deliver
 
 * [Glenn ten Cate](../trainers/glenn-ten-cate.md)
 * [Péter Nyilasy](../trainers/peter-nyilasy.md) 
+* [Davide Cioccia](../trainers/davide-cioccia.md)
 * [Marek Zachara](../trainers/marek-zachara.md) 
 * [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
 

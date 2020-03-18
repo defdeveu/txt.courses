@@ -149,8 +149,7 @@ Here we can deliver one of the language specific modules:
 
 #### JS frameworks _\[optional\]_
 
-* Angular JS/TS
-* Polymer
+* Angular
 * React
 
 #### HTML5 _\[optional\]_
@@ -194,6 +193,7 @@ When it comes to the actual proposal we define who is supposed to do the deliver
 {% endhint %}
 
 * [Glenn ten Cate](../trainers/glenn-ten-cate.md)
+* [Davide Cioccia](../trainers/davide-cioccia.md)
 * [Péter Nyilasy](../trainers/peter-nyilasy.md) 
 * [Marek Zachara](../trainers/marek-zachara.md) 
 * [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)

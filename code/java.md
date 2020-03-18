@@ -202,6 +202,7 @@ Lead trainers:
 
 * [Péter Nyilasy](../trainers/peter-nyilasy.md) 
 * [Glenn ten Cate](../trainers/glenn-ten-cate.md) 
+* [Davide Cioccia](../trainers/davide-cioccia.md)
 
 Co-trainer:
 

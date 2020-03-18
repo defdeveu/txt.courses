@@ -146,8 +146,7 @@ Developed by Riccardo ten Cate
 
 #### JS frameworks _\[optional\]_
 
-* Angular JS/TS
-* Polymer
+* Angular
 * React
 
 #### HTML5 _\[optional\]_
@@ -181,8 +180,9 @@ Practicing is part of many of the above blocks. We start off basic hacking chall
 Check out the trainers' bios in the Trainers section
 {% endhint %}
 
-Lead trainer:
+Lead trainers:
 
+* [Davide Cioccia](../trainers/davide-cioccia.md)
 * [Riccardo ten Cate](../trainers/riccardo-ten-cate.md)
 
 Co-trainers:
