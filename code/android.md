@@ -14,6 +14,8 @@ The '[Mobile security baseline](../lib/mobile-baseline.md)' module can be taken 
 
 The course has been tested and used successfully with several mobile heavy developer companies.
 
+We'll use several demo apps and also work with our vulnerable Kotlin app \(Vulnabank\)..
+
 ### Properties
 
 title: **Android security design and secure coding**
